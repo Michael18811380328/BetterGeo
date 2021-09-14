@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:andesite"
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostairs_andesite",
+    "count": 4
+  }
+}

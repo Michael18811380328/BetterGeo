@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "bettergeo:alloyfurnace" },
+        "facing=south": { "model": "bettergeo:alloyfurnace", "y": 180 },
+        "facing=west":  { "model": "bettergeo:alloyfurnace", "y": 270 },
+        "facing=east":  { "model": "bettergeo:alloyfurnace", "y": 90 }
+    }
+}

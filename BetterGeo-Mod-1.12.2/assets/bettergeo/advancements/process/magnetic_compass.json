@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:MagneticCompass"
+        },
+        "title": {
+            "translate": "advancements.process.magneticCompass"
+        },
+        "description": {
+            "translate": "advancements.process.magneticCompass.desc"
+        }
+    },
+    "parent": "bettergeo:process/root",
+    "criteria": {
+        "lithium": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:MagneticCompass"
+                    }
+                ]
+            }
+        }
+    }
+}

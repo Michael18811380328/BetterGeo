@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:brass"
+        },
+        "title": {
+            "translate": "advancements.process.brass"
+        },
+        "description": {
+            "translate": "advancements.process.brass.desc"
+        }
+    },
+    "parent": "bettergeo:process/alloy_furnace",
+    "criteria": {
+        "brass": {
+        	"trigger": "brass"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "bettergeo:fluegascleaner" },
+        "facing=down": { "model": "bettergeo:fluegascleaner_down" },
+        "facing=north": { "model": "bettergeo:fluegascleaner_sides", "y": 180 },
+        "facing=south": { "model": "bettergeo:fluegascleaner_sides"},
+        "facing=west":  { "model": "bettergeo:fluegascleaner_sides", "y": 90 },
+        "facing=east":  { "model": "bettergeo:fluegascleaner_sides", "y": 270 }
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:sandstone_stairs"
+    ]
+  },
+  "criteria": {
+    "has_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:bettergeosandstone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:sandstone_stairs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sandstone",
+      "has_the_recipe"
+    ]
+  ]
+}

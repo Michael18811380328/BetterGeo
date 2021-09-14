@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:till"
+        },
+        "title": {
+            "translate": "advancements.soil.till"
+        },
+        "description": {
+            "translate": "advancements.soil.till.desc"
+        }
+    },
+    "parent": "bettergeo:soil/root",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:till"
+                    }
+                ]
+            }
+        }
+    }
+}

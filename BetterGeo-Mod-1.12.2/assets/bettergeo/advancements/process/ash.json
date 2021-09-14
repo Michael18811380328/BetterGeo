@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:ash"
+        },
+        "title": {
+            "translate": "advancements.process.ash"
+        },
+        "description": {
+            "translate": "advancements.process.ash.desc"
+        }
+    },
+    "parent": "bettergeo:process/smeltery",
+    "criteria": {
+        "ash": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:ash"
+                    }
+                ]
+            }
+        }
+    }
+}

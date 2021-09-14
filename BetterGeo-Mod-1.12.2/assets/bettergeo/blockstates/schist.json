@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=animated0": { "model":"bettergeo:schist_animated0" },
+        "type=animated1": { "model":"bettergeo:schist_animated1" },
+        "type=animated2": { "model":"bettergeo:schist_animated2" },
+        "type=animated3": { "model":"bettergeo:schist_animated3" },
+        "type=animated4": { "model":"bettergeo:schist_animated4" },
+        "type=animated5": { "model":"bettergeo:schist_animated5" }
+    }
+}

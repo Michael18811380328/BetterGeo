@@ -1,0 +1,464 @@
+tile.Granite.name=Graniitti
+tile.Granitebrick.name=Graniittitiili
+tile.Andesite.name=Andesiitti
+tile.AndesiteBrick.name=Andesiittitiili
+tile.Diorite.name=Dioriitti
+tile.DioriteBrick.name=Dioriittitiili
+tile.Gneiss.name=Gneissi
+tile.Gneissbrick.name=Gneissitiili
+tile.Gabbro.name=Gabro
+tile.GabbroBrick.name=Gabrotiili
+tile.GabbroTitanium.name=Gabro jossa titaania
+tile.GabbroRedstone.name=Gabro jossa kuparia
+tile.Limestone.name=Kalkkikivi
+tile.Limestonebrick.name=Kalkkikivitiili
+tile.LimestoneCoal.name=Kalkkikivi jossa hiiltä
+tile.Magma.name=Magma
+tile.Marble.name=Marmori
+tile.MarbleLapis.name=Marmori jossa lapislatsulia
+tile.Marblebrick.name=Marmoritiili
+tile.Schist.name=Liuske
+tile.Schistbrick.name=Liusketiili
+tile.Shale.name=Savikivi
+tile.AlumShale.name=Alunaliuske
+tile.Shalebrick.name=Savikivitiili
+tile.Kimberlite.name=Kimberliitti
+tile.KimberliteDiamond.name=Kimberliitti jossa timantteja
+tile.Diabase.name=Diabaasi
+tile.Diabasebrick.name=Diabaasitiili
+tile.Pegmatite.name=Pegmatiitti
+tile.Quartz.name=Kvartsi
+tile.Quartzbrick.name=Kvartsitiili
+tile.QuartzGold.name=Kvartsi jossa kultaa
+tile.QuartzSilver.name=Kvartsi jossa hopeaa
+tile.Skarn.name=Karsi
+tile.SGUSand.name=Hiekka
+tile.SGUSandstone.name=Hiekkakivi
+tile.SGUSandstoneSmooth.name=Sileä hiekkakivi
+tile.SGUSandstoneChiseled.name=Hakattu hiekkakivi
+tile.SandstoneCoal.name=Hiekkakivi jossa hiiltä
+tile.Viscaria.name=Pikkutervakko
+tile.Basalt.name=Basaltti
+tile.Bauxite.name=Bauksiitti
+tile.Pumice.name=Hohkakivi
+tile.BandedIron.name=Raitainen rautamuodostuma
+tile.Ash.name=Tuhka
+
+tile.Peat.name=Turve
+tile.PeatBlock.name=Turvekuutio
+tile.PeatGrass.name=Ruohon peittämä turve
+tile.Sphagnum.name=Rahkasammal
+tile.Moraine_0.name=Moreeni
+tile.Moraine_1.name=Lohkareinen moreeni
+tile.Moraine_2.name=Savipitoinen moreeni
+tile.MoraineGrass_0.name=Ruohon peittämä moreeni
+tile.MoraineGrass_1.name=Ruohon peittämä lohkareinen moreeni
+tile.MoraineGrass_2.name=Ruohon peittämä savipitoinen moreeni
+tile.Mulch.name=Multa
+tile.GlacialErratic.name=Siirtolohkare
+tile.WeatheredTropicalSoil.name=Rapautunut trooppinen maa-aines
+tile.WeatheredTropicalSoilGrass.name=Ruohon peittämä rapautunut trooppinen maa-aines
+tile.Pebble.name=Pikkukivi
+
+tile.AlloyFurnace.name=Seosmetallien sulatusuuni
+tile.Smeltery.name=Sulatto
+tile.BatteryCharger.name=Akkulaturi
+tile.PolishingMachine.name=Hiontakone
+tile.RecycleStation.name=Kierrätysasema
+tile.FlueGasCleaner.name=Savukaasunpuhdistin
+
+tile.AquamarineBlock.name=Akvamariinikuutio
+tile.CordieriteBlock.name=Kordieriittikuutio
+tile.GarnetBlock.name=Granaattikuutio
+tile.TopazBlock.name=Topaasikuutio
+tile.TantalumBlock.name=Tantaliittikuutio
+tile.TourmalineBlock.name=Turmaliinikuutio
+tile.FeldsparBlock.name=Maasälpäkuutio
+
+tile.DisplayCaseBrassBlock.name=Messinkinen vitriini
+tile.DisplayCaseBronzeBlock.name=Pronssinen vitriini
+tile.DisplayCaseSteelBlock.name=Teräksinen vitriini
+
+item.Garnet.name=Granaatti
+item.Aquamarine.name=Akvamariini
+item.Topaz.name=Topaasi
+item.Tourmaline.name=Turmaliini
+item.Tantalum.name=Tantaliitti
+item.UnusableDiamond.name=Käyttökelvoton timantti
+item.TantalumIngot.name=Tantaliittiharkko
+item.Cordierite.name=Kordieriitti
+item.Steel.name=Teräs
+item.Brass.name=Messinki
+item.Bronze.name=Pronssi
+item.Silver.name=Hopea
+item.SilverIngot.name=Hopeaharkko
+item.Zincblende.name=Sinkkivälke
+item.ZincIngot.name=Sinkkiharkko
+item.Tin.name=Kassiteriitti
+item.TinIngot.name=Tinaharkko
+item.Titanium.name=Titaani
+item.TitaniumIngot.name=Titaaniharkko
+item.Lithium.name=Spodumeeni
+item.LithiumIngot.name=Litiumharkko
+item.Feldspar.name=Maasälpä
+item.SGUIronOre.name=Rautamalmi
+item.LimestoneDust.name=Kalkkikivipöly
+item.MagneticCompass.name=Magneettikompassi
+item.MonsterScanner.name=Hirviötutkain
+item.LithiumBattery.name=Litiumakku
+item.REE.name=Monatsiitti
+item.REEIngot.name=Harvinaisten maametallien harkko
+item.Aluminum.name=Alumiini
+item.AluminumIngot.name=Alumiiniharkko
+item.Wolfram.name=Wolframiitti
+item.WolframIngot.name=Volframiharkko
+item.CopperIngot.name=Kupariharkko
+item.WoodProspectorsPan.name=Vaskooli
+item.SteelProspectorsPan.name=Teräsvaskooli
+item.Slag.name=Kuona
+item.ZincBlendeSlag.name=Sinkkikuona
+item.IronSlag.name=Rautamalmikuona
+item.BauxiteSlag.name=Bauksiittikuona
+item.GabbroSlag.name=Gabrokuona
+item.SlagWaste.name=Kuonankäsittelyn jäte
+item.Jetpack.name=Rakettireppu
+item.FireProximitySuitHelmet.name=Kuumansuojapuvun kypärä
+item.FireProximitySuitChestplate.name=Kuumansuojapuvun takki
+item.FireProximitySuitLeggings.name=Kuumansuojapuvun housut
+item.FireProximitySuitBoots.name=Kuumansuojapuvun jalkineet
+item.Defibrillator.name=Defibrillaattori
+item.SandPaper.name=Hiekkapaperi
+item.BetterGeoBook.name=BetterGeo-kirja
+item.MetalBoat.name=Metallivene
+item.ConductivityMeter.name=Sähkönjohtavuusmittari
+item.Brachiopod.name=Lonkerojalkainen
+item.Ammonite.name=Ammoniitti
+item.Trilobite.name=Trilobiitti
+item.CompostEarth.name=Kompostimulta
+item.PeatPellets.name=Turvepelletit
+
+
+tile.sguStoneSlab1.diabase.name=Diabaasilaatta
+tile.sguStoneSlabBrick1.diabase.name=Diabaasitiililaatta
+tile.sguStoneSlab1.gabbro.name=Gabrolaatta
+tile.sguStoneSlabBrick1.gabbro.name=Gabrotiililaatta
+tile.sguStoneSlab1.gneiss.name=Gneissilaatta
+tile.sguStoneSlabBrick1.gneiss.name=Gneissitiililaatta
+tile.sguStoneSlab1.granite.name=Graniittilaatta
+tile.sguStoneSlabBrick1.granite.name=Graniittitiililaatta
+tile.sguStoneSlab2.diorite.name=Dioriittilaatta
+tile.sguStoneSlabBrick2.diorite.name=Dioriittitiililaatta
+tile.sguStoneSlab2.andesite.name=Andesiittilaatta
+tile.sguStoneSlabBrick2.andesite.name=Andesiittitiililaatta
+tile.sguStoneSlab1.kimberlite.name=Kimberliittilaatta
+tile.sguStoneSlab1.limestone.name=Kalkkikivilaatta
+tile.sguStoneSlabBrick1.limestone.name=Kalkkikivitiililaatta
+tile.sguStoneSlab1.marble.name=Marmorilaatta
+tile.sguStoneSlabBrick1.marble.name=Marmoritiililaatta
+tile.sguStoneSlab2.shale.name=Savikivilaatta
+tile.sguStoneSlabBrick2.shale.name=Savikivitiililaatta
+tile.sguStoneSlab2.schist.name=Liuskelaatta
+tile.sguStoneSlabBrick2.schist.name=Liusketiililaatta
+tile.sguStoneSlab2.skarn.name=Karsilaatta
+tile.sguStoneSlab2.quartz.name=Kvartsilaatta
+tile.sguStoneSlabBrick2.quartz.name=Kvartsitiililaatta
+tile.sguStoneSlab2.sandstone.name=Hiekkakivilaatta
+
+tile.sguStoneStair.Diabase.name=Diabaasiportaat
+tile.sguStoneBrickStair.Diabasebrick.name=Diabaasitiiliportaat
+tile.sguStoneStair.Gabbro.name=Gabroportaat
+tile.sguStoneBrickStair.GabbroBrick.name=Gabrotiiliportaat
+tile.sguStoneStair.Gneiss.name=Gneissiportaat
+tile.sguStoneBrickStair.Gneissbrick.name=Gneissitiiliportaat
+tile.sguStoneStair.Granite.name=Graniittiportaat
+tile.sguStoneBrickStair.Granitebrick.name=Graniittitiiliportaat
+tile.sguStoneStair.Diorite.name=Dioriittiportaat
+tile.sguStoneBrickStair.DioriteBrick.name=Dioriittitiiliportaat
+tile.sguStoneStair.Andesite.name=Andesiittiportaat
+tile.sguStoneBrickStair.AndesiteBrick.name=Andesiittitiiliportaat
+tile.sguStoneStair.Kimberlite.name=Kimberliittiportaat
+tile.sguStoneStair.Limestone.name=Kalkkikiviportaat
+tile.sguStoneBrickStair.Limestonebrick.name=Kalkkikivitiiliportaat
+tile.sguStoneStair.Diabase.name=Diabaasiportaat
+tile.sguStoneStair.Marble.name=Marmoriportaat
+tile.sguStoneBrickStair.Marblebrick.name=Marmoritiiliportaat
+tile.sguStoneStair.Schist.name=Liuskeportaat
+tile.sguStoneBrickStair.Schistbrick.name=Liusketiiliportaat
+tile.sguStoneStair.Shale.name=Savikiviportaat
+tile.sguStoneBrickStair.Shalebrick.name=Savikivitiiliportaat
+tile.sguStoneStair.Skarn.name=Karsiportaat
+tile.sguStoneStair.SGUSandstone.name=Hiekkakiviportaat
+tile.sguStoneStair.SGUSandstoneChiseled.name=Portaat hakatusta hiekkakivestä
+tile.sguStoneStair.SGUSandstoneSmooth.name=Portaat sileästä hiekkakivestä
+tile.betterGeoBookShelfRock.name=Kivilajien kirjahylly
+tile.betterGeoBookShelfMetallurgy.name=Metallurgian kirjahylly
+tile.betterGeoBookShelfMineral.name=Mineraalien kirjahylly
+tile.betterGeoBookShelfSoil.name=Maa-ainesten kirjahylly
+
+itemGroup.BetterGeo=BetterGeo
+itemGroup.BetterGeoBooks=BetterGeo-kirjat
+container.smeltery=Sulatto
+container.alloyfurnace=Seosmetallien sulatusuuni
+container.batterycharger=Akkulaturi
+container.polishingMachine=Hiontakone
+container.recyclestation=Kierrätysasema
+container.metallurgy=Metallurgian kirjahylly
+container.mineral=Mineraalien kirjahylly
+container.soil=Maa-ainesten kirjahylly
+container.rock=Kivilajien kirjahylly
+
+
+#Redstone to Copper
+
+tile.redstoneDust.name=Kuparipöly
+tile.oreRedstone.name=Kuparimalmi
+item.redstone.name=Kupari
+tile.redstoneLight.name=Kuparinen lamppu
+tile.notGate.name=Kuparinen soihtu
+itemGroup.redstone=Kupari
+tile.blockRedstone.name=Kuparikuutio
+item.diode.name=Kuparinen toistin
+item.comparator.name=Kuparinen komparaattori
+
+#Messages
+panning.notallowed=Voit huuhtoa vain hiekkaa, joka on veden alla joessa, joen lähellä tai rannalla
+monsterscanner.nocharge=Hirviötutkaimen varaus on loppu
+conductivitymeter.nocharge=Sähkönjohtavuusmittarin varaus on loppu
+
+#Text
+sgubook.text.1=BetterGeo – geologiamodi Ruotsin Geologian tutkimuskeskukselta.
+sgubook.text.2=Haluamme useampien ihmisten huomaavan miten hauskaa, kiinnostavaa ja tärkeää geologia on.
+sgubook.text.3=Siksipä loimme BetterGeon!
+sgubook.text.4=Lisätietoja geologiasta löydät osoitteesta: www.sgu.se/en
+
+farmland.nofarm_blocky=Maanviljely lohkareisessa moreenissa on mahdotonta
+
+defibrillator.use=Defibrillaattorisi pelasti henkesi!
+
+sandpaper.usage=Älä käytä hiekkapaperia vaan riko kuutio sillä
+
+batterycharger.lithiumbatterycharge=Et voi ladata akkua suoraan. Rakenna akkua käyttävä esine ja lataa sitä
+
+death.attack.pollution=%1$s kuoli saasteiden vuoksi
+
+achievement.feldspar=Maailman yleisin mineraali
+achievement.feldspar.desc=Löydä maasälpää pegmatiitista, graniitista tai gneissistä
+achievement.smeltery=Sulaa hulluutta
+achievement.smeltery.desc=Rakenna sulatto uunista ja kahdeksasta maasälvästä
+achievement.alloyFurnace=Sekaisin seosmetalleista
+achievement.alloyFurnace.desc=Rakenna seosmetallien sulatusuuni sulatosta ja tiilistä
+achievement.flueGasCleaner=Aika puhdistaa ilma
+achievement.flueGasCleaner.desc=Asenna sulattoon savukaasunpuhdistin
+achievement.smeltItem=Kuinka jaloa
+achievement.smeltItem.desc=Jalosta malmia sulatossa
+achievement.ash=Siivoa jälkesi
+achievement.ash.desc=Poista tuhkaa maasta
+achievement.slag=Kerran vielä
+achievement.slag.desc=Kierrätä sulatosta saatavaa kuonaa
+achievement.steel=Terästäydy
+achievement.steel.desc=Valmista terästä raudasta, hiilestä ja volframista
+achievement.brass=Metallia musiikkiin
+achievement.brass.desc=Valmista messinkiä kuparista ja sinkistä
+achievement.bronze=Kolmossija
+achievement.bronze.desc=Valmista pronssia kuparista ja tinasta
+achievement.metalBoat=Uppoamaton
+achievement.metalBoat.desc=Valmista vene teräksestä
+achievement.rideInLava=Vulkanologi
+achievement.rideInLava.desc=Matkusta laavassa metalliveneellä
+achievement.displayCase=Näytön paikka
+achievement.displayCase.desc=Rakenna vitriini
+achievement.recycling=Kiertotalous
+achievement.recycling.desc=Rakenna kierrätysasema
+
+achievement.pegmatite=Tämä on vasta alkua
+achievement.pegmatite.desc=Löydä pegmatiittia
+achievement.lithium=Akkumineraali
+achievement.lithium.desc=Löydä litiumia pegmatiitista
+achievement.lithiumBattery=Voimanlähde
+achievement.lithiumBattery.desc=Valmista akku teräksestä ja litiumista
+achievement.monsterScanner=pshhhhh... PAM
+achievement.monsterScanner.desc=Valmista hirviötutkain
+achievement.charge=Varauksella
+achievement.charge.desc=Lataa jotakin akkulaturissa
+achievement.defribilator=Toinen mahdollisuus
+achievement.defribilator.desc=Selviä hengissä defibrillaattorin ansiosta
+achievement.garnet=Kova kuin kivi
+achievement.garnet.desc=Löydä granaatti pegmatiitista
+achievement.polish=Oletpa karkea
+achievement.polish.desc=Valmista hiekkapaperia granaatista, paperista ja limapalloista
+achievement.polishMachine=Hohto
+achievement.polishMachine.desc=Valmista hiontakone
+
+achievement.quartz=Vuorikristalli
+achievement.quartz.desc=Löydä kvartsia
+achievement.quartzSilver=Hopeasurffari
+achievement.quartzSilver.desc=Löydä hopeaa kvartsista
+achievement.fireProximitySuit=Tulenkestävä
+achievement.fireProximitySuit.desc=Pukeudu kuumansuojapukuun
+
+achievement.bauxite=Viidakon Ykä
+achievement.bauxite.desc=Löydä bauksiittia
+achievement.aluminium=Maailman yleisin metalli
+achievement.aluminium.desc=Jalosta alumiinia sulatossa
+achievement.jetpack=Taivas on rajana
+achievement.jetpack.desc=Rakenna rakettireppu
+
+achievement.viscaria=Kukkaisvoimaa
+achievement.viscaria.desc=Poimi pikkutervakko
+achievement.copper=Varsin punainen kivi
+achievement.copper.desc=Löydä kuparia
+
+achievement.prospectorsPan=Ei mikä tahansa pannu
+achievement.prospectorsPan.desc=Valmista vaskooli tikuista tai teräksestä
+achievement.goldDigger=Aarteenmetsästys
+achievement.goldDigger.desc=Etsi jokien rikkauksia
+
+achievement.pebble=Korkein rantaviiva
+achievement.pebble.desc=Löydä pikkukiviä korkeimmalta rantaviivalta
+achievement.glacialErratic=Jälkeenjäänyt jättiläinen
+achievement.glacialErratic.desc=Löydä siirtolohkareita
+achievement.redSand=Väristyksiä
+achievement.redSand.desc=Värjää hiekkaa rautamalmikuonalla
+achievement.moraine=Jääkauden jäänteet
+achievement.moraine.desc=Löydä moreenia, savipitoista moreenia tai lohkareista moreenia
+achievement.peat=Orgaaninen maalaji
+achievement.peat.desc=Löydä turvetta
+achievement.mulch=Kasvun aika
+achievement.mulch.desc=Valmista multaa turpeesta, kompostista ja savipitoisesta moreenista tai savesta
+achievement.peatPellets=Energiaa
+achievement.peatPellets.desc=Kuivata turvetta työpenkissä ja käytä sitä polttoaineena
+
+achievement.magneticCompass=Magneettinen apuri
+achievement.magneticCompass.desc=Valmista magneettikompassi raitaisten rautamuodostumien löytämiseksi
+achievement.rocker=Retu Kivinen
+achievement.rocker.desc=Täytä kivilajien kirjahylly
+achievement.mineralHunter=Mineraalinmetsästäjä
+achievement.mineralHunter.desc=Täytä mineraalien kirjahylly
+achievement.alloyer=Seostaja
+achievement.alloyer.desc=Täytä seosmetallien kirjahylly
+achievement.earthling=Maan matonen
+achievement.earthling.desc=Täytä maa-ainesten kirjahylly
+achievement.earthKnower=Maantietäjä
+achievement.earthKnower.desc=Täytä kaikki kirjahyllyt
+
+#BetterGeo bookshelf
+
+bettergeobookshelf.alreadyhavebook=Kirjahyllyssäsi on jo tuo kirja
+bettergeobookshelf.wrongbook=Tätä kirjaa ei voi laittaa tähän kirjahyllyyn
+bettergeobookshelf.readbooks=Lue kirjoja
+
+#BetterGeo books
+
+bettergeobook.title.unknown=Tuntematon nimike
+bettergeobook.type.Rock=Kivilajit
+bettergeobook.type.Mineral=Mineraalit
+bettergeobook.type.Soil=Maa-ainekset
+bettergeobook.type.Metallurgy=Metallurgia
+
+#Soil
+
+bettergeobook.title.moraine_0=Moreeni
+bettergeobook.text.moraine_0=Moreeni on Suomen yleisin maalaji ja peittää noin 48 prosenttia Suomen maa-alueesta. Se muodostui mannerjäätikön murskatessa ja siirtäessä kiviä ja maa-ainesta. Moreeni on lajittumaton maalaji, eli siinä voi olla keskenään sekoittuneena savea, hiekkaa, soraa, kiviä - ja jopa suuria lohkareita.
+bettergeobook.title.moraine_1=Lohkareinen moreeni
+bettergeobook.text.moraine_1=Aivan kuten tavallinenkin moreeni, lohkareinen moreeni muodostui mannerjäätikön murskatessa ja siirtäessä kiviä ja maa-ainesta. Tämän kaltainen moreeni sisältää nimensä mukaisesti merkittävän määrän lohkareita, jotka ovat läpimitaltaan usein yli yksimetrisiä. Lohkareiden suuri määrä tekee lohkareisesta moreenista muodostuvasta alueesta vaikeasti kaivettavan ja hankalakulkuisen useimmille ajoneuvoille. Tämän tyyppinen moreeni ei sovellu maanviljelykseen.
+bettergeobook.title.moraine_2=Savipitoinen moreeni
+bettergeobook.text.moraine_2=Aivan kuten tavallinenkin moreeni, savipitoinen moreeni muodostui mannerjäätikön murskatessa ja siirtäessä kiviä ja maa-ainesta. Tämän tyyppinen moreeni on verraten harvinaista, ja sitä löytyy alueilta, joissa on helposti rapautuvia kivilajeja kuten kalkkikiveä, savikiveä ja hiekkakiveä. Savipitoisessa moreenissa on korkeampi savipitoisuus (yli 15 prosenttia), ja se soveltuu maanviljelykseen.
+bettergeobook.title.pebble=Pikkukivet
+bettergeobook.text.pebble=Pikkukivet koostuvat pelkästään sorasta, ja siksi sitä kutsutaan lajittuneeksi maalajiksi. Aallot ovat huuhtoneet pois muun aineksen, kuten hiekan tai saven, jättäen jäljelle pelkän soran. Sileät, pyöreät pikkukivet merkitsevät toisinaan korkeimman rantaviivan eli tason, johon vesi ylsi mannerjäätikön sulamisen jälkeen.
+bettergeobook.title.glacialerratic=Siirtolohkare
+bettergeobook.text.glacialerratic=Siirtolohkareet ovat valtavia lohkareita, jotka jäätiköt tai mannerjäätiköt ovat irrottaneet kallioperästä ja siirtäneet mukanaan. Lohkare kulkee jäätikön mukana jään sulamiseen asti, minkä jälkeen lohkare jää paikalleen maastoon. Siirtolohkareen koostumus voi olla erilainen kuin ympäröivän kallion.
+bettergeobook.title.peat=Turve
+bettergeobook.text.peat=Turve on orgaaninen maalaji, joka muodostuu osittain maatuneiden kasvien kertyessä ylikasvaneisiin järviin tai soistuneeseen maahan. Turvetta muodostuu rämeillä ja nevoilla. Näiden kahden välinen ero on se, että nevat saavat vettä ainoastaan sateesta, kun rämeet saavat myös pohjavettä.
+bettergeobook.title.bauxite=Bauksiitti
+bettergeobook.text.bauxite=Bauksiitti on paljon alumiinia sisältävä maalaji, jota muodostuu pääasiassa trooppisilla alueilla kallioperän kemiallisen rapautumisen myötä. Bauksiitti on eräs maailman suurimmista alumiinin lähteistä. Alumiini on alkuaine, jota on runsaasti Maan kuoressa, mutta ainoastaan yhdisteinä. Alumiinin tuotanto vaatii siksi bauksiitin prosessointia.
+
+#Rock
+
+bettergeobook.title.alumshale=Alunaliuske
+bettergeobook.text.alumshale=Alunaliuske on liusketyyppi, joka muodostui noin 500 miljoonaa vuotta sitten. Tumma kivi sisältää paljon orgaanista ainesta, joka on säilynyt ja muodostanut liuskeöljyä kerrosten väliin. Alunaliuske sisältää usein monia fossiileja.
+bettergeobook.title.andesite=Andesiitti
+bettergeobook.text.andesite=Andesiitti on magmakivilaji, jota muodostuu tulivuorten purkaustuotteena. Sen väri vaihtelee harmaasta mustaan, ja siinä on usein vaaleita rakeita. Andesiitti saa nimensä Etelä-Amerikan Andeilta, jossa tämä kivilaji on yleinen.
+bettergeobook.title.basalt=Basaltti
+bettergeobook.text.basalt=Basaltti on hienorakeinen magmakivilaji, joka on usein tummaa tai mustaa, mutta rapautuminen voi aiheuttaa enemmän keltaruskeita, punaruskeita tai vihreitä sävyjä. Suuri osa merenalaisesta maankuoresta muodostuu basaltista. Se on Maan yleisin vulkaaninen kivilaji.
+bettergeobook.title.bandediron=Raitainen rautamuodostuma
+bettergeobook.text.bandediron=Raitaiset rautamuodostumat ovat sedimenttikerrostumia, joiden rautapitoisuus on suuri. Ne ovat usein tummia tai punaisia, ja niissä on selkeästi erottuvia raitoja. Ne ovat myös magneettisia. Suuri osa tästä kivestä muodostui noin kaksi miljardia vuotta sitten.
+bettergeobook.title.diabase=Diabaasi
+bettergeobook.text.diabase=Diabaasi (eli doleriitti) on tumma magmakivilaji. Sitä muodostuu magman tunkeutuessa kallioperän rakoihin ja jäähtyessä nopeasti. Tummassa kivessä on usein vaaleita mineraaleja. Diabaasia kutsutaan toisinaan mustaksi graniitiksi, kun sitä käytetään rakentamisessa tai koristekivenä.
+bettergeobook.title.diorite=Dioriitti
+bettergeobook.text.diorite=Dioriitti on karkearakeinen magmakivilaji, jota muodostuu syvällä maankuoressa. Sen väri vaihtelee harmaasta tummanharmaaseen, mutta se voi olla myös mustaa tai siniharmaata ja siinä voi olla vihreitä sävyjä. Dioriitissa on usein suuria valkoisia ja mustia rakeita.
+bettergeobook.title.gabbro=Gabro
+bettergeobook.text.gabbro=Gabro on karkearakeinen magmakivilaji, jota muodostuu syvällä maankuoressa. Se on väriltään tummaa, mutta joskus se on mustaa tai siinä on vihreitä sävyjä. Se on tärkeä lähde esim. kuparin, nikkelin, platinaryhmän metallien, vanadiinin ja titaanin kaltaisille metalleille.
+bettergeobook.title.gneiss=Gneissi
+bettergeobook.text.gneiss=Gneissi on metamorfinen kivilaji, jota muodostuu esimerkiksi graniitin tai savikiven muuntuessa korkeassa lämpötilassa ja paineessa. Gneissi voi olla väriltään harmaata, ruskeaa, punaista tai vaaleanpunaista, ja se on yleensä selkeän raitaista.
+bettergeobook.title.granite=Graniitti
+bettergeobook.text.granite=Graniitti on karkearakeinen magmakivilaji. Graniittia muodostuu magman jäähtyessä syvällä maankuoressa. Sitä on monia eri värejä: valkoinen, harmaa, vaaleanpunainen, punainen tai musta. Graniitti on eräs Suomen yleisimmistä kivilajeista.
+bettergeobook.title.kimberlite=Kimberliitti
+bettergeobook.text.kimberlite=Kimberliitti on magmakivilaji, joka tunnetaan siitä, että se sisältää toisinaan timantteja. Kimberliitti muodostaa piippumaisia muodostumia kallioperään.
+bettergeobook.title.limestone=Kalkkikivi
+bettergeobook.text.limestone=Kalkkikivi on sedimenttikivilaji. Sitä muodostuu korallien ja simpukoiden kaltaisten meren eliöiden vajotessa meren pohjaan ja hautautuessa kiteytyäkseen pitkän ajan kuluessa mineraaleiksi. Fossiilit ovat yleisiä kalkkikivessä.
+bettergeobook.title.marble=Marmori
+bettergeobook.text.marble=Marmori on metamorfinen kivilaji, jota muodostuu kalkkikiven joutuessa korkeaan lämpötilaan ja paineeseen. Marmori on väriltään usein vaaleaa, mutta siinä voi olla sinisen, vaaleanpunaisen, keltaisen tai harmaan sävyjä.
+bettergeobook.title.pegmatite=Pegmatiitti
+bettergeobook.text.pegmatite=Pegmatiitti on magmakivilaji, joka muodostaa juonia tai piippuja. Siinä on karkeita kiteitä, ja se voi sisältää harvinaisia mineraaleja. Pegmatiittia voi olla monen väristä, mutta se on usein sävyiltään graniitin kaltaista: harmaata tai punaista aina vaaleanpunaiseen ja mustaan saakka.
+bettergeobook.title.schist=Liuske
+bettergeobook.text.schist=Liuske on metamorfinen kivilaji, jota voi muodostua hienorakeisen sedimenttikivilajin kuten savikiven joutuessa korkeaan lämpötilaan ja paineeseen. Liuske on folioitunutta ja kimaltelee kiillemineraaleista.
+bettergeobook.title.shale=Savikivi
+bettergeobook.text.shale=Savikivi on hienorakeinen sedimenttikivilaji. Se on folioitunutta ja voi olla väriltään vaaleasta tummaan. Musta savikivi sisältää usein paljon orgaanisia aineksia. Savikiveä muodostuu, kun savi hautautuu merenpohjaan ja puristuu sitten kiveksi, jossa on selkeät kerrokset.
+bettergeobook.title.skarn=Karsi
+bettergeobook.text.skarn=Karsi on metamorfinen kivilaji, joka sisältää usein malmimineraaleja, eli mineraaleja, jotka sisältävät paljon metalleja ja joiden kaivostoiminta voi olla kannattavaa. Karsia muodostuu kalkkikivestä, jota muuntavat magman aiheuttamat kuumat nesteet.
+bettergeobook.title.sandstone=Hiekkakivi
+bettergeobook.text.sandstone=Hiekkakivi on sedimenttikivilaji, jota muodostuu hiekan puristuessa, sementoituessa ja muuntuessa pitkän ajan kuluessa kiveksi. Väriltään se on usein vaalea, mutta sillä voi olla myös monia muita värejä: ruskea, keltainen, punainen, harmaa, vaaleanpunainen, valkoinen tai musta. Hiekkakivi voi olla raitaista, tai siinä voi olla muita rakenteita.
+bettergeobook.title.sedimentary=Sedimenttikivet
+bettergeobook.text.sedimentary=Jos soraa, hiekkaa ja savea vajoaa merenpohjaan ja muodostavat kompakteja kerroksia, joita kutsutaan sedimentiksi, ne voivat aikanaan muuttua kiveksi. Esimerkiksi hiekkakivi ja lietekivi muodostuvat tällä tavalla. Meren eliöiden kuoret voivat myös muodostaa sedimenttikerrostumia; kalkkikivi muodostuu tällä tavoin.
+bettergeobook.title.magmatic=Magmakivilajit
+bettergeobook.text.magmatic=Magmakivilajit ovat peräisin magmasta. Hienorakeiset kivilajit, kuten basaltti, muodostuvat magman virratessa laavan muodossa Maan pinnalle ja jäähtyessä nopeasti. Toisaalta, kun magma jäähtyy syvällä maankuoressa, voi muodostua graniitin kaltaisia karkearakeisia kivilajeja.
+bettergeobook.title.metamorphic=Metamorfiset kivilajit
+bettergeobook.text.metamorphic=Korkeille lämpötiloille tai paineelle altistuneet kivilajit muuntuvat uusiksi kivilajeiksi, joita kutsutaan metamorfisiksi kivilajeiksi. Muutos (metamorfoosi) tapahtuu, kun kivi joutuu syvemmälle maankuoressa. Metamorfisella kivilajilla on esimerkiksi erilainen tekstuuri tai kovuus, kuin alkuperäisellä kivilajilla.
+
+#Minerals
+
+bettergeobook.title.garnet=Granaatti
+bettergeobook.text.garnet=Granaatti on mineraali ja jalokivi. Granaatit ovat usein punaisia, mutta ne voivat olla väriltään myös vihreitä, keltaisia, oransseja, vaaleanpunaisia tai violetteja. Granaatit ovat kovia, ja niitä käytetään siksi esimerkiksi hionta- ja leikkausmateriaaleina.
+bettergeobook.title.aquamarine=Akvamariini
+bettergeobook.text.aquamarine=Akvamariini on beryllimineraalin jalokivi. Akvamariinit ovat sinisiä tai sinivihreitä ja erittäin kauniita. Smaragdit, jotka ovat vihreitä, ovat myös berylliä. Berylli voi olla myös keltaista, punaista, valkoista tai väritöntä.
+bettergeobook.title.topaz=Topaasi
+bettergeobook.text.topaz=Topaasi on mineraali ja jalokivi, joka on puhtaana väritöntä. Kun siinä on epäpuhtauksia, se voi olla väriltään esimerkiksi keltaista, vaaleanpunaista, valkoista, vihreää tai punaista. Kaikkia keltaisia jalokiviä kutsuttiin keskiajalla topaaseiksi.
+bettergeobook.title.tourmaline=Turmaliini
+bettergeobook.text.tourmaline=Turmaliini on mineraali ja jalokivi, jossa voi esiintyä eri värejä täysin mustasta tai valkoisesta punaiseen, siniseen, vihreään, violettiin, keltaiseen tai vaaleanpunaiseen, ja se voi olla jopa moniväristä. Turmaliinin yleisin muoto, eli schörl, on musta.
+bettergeobook.title.tantalum=Tantaliitti
+bettergeobook.text.tantalum=Tantaliitti on mineraali, joka vaihtelee väriltään mustasta harmaaseen. Se on raskasta ja kovaa, mutta haurasta. Tantaliitista saadaan tantaalia, joka on tärkeä metallinen alkuaine esimerkiksi älypuhelimien ja tietokoneiden tuotannossa.
+bettergeobook.title.cordierite=Kordieriitti
+bettergeobook.text.cordierite=Kordieriitti on mineraali, jolla on useita jalokivimuunnelmia. Siniset vesisafiirit ovat kordieriittia. Ne muistuttavat safiireja, jotka ovat korundimineraalia, mutta kordieriitit eivät ole niin tiheitä. Kordieriitti voi olla väriltään muutakin kuin sinistä, esimerkiksi keltaista, vihreää, ruskeaa tai harmaata.
+bettergeobook.title.feldspar=Maasälpä
+bettergeobook.text.feldspar=Maasälvät on mineraaliryhmä, joka muodostaa noin kuusikymmentä prosenttia Maan kuoresta. Maasälvät muodostuvat kahdesta päätyypistä: alkalimaasälvistä, jotka ovat punertavanruskeita ja plagioklaasimaasälvistä, jotka ovat vaaleanharmaita, valkoisia tai beesejä. Graniitti ja gneissi sisältävät maasälpää.
+bettergeobook.title.quartz=Kvartsi
+bettergeobook.text.quartz=Kvartsi on puhtaassa muodossaan väritöntä. Värittömiä kvartsikiteitä kutsutaan usein vuorikristalleksi. Muunvärisiä kiteitä ovat ametisti (violetti), sitriini (keltainen), ruusukvartsi (vaaleanpunainen) ja savukvartsi (harmaa). Kvartsi on maankuoren toiseksi yleisin mineraali maasälvän jälkeen.
+bettergeobook.title.gabbrotitanium=Titaani
+bettergeobook.text.gabbrotitanium=Titaania saadaan usein ilmeniittimineraalista, jota voi esiintyä gabrossa. Ilmeniitti on tumma mineraali, joka on hieman magneettista. Titaani on kevyttä ja vahvaa, ja sitä käytetään esimerkiksi lentokoneissa ja laivoissa.
+bettergeobook.title.gabbroredstone=Kupari
+bettergeobook.text.gabbroredstone=Kuparia saadaan kuparikiisusta ja kuparihohteesta, jotka ovat gabrossa ja basaltissa esiintyviä mineraaleja. Kuparin sähkönjohtavuus on hyvä, ja se on tärkeä metalli elektroniikassa. Kuparia on käytetty esimerkiksi kaikissa tietokoneissa, älypuhelimissa, autoissa ja lentokoneissa.
+bettergeobook.title.sguironore=Rauta
+bettergeobook.text.sguironore=Rauta on maankuoren kolmanneksi yleisin metalli. Useimmat mineraalit sisältävät rautaa, kuten hematiitti ja magnetiitti, joita nähdään raitaisissa rautamuodostumissa. Jotkin rautamineraalit kuten magnetiitti ovat magneettisia.
+bettergeobook.title.zincblende=Sinkkivälke
+bettergeobook.text.zincblende=Sinkkivälke on mineraali, jota kaivetaan sen sisältämän sinkin vuoksi. Se on keltaista, ruskeaa tai harmaata. Sinkkiä käytetään enimmäkseen ruostumattoman teräksen valmistuksessa. Sitä voidaan myös seostaa kuparin kanssa, jolloin saadaan messinkiä. Sinkki tekee seosmetalleista vastustuskykyisempiä korroosiolle.
+bettergeobook.title.wolfram=Wolframiitti
+bettergeobook.text.wolfram=Wolframiitti on mineraali, joka vaihtelee väriltään harmaasta mustanruskeaan, ja jota kaivetaan sen sisältämän volframin takia. Wolframiittia löytyy toisinaan karsista. Volframia käytetään teräksessä sen lujuuden ja lämmönkestävyyden parantamiseksi. Sana "volframi" tulee saksankielisistä sanoista wolf rahm, joka tarkoittaa suden vaahtoa.
+bettergeobook.title.tin=Kassiteriitti
+bettergeobook.text.tin=Kassiteriitti on mineraali, joka vaihtelee väriltään mustanruskeasta harmaaseen, ja jota kaivetaan sen sisältämän tinan takia. Sitä löytyy toisinaan pegmatiitista. Tina on pehmeä metalli, jota käytetään enimmäkseen juotosaineena elektroniikkateollisuudessa, mutta myös seosmetallin pronssin tuotannossa.
+bettergeobook.title.lithium=Spodumeeni
+bettergeobook.text.lithium=Spodumeeni on mineraali, jolla voi olla useita eri värejä: valkoinen, harmaa ja vaaleanpunainen ovat esimerkkejä. Sitä kaivetaan pegmatiiteista sen sisältämän litiumin takia, joka on tärkeä metalli esimerkiksi akuissa. Litium on kevyttä ja pehmeää puhtaassa muodossaan.
+bettergeobook.title.ree=Monatsiitti
+bettergeobook.text.ree=Monatsiitti on mineraali, jota kaivetaan sen sisältämien harvinaisten maametallien takia. Harvinaisia maametalleja käytetään modernissa teknologiassa kuten tietokoneissa ja älypuhelimissa. Monatsiitti on väriltään usein punertavanruskeaa, mutta se voi olla myös ruskeaa, keltaista, vaaleanpunaista, vihreää tai harmaata.
+
+#Alloy
+
+bettergeobook.title.steel=Teräs
+bettergeobook.text.steel=Teräs on raudan seosmetalli, jota käytetään lähestulkoon kaikessa lentokoneista ja autoista elektroniikkaan, rakennuksiin ja aterimiin. Teräksiä on monia eri tyyppejä, kuten erityisen vahvaa tai kevyttä, riippuen siitä mitä alkuaineita seostamisessa käytettiin. Rauta on kuitenkin sen pääasiallinen alkuaine.
+bettergeobook.title.bronze=Pronssi
+bettergeobook.text.bronze=Pronssi on kuparin ja tinan seosmetalli. Pronssi on kestävää ja helposti valettavaa. Sitä alettiin käyttää jo yli 4000 vuotta sitten kaikkeen työkaluista patsaisiin. Nykyään pronssia käytetään esimerkiksi koneisiin, soittimiin ja kolikoihin.
+bettergeobook.title.brass=Messinki
+bettergeobook.text.brass=Messinki on kuparin ja sinkin seosmetalli. Messinki, jonka sinkkipitoisuus on alhainen, on usein punaista. Messingistä tulee keltaisempaa, kun sinkkiä lisätään. Messingin sinkkipitoisuus on yleensä 5-45 prosenttia.
+bettergeobook.title.slag=Kuona
+bettergeobook.text.slag=Kuona on mitä jää jäljelle, kun kiviaines on prosessoitu haluttujen alkuaineiden erottamiseksi. Osaa alkuaineista ei kuitenkaan saada erotetuksi vaan ne jäävät kuonan sekaan. Nykyaikaisilla tekniikoilla kuona voidaan kuitenkin kierrättää ja erottaa vielä enemmän alkuaineita!
+bettergeobook.title.ash=Tuhka
+bettergeobook.text.ash=Tuhkaa muodostuu, kun mineraaleja prosessoidaan sulatossa. Se on kuin hienoa hiekkaa ja leviää helposti tuulen mukana. Tuhka sisältää monesti useita metalleja, esimerkiksi titaania. Jos saadaan kerättyä tarpeeksi tuhkaa, siitä on mahdollista saada talteen metalleja!

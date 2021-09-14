@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    " # ",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict",
+      "ore": "oreSteel"
+    },
+    "X": {
+      "type": "forge:ore_dict",
+      "ore": "ingotLithium"
+    }
+  },
+  "result": {
+    "item": "bettergeo:lithiumbattery"
+  }
+}

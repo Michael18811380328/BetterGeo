@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:SteelProspectorsPan"
+        },
+        "title": {
+            "translate": "advancements.rock.prospectorsPan"
+        },
+        "description": {
+            "translate": "advancements.rock.prospectorsPan.desc"
+        }
+    },
+    "parent": "bettergeo:rock/root",
+    "criteria": {
+        "prospectors_pan": {
+        	"trigger": "prospectors_pan"
+        }
+    }
+}

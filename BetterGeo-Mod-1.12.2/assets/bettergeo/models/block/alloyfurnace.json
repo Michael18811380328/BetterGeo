@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "bettergeo:blocks/alloy_furnace_top",
+        "front": "bettergeo:blocks/alloy_furnace_front_off",
+        "side": "bettergeo:blocks/alloy_furnace_side"
+    }
+}

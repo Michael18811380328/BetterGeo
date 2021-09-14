@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:Smeltery"
+        },
+        "title": {
+            "translate": "advancements.process"
+        },
+        "description": {
+            "translate": "advancements.process.desc"
+        },
+        "background": "bettergeo:textures/gui/advancements/backgrounds/process.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+   "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

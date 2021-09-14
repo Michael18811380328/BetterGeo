@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "bettergeo:blocks/till_normal",
+        "bottom": "bettergeo:blocks/till_normal",
+        "top": "bettergeo:blocks/tillgrass_top",
+        "side": "bettergeo:blocks/tillgrass_normal_side",
+        "overlay": "bettergeo:blocks/tillgrass_side_overlay"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    "BXB",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "type": "forge:ore_dict",
+      "ore": "oreBrass"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "bettergeo:displaycase",
+    "data": 1
+  }
+}

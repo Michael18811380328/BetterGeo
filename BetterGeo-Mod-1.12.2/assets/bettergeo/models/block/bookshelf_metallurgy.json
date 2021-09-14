@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "bettergeo:blocks/bookshelf_sides",
+        "front": "bettergeo:blocks/bookshelf_metallurgy_5",
+        "side": "bettergeo:blocks/bookshelf_sides"
+    }
+}

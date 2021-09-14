@@ -1,0 +1,24 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " G ",
+    " S ",
+    " P "
+  ],
+  "key": {
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "gemGarnet"
+    },
+     "S": {
+      "type": "forge:ore_dict",
+      "ore": "slimeball"
+    },
+     "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "bettergeo:sandpaper"
+  }
+}

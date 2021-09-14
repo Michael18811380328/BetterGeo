@@ -1,0 +1,9 @@
+{
+  "jetpack_burst": {"category": "master","sounds": [{"name": "bettergeo:jetpack_burst","stream": false}]},
+  "powerbutton": {"category": "master","sounds": [{"name": "bettergeo:powerbutton","stream": false}]},
+  "tick": {"category": "master","sounds": [{"name": "bettergeo:tick","stream": false}]},
+  "warning1": {"category": "master","sounds": [{"name": "bettergeo:warning1","stream": false}]},
+  "warning2": {"category": "master","sounds": [{"name": "bettergeo:warning2","stream": false}]},
+  "warning3": {"category": "master","sounds": [{"name": "bettergeo:warning3","stream": false}]},
+  "warning4": {"category": "master","sounds": [{"name": "bettergeo:warning4","stream": false}]}
+}

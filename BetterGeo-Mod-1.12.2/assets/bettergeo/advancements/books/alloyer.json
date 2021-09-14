@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:brass"
+        },
+        "title": {
+            "translate": "advancements.books.alloyer"
+        },
+        "description": {
+            "translate": "advancements.books.alloyer.desc"
+        },
+        "frame": "challenge"
+    },
+    "parent": "bettergeo:books/mineral_hunter",
+    "criteria": {
+        "fire_proximity_suit": {
+        	"trigger": "alloyer"
+        }
+    }
+}

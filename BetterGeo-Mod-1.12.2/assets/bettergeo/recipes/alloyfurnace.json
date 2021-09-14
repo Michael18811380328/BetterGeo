@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "###"
+  ],
+  "key": {
+    "X": {
+      "item": "bettergeo:smeltery"
+    },
+    "#": {
+      "item": "minecraft:brick_block"
+    }
+  },
+  "result": {
+    "item": "bettergeo:alloyfurnace"
+  }
+}

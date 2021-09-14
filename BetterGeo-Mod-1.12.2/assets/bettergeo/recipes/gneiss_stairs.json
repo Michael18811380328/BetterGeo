@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:gneiss",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostairs_gneiss",
+    "count": 4
+  }
+}

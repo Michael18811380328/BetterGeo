@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "bettergeo:displaycase",
+    "data": 0
+  }
+}

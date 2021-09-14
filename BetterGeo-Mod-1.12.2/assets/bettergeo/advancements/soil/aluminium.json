@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:AluminumIngot"
+        },
+        "title": {
+            "translate": "advancements.soil.aluminium"
+        },
+        "description": {
+            "translate": "advancements.soil.aluminium.desc"
+        }
+    },
+    "parent": "bettergeo:soil/bauxite",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:aluminumIngot"
+                    }
+                ]
+            }
+        }
+    }
+}

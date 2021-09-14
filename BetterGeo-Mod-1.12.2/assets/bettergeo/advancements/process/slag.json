@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:slag"
+        },
+        "title": {
+            "translate": "advancements.process.slag"
+        },
+        "description": {
+            "translate": "advancements.process.slag.desc"
+        }
+    },
+    "parent": "bettergeo:process/smeltery",
+    "criteria": {
+        "slag": {
+        	"trigger": "slag"
+        }
+    }
+}

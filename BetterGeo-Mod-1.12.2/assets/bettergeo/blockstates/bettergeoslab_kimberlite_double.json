@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:kimberlite_normal" },
+        "variant=true":    { "model": "bettergeo:kimberlite_normal" }
+    }
+}

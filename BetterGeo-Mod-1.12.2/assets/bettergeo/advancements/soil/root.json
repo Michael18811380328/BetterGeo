@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:Till"
+        },
+        "title": {
+            "translate": "advancements.soil"
+        },
+        "description": {
+            "translate": "advancements.soil.desc"
+        },
+        "background": "bettergeo:textures/gui/advancements/backgrounds/soil.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+   "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

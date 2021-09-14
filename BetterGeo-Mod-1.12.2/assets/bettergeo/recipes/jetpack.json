@@ -1,0 +1,24 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "A A",
+    "TBT",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "type": "forge:ore_dict",
+      "ore": "ingotAluminum"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "B": {
+      "item": "bettergeo:lithiumbattery"
+    }
+  },
+  "result": {
+    "item": "bettergeo:jetpack"
+  }
+}

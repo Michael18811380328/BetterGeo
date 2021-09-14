@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:gabbro_normal" },
+        "variant=true":    { "model": "bettergeo:gabbro_normal" }
+    }
+}

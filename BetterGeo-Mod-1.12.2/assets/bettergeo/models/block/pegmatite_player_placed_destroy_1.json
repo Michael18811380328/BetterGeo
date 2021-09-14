@@ -1,0 +1,6 @@
+{
+    "parent":"block/cube_all",
+    "textures": {
+        "all": "bettergeo:blocks/pegmatite_player_placed_destroy_1"
+    }
+}

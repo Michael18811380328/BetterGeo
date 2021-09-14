@@ -1,0 +1,699 @@
+{
+  "se/sgu/bettergeo/BetterGeo": {
+    "name": "se/sgu/bettergeo/BetterGeo",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod;",
+        "target": "se/sgu/bettergeo/BetterGeo",
+        "values": {
+          "acceptedMinecraftVersions": {
+            "value": "1.12.2"
+          },
+          "guiFactory": {
+            "value": "se.sgu.bettergeo.client.ui.BetterGeoGuiFactory"
+          },
+          "modid": {
+            "value": "bettergeo"
+          },
+          "name": {
+            "value": "BetterGeo"
+          },
+          "version": {
+            "value": "2.0-beta2"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$Instance;",
+        "target": "instance",
+        "value": {
+          "value": "bettergeo"
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/SidedProxy;",
+        "target": "proxy",
+        "values": {
+          "clientSide": {
+            "value": "se.sgu.bettergeo.proxy.ClientProxy"
+          },
+          "serverSide": {
+            "value": "se.sgu.bettergeo.proxy.CommonProxy"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/advancements/CustomTrigger": {
+    "name": "se/sgu/bettergeo/advancements/CustomTrigger",
+    "interfaces": [
+      "net/minecraft/advancements/ICriterionTrigger"
+    ]
+  },
+  "se/sgu/bettergeo/asm/IFMLLoadingPluginImpl": {
+    "name": "se/sgu/bettergeo/asm/IFMLLoadingPluginImpl",
+    "interfaces": [
+      "net/minecraftforge/fml/relauncher/IFMLLoadingPlugin"
+    ],
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/relauncher/IFMLLoadingPlugin$MCVersion;",
+        "target": "se/sgu/bettergeo/asm/IFMLLoadingPluginImpl",
+        "value": {
+          "value": "1.12.2"
+        }
+      }
+    ]
+  },
+  "se/sgu/bettergeo/asm/PumiceClassTransformer": {
+    "name": "se/sgu/bettergeo/asm/PumiceClassTransformer",
+    "interfaces": [
+      "net/minecraft/launchwrapper/IClassTransformer"
+    ]
+  },
+  "se/sgu/bettergeo/block/OneTimeChanceDropBlock$PlacedType": {
+    "name": "se/sgu/bettergeo/block/OneTimeChanceDropBlock$PlacedType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/replacement/BetterGeoSand": {
+    "name": "se/sgu/bettergeo/block/replacement/BetterGeoSand",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/replacement/BetterGeoSand$EnumType": {
+    "name": "se/sgu/bettergeo/block/replacement/BetterGeoSand$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/replacement/BetterGeoSandStone": {
+    "name": "se/sgu/bettergeo/block/replacement/BetterGeoSandStone",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/replacement/BetterGeoSandStone$EnumType": {
+    "name": "se/sgu/bettergeo/block/replacement/BetterGeoSandStone$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/AlumShale": {
+    "name": "se/sgu/bettergeo/block/rock/AlumShale",
+    "interfaces": [
+      "net/minecraftforge/fml/common/IFuelHandler"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Gabbro": {
+    "name": "se/sgu/bettergeo/block/rock/Gabbro",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Gabbro$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Gabbro$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Kimberlite": {
+    "name": "se/sgu/bettergeo/block/rock/Kimberlite",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Kimberlite$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Kimberlite$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Limestone": {
+    "name": "se/sgu/bettergeo/block/rock/Limestone",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Limestone$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Limestone$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Marble": {
+    "name": "se/sgu/bettergeo/block/rock/Marble",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Marble$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Marble$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Pegmatite": {
+    "name": "se/sgu/bettergeo/block/rock/Pegmatite",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Pegmatite$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Pegmatite$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Quartz": {
+    "name": "se/sgu/bettergeo/block/rock/Quartz",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Quartz$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Quartz$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Schist": {
+    "name": "se/sgu/bettergeo/block/rock/Schist",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Schist$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Schist$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/rock/Skarn$EnumType": {
+    "name": "se/sgu/bettergeo/block/rock/Skarn$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/slab/BetterGeoStoneSlab$EnumType": {
+    "name": "se/sgu/bettergeo/block/slab/BetterGeoStoneSlab$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/slab/BetterGeoStoneSlab2$EnumType": {
+    "name": "se/sgu/bettergeo/block/slab/BetterGeoStoneSlab2$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/FarmlandType": {
+    "name": "se/sgu/bettergeo/block/soil/FarmlandType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/Mulch$EnumType": {
+    "name": "se/sgu/bettergeo/block/soil/Mulch$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/PeatGrass": {
+    "name": "se/sgu/bettergeo/block/soil/PeatGrass",
+    "interfaces": [
+      "net/minecraft/block/IGrowable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/Pebble": {
+    "name": "se/sgu/bettergeo/block/soil/Pebble",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/Pebble$EnumType": {
+    "name": "se/sgu/bettergeo/block/soil/Pebble$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/Till": {
+    "name": "se/sgu/bettergeo/block/soil/Till",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/TillGrass": {
+    "name": "se/sgu/bettergeo/block/soil/TillGrass",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName",
+      "net/minecraft/block/IGrowable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/TillGrassPath": {
+    "name": "se/sgu/bettergeo/block/soil/TillGrassPath",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/TillType": {
+    "name": "se/sgu/bettergeo/block/soil/TillType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/soil/WeatheredTropicalSoilGrass": {
+    "name": "se/sgu/bettergeo/block/soil/WeatheredTropicalSoilGrass",
+    "interfaces": [
+      "net/minecraft/block/IGrowable",
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/BrickBlock": {
+    "name": "se/sgu/bettergeo/block/special/BrickBlock",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/BrickBlock$EnumType": {
+    "name": "se/sgu/bettergeo/block/special/BrickBlock$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/DisplayCase": {
+    "name": "se/sgu/bettergeo/block/special/DisplayCase",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/DisplayCase$EnumType": {
+    "name": "se/sgu/bettergeo/block/special/DisplayCase$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/MineralBlock": {
+    "name": "se/sgu/bettergeo/block/special/MineralBlock",
+    "interfaces": [
+      "se/sgu/bettergeo/block/IMetaBlockName"
+    ]
+  },
+  "se/sgu/bettergeo/block/special/MineralBlock$EnumType": {
+    "name": "se/sgu/bettergeo/block/special/MineralBlock$EnumType",
+    "interfaces": [
+      "net/minecraft/util/IStringSerializable"
+    ]
+  },
+  "se/sgu/bettergeo/client/model/ModelMetalBoat": {
+    "name": "se/sgu/bettergeo/client/model/ModelMetalBoat",
+    "interfaces": [
+      "net/minecraft/client/model/IMultipassModel"
+    ]
+  },
+  "se/sgu/bettergeo/client/ui/BetterGeoGui": {
+    "name": "se/sgu/bettergeo/client/ui/BetterGeoGui",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/IGuiHandler"
+    ]
+  },
+  "se/sgu/bettergeo/client/ui/BetterGeoGuiFactory": {
+    "name": "se/sgu/bettergeo/client/ui/BetterGeoGuiFactory",
+    "interfaces": [
+      "net/minecraftforge/fml/client/IModGuiFactory"
+    ]
+  },
+  "se/sgu/bettergeo/client/ui/JetpackGUI": {
+    "name": "se/sgu/bettergeo/client/ui/JetpackGUI",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "renderJetpackOverlay(Lnet/minecraftforge/client/event/RenderGameOverlayEvent;)V",
+        "values": {
+          "priority": {
+            "type": "ENUM",
+            "value": "Lnet/minecraftforge/fml/common/eventhandler/EventPriority;/HIGHEST"
+          }
+        }
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$EntityLivingDeath": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$EntityLivingDeath",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$HarvestDrops": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$HarvestDrops",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onHarvestDrop(Lnet/minecraftforge/event/world/BlockEvent$HarvestDropsEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$ItemSmeltedEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$ItemSmeltedEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onItemSmeltedEvent(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$ItemSmeltedEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnBlockBreakEventHook": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnBlockBreakEventHook",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onBlockBreakEvent(Lnet/minecraftforge/event/world/BlockEvent$BreakEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnConfigEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnConfigEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onConfigChanged(Lnet/minecraftforge/fml/client/event/ConfigChangedEvent$OnConfigChangedEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnEntityItemPickupEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnEntityItemPickupEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPlayerPickupEvent(Lnet/minecraftforge/event/entity/player/EntityItemPickupEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnInitMapGenEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnInitMapGenEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "initMapGenEvent(Lnet/minecraftforge/event/terraingen/InitMapGenEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnItemCraftedEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnItemCraftedEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "OnItemCraftedEvent(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$ItemCraftedEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingAttack": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingAttack",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLivingAttackEvent(Lnet/minecraftforge/event/entity/living/LivingAttackEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingDropEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingDropEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLivingDropEvent(Lnet/minecraftforge/event/entity/living/LivingDropsEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingUpdate": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLivingUpdate",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingUpdateEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLootTableLoadEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnLootTableLoadEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLootTableLoadEven(Lnet/minecraftforge/event/LootTableLoadEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnPlaySoundAtEntityEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnPlaySoundAtEntityEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "soundEvent(Lnet/minecraftforge/event/entity/PlaySoundAtEntityEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnRegistryEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnRegistryEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRegistryEvent(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/event/BetterGeoEventHandler$OnUseHoeEvent": {
+    "name": "se/sgu/bettergeo/event/BetterGeoEventHandler$OnUseHoeEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onUseHoeEvent(Lnet/minecraftforge/event/entity/player/UseHoeEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/item/BetterGeoBook$1": {
+    "name": "se/sgu/bettergeo/item/BetterGeoBook$1",
+    "interfaces": [
+      "net/minecraft/item/IItemPropertyGetter"
+    ]
+  },
+  "se/sgu/bettergeo/item/BetterGeoBook$2": {
+    "name": "se/sgu/bettergeo/item/BetterGeoBook$2",
+    "interfaces": [
+      "java/util/Comparator"
+    ]
+  },
+  "se/sgu/bettergeo/item/BetterGeoBook$3": {
+    "name": "se/sgu/bettergeo/item/BetterGeoBook$3",
+    "interfaces": [
+      "java/util/Comparator"
+    ]
+  },
+  "se/sgu/bettergeo/item/ConductivityMeter": {
+    "name": "se/sgu/bettergeo/item/ConductivityMeter",
+    "interfaces": [
+      "se/sgu/bettergeo/item/CharageableItem"
+    ]
+  },
+  "se/sgu/bettergeo/item/Defibrillator": {
+    "name": "se/sgu/bettergeo/item/Defibrillator",
+    "interfaces": [
+      "se/sgu/bettergeo/item/CharageableItem"
+    ]
+  },
+  "se/sgu/bettergeo/item/Jetpack": {
+    "name": "se/sgu/bettergeo/item/Jetpack",
+    "interfaces": [
+      "se/sgu/bettergeo/item/CharageableItem"
+    ]
+  },
+  "se/sgu/bettergeo/item/MagneticCompass$1": {
+    "name": "se/sgu/bettergeo/item/MagneticCompass$1",
+    "interfaces": [
+      "net/minecraft/item/IItemPropertyGetter"
+    ]
+  },
+  "se/sgu/bettergeo/item/MonsterScanner": {
+    "name": "se/sgu/bettergeo/item/MonsterScanner",
+    "interfaces": [
+      "se/sgu/bettergeo/item/CharageableItem"
+    ]
+  },
+  "se/sgu/bettergeo/item/MonsterScanner$1": {
+    "name": "se/sgu/bettergeo/item/MonsterScanner$1",
+    "interfaces": [
+      "net/minecraft/item/IItemPropertyGetter"
+    ]
+  },
+  "se/sgu/bettergeo/jetpack/JetpackBurstNetworkMessage": {
+    "name": "se/sgu/bettergeo/jetpack/JetpackBurstNetworkMessage",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/simpleimpl/IMessage"
+    ]
+  },
+  "se/sgu/bettergeo/jetpack/JetpackClientController": {
+    "name": "se/sgu/bettergeo/jetpack/JetpackClientController",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onClientTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$ClientTickEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/jetpack/JetpackMessageHandler": {
+    "name": "se/sgu/bettergeo/jetpack/JetpackMessageHandler",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/simpleimpl/IMessageHandler"
+    ]
+  },
+  "se/sgu/bettergeo/proxy/ClientProxy$1": {
+    "name": "se/sgu/bettergeo/proxy/ClientProxy$1",
+    "interfaces": [
+      "net/minecraft/client/renderer/color/IBlockColor"
+    ]
+  },
+  "se/sgu/bettergeo/proxy/ClientProxy$2": {
+    "name": "se/sgu/bettergeo/proxy/ClientProxy$2",
+    "interfaces": [
+      "net/minecraft/client/renderer/color/IItemColor"
+    ]
+  },
+  "se/sgu/bettergeo/proxy/ClientProxy$3": {
+    "name": "se/sgu/bettergeo/proxy/ClientProxy$3",
+    "interfaces": [
+      "net/minecraft/client/renderer/color/IItemColor"
+    ]
+  },
+  "se/sgu/bettergeo/proxy/ClientProxy$4": {
+    "name": "se/sgu/bettergeo/proxy/ClientProxy$4",
+    "interfaces": [
+      "net/minecraft/client/renderer/color/IItemColor"
+    ]
+  },
+  "se/sgu/bettergeo/proxy/ClientProxy$MetalBoatRenderFactory": {
+    "name": "se/sgu/bettergeo/proxy/ClientProxy$MetalBoatRenderFactory",
+    "interfaces": [
+      "net/minecraftforge/fml/client/registry/IRenderFactory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/AlloyFurnaceTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/AlloyFurnaceTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable",
+      "net/minecraft/inventory/ISidedInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/BatteryChargerTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/BatteryChargerTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable",
+      "net/minecraft/inventory/IInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/BetterGeoBookShelfTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/BetterGeoBookShelfTileEntity",
+    "interfaces": [
+      "net/minecraft/inventory/IInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/DefibrillatorEffectTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/DefibrillatorEffectTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/DefibrillatorEffectTileEntity$OnLightningEvent": {
+    "name": "se/sgu/bettergeo/tileentity/DefibrillatorEffectTileEntity$OnLightningEvent",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLightningStruck(Lnet/minecraftforge/event/entity/EntityStruckByLightningEvent;)V"
+      }
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/FlueGasCleanerTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/FlueGasCleanerTileEntity",
+    "interfaces": [
+      "net/minecraft/inventory/ISidedInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/RecycleStationTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/RecycleStationTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable",
+      "net/minecraft/inventory/ISidedInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/SmelteryTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/SmelteryTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable",
+      "net/minecraft/inventory/ISidedInventory",
+      "se/sgu/bettergeo/inventory/BreakableIInventory"
+    ]
+  },
+  "se/sgu/bettergeo/tileentity/WeatherTileEntity": {
+    "name": "se/sgu/bettergeo/tileentity/WeatherTileEntity",
+    "interfaces": [
+      "net/minecraft/util/ITickable"
+    ]
+  },
+  "se/sgu/bettergeo/world/BetterGeoWorldGen": {
+    "name": "se/sgu/bettergeo/world/BetterGeoWorldGen",
+    "interfaces": [
+      "net/minecraftforge/fml/common/IWorldGenerator"
+    ]
+  },
+  "se/sgu/bettergeo/world/BetterGeoWorldGenOld": {
+    "name": "se/sgu/bettergeo/world/BetterGeoWorldGenOld",
+    "interfaces": [
+      "net/minecraftforge/fml/common/IWorldGenerator"
+    ]
+  }
+}

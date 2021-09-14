@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:marble",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab",
+    "data": 5,
+    "count": 6
+  }
+}

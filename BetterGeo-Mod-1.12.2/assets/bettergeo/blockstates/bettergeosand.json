@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=normal": { "model":"bettergeo:bettergeosand_normal" },
+        "variant=red": { "model":"bettergeo:bettergeosand_red" },
+        "variant=player_placed": { "model":"bettergeo:bettergeosand_normal" },
+        "variant=red_player_placed": { "model":"bettergeo:bettergeosand_red" }
+    }
+}

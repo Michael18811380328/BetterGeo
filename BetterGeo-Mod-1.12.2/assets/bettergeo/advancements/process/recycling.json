@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:RecycleStation"
+        },
+        "title": {
+            "translate": "advancements.process.recycling"
+        },
+        "description": {
+            "translate": "advancements.process.recycling.desc"
+        }
+    },
+    "parent": "bettergeo:process/steel",
+    "criteria": {
+        "RecycleStation": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:RecycleStation"
+                    }
+                ]
+            }
+        }
+    }
+}

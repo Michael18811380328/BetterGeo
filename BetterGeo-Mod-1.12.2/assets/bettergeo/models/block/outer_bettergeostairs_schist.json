@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "bettergeo:blocks/schist",
+        "top": "bettergeo:blocks/schist",
+        "side": "bettergeo:blocks/schist"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:schist_animated0" },
+        "variant=true":    { "model": "bettergeo:schist_animated0" }
+    }
+}

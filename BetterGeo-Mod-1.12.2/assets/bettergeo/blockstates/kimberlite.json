@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:kimberlite_normal" },
+        "type=diamond": { "model":"bettergeo:kimberlite_diamond" }
+    }
+}

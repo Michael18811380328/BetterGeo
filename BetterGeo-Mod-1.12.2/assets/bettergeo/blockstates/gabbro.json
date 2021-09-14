@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=normal": { "model": "bettergeo:gabbro_normal" },
+        "type=redstone": { "model":"bettergeo:gabbro_redstone" },
+        "type=titanium": { "model":"bettergeo:gabbro_titanium" }
+    }
+}

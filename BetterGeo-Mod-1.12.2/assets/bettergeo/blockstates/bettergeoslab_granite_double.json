@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:granite" },
+        "variant=true":    { "model": "bettergeo:granite" }
+    }
+}

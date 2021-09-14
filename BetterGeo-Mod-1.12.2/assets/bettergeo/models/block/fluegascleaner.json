@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "bettergeo:blocks/flue_gas_cleaner_topbottom",
+        "front": "bettergeo:blocks/flue_gas_cleaner",
+        "side": "bettergeo:blocks/flue_gas_cleaner"
+    }
+}

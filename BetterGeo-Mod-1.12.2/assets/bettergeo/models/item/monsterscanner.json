@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "bettergeo:items/monster_scanner_nocharge"
+    },
+    "overrides": [
+        { "predicate": { "scanningmode": 0 }, "model": "bettergeo:item/monsterscanner_nocharge" },
+        { "predicate": { "scanningmode": 1 }, "model": "bettergeo:item/monsterscannerscanning" },
+        { "predicate": { "scanningmode": 2 }, "model": "bettergeo:item/monsterscannerdetection" },
+        { "predicate": { "scanningmode": 3 }, "model": "bettergeo:item/monsterscanner_off" }
+    ]
+}

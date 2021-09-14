@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:bauxite"
+        },
+        "title": {
+            "translate": "advancements.soil.bauxite"
+        },
+        "description": {
+            "translate": "advancements.soil.bauxite.desc"
+        }
+    },
+    "parent": "bettergeo:soil/root",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:bauxite"
+                    }
+                ]
+            }
+        }
+    }
+}

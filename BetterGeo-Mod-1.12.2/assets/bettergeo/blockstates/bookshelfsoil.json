@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "bettergeo:bookshelf_soil" },
+        "facing=south": { "model": "bettergeo:bookshelf_soil", "y": 180 },
+        "facing=west":  { "model": "bettergeo:bookshelf_soil", "y": 270 },
+        "facing=east":  { "model": "bettergeo:bookshelf_soil", "y": 90 }
+    }
+}

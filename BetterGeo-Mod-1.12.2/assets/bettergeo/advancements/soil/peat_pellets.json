@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:PeatPellets"
+        },
+        "title": {
+            "translate": "advancements.soil.peatPellets"
+        },
+        "description": {
+            "translate": "advancements.soil.peatPellets.desc"
+        }
+    },
+    "parent": "bettergeo:soil/peat",
+    "criteria": {
+        "peat_pellets": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:PeatPellets"
+                    }
+                ]
+            }
+        }
+    }
+}

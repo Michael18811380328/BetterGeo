@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:DefibrillatorCharged"
+        },
+        "title": {
+            "translate": "advancements.rock.defibrillator"
+        },
+        "description": {
+            "translate": "advancements.rock.defibrillator.desc"
+        }
+    },
+    "parent": "bettergeo:rock/charge",
+    "criteria": {
+        "defibrillator": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:DefibrillatorCharged"
+                    }
+                ]
+            }
+        }
+    }
+}

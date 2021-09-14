@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=clear": { "model": "bettergeo:displaycase_clear" },
+        "type=bronze": { "model": "bettergeo:displaycase_bronze" },
+        "type=brass": { "model": "bettergeo:displaycase_brass" },
+        "type=steel": { "model": "bettergeo:displaycase_steel" }
+    }
+}

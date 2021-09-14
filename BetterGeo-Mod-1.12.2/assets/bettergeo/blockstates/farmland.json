@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=normal": { "model": "bettergeo:farmland_normal" },
+        "type=clay": { "model": "bettergeo:farmland_clay" },
+        "type=normal_rotated": { "model": "bettergeo:farmland_normal_rotated" },
+        "type=clay_rotated": { "model": "bettergeo:farmland_clay_rotated" },
+        "type=blocky": { "model": "bettergeo:farmland_normal" },
+        "type=blocky_rotated": { "model": "bettergeo:farmland_normal_rotated" }
+    }
+}

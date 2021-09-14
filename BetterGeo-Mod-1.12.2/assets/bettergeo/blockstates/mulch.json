@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=dry": { "model": "bettergeo:mulch_dry" },
+        "type=wet": { "model": "bettergeo:mulch_wet" },
+        "type=dry_rotated": { "model": "bettergeo:mulch_dry_rotated" },
+        "type=wet_rotated": { "model": "bettergeo:mulch_wet_rotated" }
+    }
+}

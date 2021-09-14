@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "bettergeo:half_brickslab_shale" },
+        "half=top,variant=false": { "model": "bettergeo:upper_brickslab_shale" }
+    }
+}

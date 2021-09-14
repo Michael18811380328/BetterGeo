@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:gabbro",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab",
+    "data": 1,
+    "count": 6
+  }
+}

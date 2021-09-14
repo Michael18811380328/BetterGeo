@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:bookshelfsoil"
+    ]
+  },
+  "criteria": {
+    "has_till": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:till"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:bookshelfsoil"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_till",
+      "has_the_recipe"
+    ]
+  ]
+}

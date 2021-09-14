@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=world": { "model": "bettergeo:basalt" },
+        "type=player": { "model": "bettergeo:basalt" }
+   }
+}

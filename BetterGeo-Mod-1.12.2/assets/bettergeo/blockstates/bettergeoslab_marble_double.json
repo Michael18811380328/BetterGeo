@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:marble_normal" },
+        "variant=true":    { "model": "bettergeo:marble_normal" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "bettergeo:blocks/weathered_tropical_soil",
+        "bottom": "bettergeo:blocks/weathered_tropical_soil",
+        "top": "bettergeo:blocks/weathered_tropical_soil_grass_top",
+        "side": "bettergeo:blocks/weathered_tropical_soil_grass_side",
+        "overlay": "bettergeo:blocks/weathered_tropical_soil_grass_side_overlay"
+    }
+}

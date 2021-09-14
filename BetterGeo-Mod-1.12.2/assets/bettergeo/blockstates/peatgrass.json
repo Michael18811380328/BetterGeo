@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=world": { "model": "bettergeo:peatgrass" },
+        "type=player": { "model": "bettergeo:peatgrass" }
+   }
+}

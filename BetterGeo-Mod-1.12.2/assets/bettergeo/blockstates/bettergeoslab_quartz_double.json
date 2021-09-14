@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:quartz_normal" },
+        "variant=true":    { "model": "bettergeo:quartz_normal" }
+    }
+}

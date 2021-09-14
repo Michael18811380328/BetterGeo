@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "bettergeo:blocks/kimberlite_normal",
+        "top": "bettergeo:blocks/kimberlite_normal",
+        "side": "bettergeo:blocks/kimberlite_normal"
+    }
+}

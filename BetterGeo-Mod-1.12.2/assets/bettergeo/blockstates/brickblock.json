@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "type=andesite": { "model":"bettergeo:brickblock_andesite" },
+        "type=diabase": { "model":"bettergeo:brickblock_diabase" },
+        "type=diorite": { "model":"bettergeo:brickblock_diorite" },
+        "type=gabbro": { "model":"bettergeo:brickblock_gabbro" },
+        "type=gneiss": { "model":"bettergeo:brickblock_gneiss" },
+        "type=granite": { "model":"bettergeo:brickblock_granite" },
+        "type=limestone": { "model":"bettergeo:brickblock_limestone" },
+        "type=marble": { "model":"bettergeo:brickblock_marble" },
+        "type=quartz": { "model":"bettergeo:brickblock_quartz" },
+        "type=sandstone": { "model":"bettergeo:brickblock_sandstone" },
+        "type=schist": { "model":"bettergeo:brickblock_schist" },
+        "type=shale": { "model":"bettergeo:brickblock_shale" }
+    }
+}

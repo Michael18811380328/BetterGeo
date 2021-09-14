@@ -1,0 +1,32 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "MKM",
+    "CTC",
+    " B "
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "oreBrass"
+    },
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTantalum"
+    },
+    "K": {
+      "item": "bettergeo:quartz",
+      "data": 32767
+    },
+    "B": {
+      "item": "bettergeo:lithiumbattery"
+    }
+  },
+  "result": {
+    "item": "bettergeo:conductivitymeter"
+  }
+}

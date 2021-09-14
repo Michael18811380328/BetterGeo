@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:GlacialErratic"
+        },
+        "title": {
+            "translate": "advancements.soil.glacialErratic"
+        },
+        "description": {
+            "translate": "advancements.soil.glacialErratic.desc"
+        }
+    },
+    "parent": "bettergeo:soil/root",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:GlacialErratic"
+                    }
+                ]
+            }
+        }
+    }
+}

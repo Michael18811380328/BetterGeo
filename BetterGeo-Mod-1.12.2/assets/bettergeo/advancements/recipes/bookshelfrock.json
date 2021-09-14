@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:bookshelfrock"
+    ]
+  },
+  "criteria": {
+    "has_limestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:limestone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:bookshelfrock"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_limestone",
+      "has_the_recipe"
+    ]
+  ]
+}

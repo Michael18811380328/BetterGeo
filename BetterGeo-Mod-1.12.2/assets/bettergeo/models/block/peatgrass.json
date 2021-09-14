@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "bettergeo:blocks/peat",
+        "bottom": "bettergeo:blocks/peat",
+        "top": "bettergeo:blocks/peat_grass_top",
+        "side": "bettergeo:blocks/peat_grass_side",
+        "overlay": "bettergeo:blocks/peat_grass_side"
+    }
+}

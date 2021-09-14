@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:bookshelfmineral"
+    ]
+  },
+  "criteria": {
+    "has_aquamarine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:aquamarine"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:bookshelfmineral"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_aquamarine",
+      "has_the_recipe"
+    ]
+  ]
+}

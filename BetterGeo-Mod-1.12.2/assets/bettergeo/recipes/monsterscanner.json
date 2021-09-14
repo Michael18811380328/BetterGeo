@@ -1,0 +1,28 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "Q Q",
+    "CVC",
+    " B "
+  ],
+  "key": {
+    "Q": {
+      "type": "forge:ore_dict",
+      "ore": "oreQuartz"
+    },
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+    "V": {
+      "type": "forge:ore_dict",
+      "ore": "oreCordierite"
+    },
+    "B": {
+      "item": "bettergeo:lithiumbattery"
+    }
+  },
+  "result": {
+    "item": "bettergeo:monsterscanner"
+  }
+}

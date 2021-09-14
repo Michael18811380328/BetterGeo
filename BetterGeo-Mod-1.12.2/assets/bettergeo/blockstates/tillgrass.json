@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:tillgrass_normal" },
+        "type=blocky": { "model":"bettergeo:tillgrass_blocky" },
+        "type=clay": { "model":"bettergeo:tillgrass_clay" }
+    }
+}

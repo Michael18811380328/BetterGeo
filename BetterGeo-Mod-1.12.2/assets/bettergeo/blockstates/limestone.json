@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:limestone_normal" },
+        "type=normal_destroy_1": { "model":"bettergeo:limestone_normal_destroy_1" },
+        "type=normal_destroy_2": { "model":"bettergeo:limestone_normal_destroy_2" },
+        "type=normal_destroy_3": { "model":"bettergeo:limestone_normal_destroy_3" },
+        "type=normal_destroy_4": { "model":"bettergeo:limestone_normal_destroy_4" },
+        "type=coal": { "model":"bettergeo:limestone_coal" },
+        "type=coal_destroy_1": { "model":"bettergeo:limestone_coal_destroy_1" },
+        "type=coal_destroy_2": { "model":"bettergeo:limestone_coal_destroy_2" },
+        "type=coal_destroy_3": { "model":"bettergeo:limestone_coal_destroy_3" },
+        "type=coal_destroy_4": { "model":"bettergeo:limestone_coal_destroy_4" }
+    }
+}

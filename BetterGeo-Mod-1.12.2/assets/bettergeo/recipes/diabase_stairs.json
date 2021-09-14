@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:diabase"
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostairs_diabase",
+    "count": 4
+  }
+}

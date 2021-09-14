@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_nugget"
+        },
+        "title": {
+            "translate": "advancements.rock.goldDigger"
+        },
+        "description": {
+            "translate": "advancements.rock.goldDigger.desc"
+        }
+    },
+    "parent": "bettergeo:rock/prospectors_pan",
+    "criteria": {
+        "gold_digger": {
+        	"trigger": "gold_digger"
+        }
+    }
+}

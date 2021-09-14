@@ -1,0 +1,28 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "bettergeo:bettergeosandstone",
+        "data": 0
+      },
+      {
+        "item": "bettergeo:bettergeosandstone",
+        "data": 1
+      },
+      {
+        "item": "bettergeo:bettergeosandstone",
+        "data": 2
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:sandstone_stairs",
+    "count": 4
+  }
+}

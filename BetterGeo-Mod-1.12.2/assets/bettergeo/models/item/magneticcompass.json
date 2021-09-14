@@ -1,0 +1,41 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/compass_16"
+    },
+    "overrides": [
+        { "predicate": { "angle": 0.000000 }, "model": "bettergeo:item/magneticcompass" },
+        { "predicate": { "angle": 0.015625 }, "model": "bettergeo:item/magneticcompass_17" },
+        { "predicate": { "angle": 0.046875 }, "model": "bettergeo:item/magneticcompass_18" },
+        { "predicate": { "angle": 0.078125 }, "model": "bettergeo:item/magneticcompass_19" },
+        { "predicate": { "angle": 0.109375 }, "model": "bettergeo:item/magneticcompass_20" },
+        { "predicate": { "angle": 0.140625 }, "model": "bettergeo:item/magneticcompass_21" },
+        { "predicate": { "angle": 0.171875 }, "model": "bettergeo:item/magneticcompass_22" },
+        { "predicate": { "angle": 0.203125 }, "model": "bettergeo:item/magneticcompass_23" },
+        { "predicate": { "angle": 0.234375 }, "model": "bettergeo:item/magneticcompass_24" },
+        { "predicate": { "angle": 0.265625 }, "model": "bettergeo:item/magneticcompass_25" },
+        { "predicate": { "angle": 0.296875 }, "model": "bettergeo:item/magneticcompass_26" },
+        { "predicate": { "angle": 0.328125 }, "model": "bettergeo:item/magneticcompass_27" },
+        { "predicate": { "angle": 0.359375 }, "model": "bettergeo:item/magneticcompass_28" },
+        { "predicate": { "angle": 0.390625 }, "model": "bettergeo:item/magneticcompass_29" },
+        { "predicate": { "angle": 0.421875 }, "model": "bettergeo:item/magneticcompass_30" },
+        { "predicate": { "angle": 0.453125 }, "model": "bettergeo:item/magneticcompass_31" },
+        { "predicate": { "angle": 0.484375 }, "model": "bettergeo:item/magneticcompass_00" },
+        { "predicate": { "angle": 0.515625 }, "model": "bettergeo:item/magneticcompass_01" },
+        { "predicate": { "angle": 0.546875 }, "model": "bettergeo:item/magneticcompass_02" },
+        { "predicate": { "angle": 0.578125 }, "model": "bettergeo:item/magneticcompass_03" },
+        { "predicate": { "angle": 0.609375 }, "model": "bettergeo:item/magneticcompass_04" },
+        { "predicate": { "angle": 0.640625 }, "model": "bettergeo:item/magneticcompass_05" },
+        { "predicate": { "angle": 0.671875 }, "model": "bettergeo:item/magneticcompass_06" },
+        { "predicate": { "angle": 0.703125 }, "model": "bettergeo:item/magneticcompass_07" },
+        { "predicate": { "angle": 0.734375 }, "model": "bettergeo:item/magneticcompass_08" },
+        { "predicate": { "angle": 0.765625 }, "model": "bettergeo:item/magneticcompass_09" },
+        { "predicate": { "angle": 0.796875 }, "model": "bettergeo:item/magneticcompass_10" },
+        { "predicate": { "angle": 0.828125 }, "model": "bettergeo:item/magneticcompass_11" },
+        { "predicate": { "angle": 0.859375 }, "model": "bettergeo:item/magneticcompass_12" },
+        { "predicate": { "angle": 0.890625 }, "model": "bettergeo:item/magneticcompass_13" },
+        { "predicate": { "angle": 0.921875 }, "model": "bettergeo:item/magneticcompass_14" },
+        { "predicate": { "angle": 0.953125 }, "model": "bettergeo:item/magneticcompass_15" },
+        { "predicate": { "angle": 0.984375 }, "model": "bettergeo:item/magneticcompass" }
+    ]
+}

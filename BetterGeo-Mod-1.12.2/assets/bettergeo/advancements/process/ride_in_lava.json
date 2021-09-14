@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:lava_bucket"
+        },
+        "title": {
+            "translate": "advancements.process.ride_in_lava"
+        },
+        "description": {
+            "translate": "advancements.process.ride_in_lava.desc"
+        }
+    },
+    "parent": "bettergeo:process/metal_boat",
+    "criteria": {
+        "ride_in_lava": {
+        	"trigger": "ride_in_lava"
+        }
+    }
+}

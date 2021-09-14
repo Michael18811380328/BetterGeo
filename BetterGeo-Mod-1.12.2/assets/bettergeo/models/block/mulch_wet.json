@@ -1,0 +1,8 @@
+{
+    "parent": "block/farmland",
+    "textures": {
+        "particle": "bettergeo:blocks/mulch_wet_sides",
+        "dirt": "bettergeo:blocks/mulch_wet_sides",
+        "top": "bettergeo:blocks/mulch_wet"
+    }
+}

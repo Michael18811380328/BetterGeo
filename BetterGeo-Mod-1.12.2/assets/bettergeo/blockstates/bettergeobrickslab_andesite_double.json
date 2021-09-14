@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:brickblock_andesite" },
+        "variant=true":    { "model": "bettergeo:brickblock_andesite" }
+    }
+}

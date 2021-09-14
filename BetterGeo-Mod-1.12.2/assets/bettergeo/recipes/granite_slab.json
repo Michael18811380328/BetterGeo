@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:granite",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab",
+    "data": 3,
+    "count": 6
+  }
+}

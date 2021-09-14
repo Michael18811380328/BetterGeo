@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:skarn" },
+        "variant=true":    { "model": "bettergeo:skarn" }
+    }
+}

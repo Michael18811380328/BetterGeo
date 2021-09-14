@@ -1,0 +1,16 @@
+[
+    {
+          "modid": "bettergeo",
+          "name": "BetterGeo",
+          "description": "BetterGeo is a mod that puts more geology into Minecraft by adding more blocks, resources and things to do with your findings.",
+          "version": "2.0-beta2",
+          "mcversion": "1.12.2",
+          "url": "http://bettergeo.wikia.com",
+          "updateUrl": "http://www.sgu.se/en/geology-of-sweden/bettergeo-minecraft-with-more-geology/",
+          "authorList": ["Nicklas Löf", "Mathias Lindfeldt", "Kaarina Ringstad", "Josephine Biro", "Jo Snöälv", "Pontus Westrin", "Nelly Aroka"],
+          "credits": "http://freesfx.co.uk - for sounds, Stefan Gustavson and Peter Eastman - for Simplex noise algorithm",
+          "logoFile": "bettergeo.png",
+          "screenshots": [],
+          "dependencies": []
+    }
+]

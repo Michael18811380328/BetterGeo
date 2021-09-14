@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "bettergeo:blocks/diorite",
+        "top": "bettergeo:blocks/diorite",
+        "side": "bettergeo:blocks/diorite"
+    }
+}

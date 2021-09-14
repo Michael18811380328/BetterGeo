@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:polishingmachine"
+    ]
+  },
+  "criteria": {
+    "has_sandpaper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:sandpaper"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:polishingmachine"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sandpaper",
+      "has_the_recipe"
+    ]
+  ]
+}

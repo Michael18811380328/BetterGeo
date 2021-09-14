@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:steel"
+        },
+        "title": {
+            "translate": "advancements.process.steel"
+        },
+        "description": {
+            "translate": "advancements.process.steel.desc"
+        }
+    },
+    "parent": "bettergeo:process/alloy_furnace",
+    "criteria": {
+        "steel": {
+        	"trigger": "steel"
+        }
+    }
+}

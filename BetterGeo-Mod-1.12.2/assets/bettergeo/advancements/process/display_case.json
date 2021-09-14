@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:DisplayCase"
+        },
+        "title": {
+            "translate": "advancements.process.display_case"
+        },
+        "description": {
+            "translate": "advancements.process.display_case.desc"
+        }
+    },
+    "parent": "bettergeo:process/alloy_furnace",
+    "criteria": {
+        "DisplayCase": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:DisplayCase"
+                    }
+                ]
+            }
+        }
+    }
+}

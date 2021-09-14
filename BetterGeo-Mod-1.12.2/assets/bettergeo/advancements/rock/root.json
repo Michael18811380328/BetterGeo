@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:lithiumbattery"
+        },
+        "title": {
+            "translate": "advancements.rock"
+        },
+        "description": {
+            "translate": "advancements.rock.desc"
+        },
+        "background": "bettergeo:textures/gui/advancements/backgrounds/rock.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+   "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

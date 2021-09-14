@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:AlpineCatchfly"
+        },
+        "title": {
+            "translate": "advancements.rock.alpine_catchfly"
+        },
+        "description": {
+            "translate": "advancements.rock.alpine_catchfly.desc"
+        }
+    },
+    "parent": "bettergeo:rock/root",
+    "criteria": {
+        "alpinecatchfly": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:AlpineCatchfly"
+                    }
+                ]
+            }
+        }
+    }
+}

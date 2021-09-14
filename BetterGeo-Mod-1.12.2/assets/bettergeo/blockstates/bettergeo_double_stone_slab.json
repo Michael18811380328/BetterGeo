@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "seamless=false,variant=diabase": { "model": "bettergeo:diabase" },
+        "seamless=true,variant=diabase": { "model": "bettergeo:diabase" },
+        "seamless=full,variant=diabase": { "model": "bettergeo:diabase" },
+        "seamless=false,variant=gabbro": { "model": "bettergeo:gabbro_normal" },
+        "seamless=true,variant=gabbro": { "model": "bettergeo:gabbro_normal" },
+        "seamless=full,variant=gabbro": { "model": "bettergeo:gabbro_normal" },
+        "seamless=false,variant=gneiss": { "model": "bettergeo:gneiss" },
+        "seamless=true,variant=gneiss": { "model": "bettergeo:gneiss" },
+        "seamless=full,variant=gneiss": { "model": "bettergeo:gneiss" },
+        "seamless=false,variant=granite": { "model": "bettergeo:granite" },
+        "seamless=true,variant=granite": { "model": "bettergeo:granite" },
+        "seamless=full,variant=granite": { "model": "bettergeo:granite" },
+        "seamless=false,variant=limestone": { "model": "bettergeo:limestone_normal" },
+        "seamless=true,variant=limestone": { "model": "bettergeo:limestone_normal" },
+        "seamless=full,variant=limestone": { "model": "bettergeo:limestone_normal" },
+        "seamless=false,variant=marble": { "model": "bettergeo:marble_normal" },
+        "seamless=true,variant=marble": { "model": "bettergeo:marble_normal" },
+        "seamless=full,variant=marble": { "model": "bettergeo:marble_normal" },
+        "seamless=false,variant=diorite": { "model": "bettergeo:diorite" },
+        "seamless=true,variant=diorite": { "model": "bettergeo:diorite" },
+        "seamless=full,variant=diorite": { "model": "bettergeo:diorite" },
+        "seamless=false,variant=andesite": { "model": "bettergeo:andesite" },
+        "seamless=true,variant=andesite": { "model": "bettergeo:andesite" },
+        "seamless=full,variant=andesite": { "model": "bettergeo:andesite" }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:monsterscanner"
+        },
+        "title": {
+            "translate": "advancements.rock.monsterScanner"
+        },
+        "description": {
+            "translate": "advancements.rock.monsterScanner.desc"
+        }
+    },
+    "parent": "bettergeo:rock/lithiumbattery",
+    "criteria": {
+        "monsterscanner": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:monsterscanner"
+                    }
+                ]
+            }
+        }
+    }
+}

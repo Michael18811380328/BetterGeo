@@ -1,0 +1,25 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "SWS",
+    "SLS",
+    "SWS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "oreSteel"
+    },
+    "L": {
+      "type": "forge:ore_dict",
+      "ore": "dustLimestone"
+    },
+    "W": {
+      "item": "minecraft:wool",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:fluegascleaner"
+  }
+}

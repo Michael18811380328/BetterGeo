@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:schist",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab2",
+    "data": 2,
+    "count": 6
+  }
+}

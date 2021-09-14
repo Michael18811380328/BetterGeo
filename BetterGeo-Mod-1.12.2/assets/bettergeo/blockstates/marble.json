@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:marble_normal" },
+        "type=lapis": { "model":"bettergeo:marble_lapis" }
+    }
+}

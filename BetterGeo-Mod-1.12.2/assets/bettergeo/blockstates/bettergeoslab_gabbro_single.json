@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "bettergeo:half_slab_gabbro" },
+        "half=top,variant=false": { "model": "bettergeo:upper_slab_gabbro" }
+    }
+}

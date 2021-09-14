@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:FireProximitySuitHelmet"
+        },
+        "title": {
+            "translate": "advancements.rock.fireProximitySuit"
+        },
+        "description": {
+            "translate": "advancements.rock.fireProximitySuit.desc"
+        }
+    },
+    "parent": "bettergeo:rock/quartzsilver",
+    "criteria": {
+        "fire_proximity_suit": {
+        	"trigger": "fire_proximity_suit"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:granite"
+        },
+        "title": {
+            "translate": "advancements.books.rocker"
+        },
+        "description": {
+            "translate": "advancements.books.rocker.desc"
+        },
+        "frame": "challenge"
+    },
+    "parent": "bettergeo:books/root",
+    "criteria": {
+        "fire_proximity_suit": {
+        	"trigger": "rocker"
+        }
+    }
+}

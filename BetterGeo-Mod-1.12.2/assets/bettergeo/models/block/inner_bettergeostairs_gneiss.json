@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "bettergeo:blocks/gneiss",
+        "top": "bettergeo:blocks/gneiss",
+        "side": "bettergeo:blocks/gneiss"
+    }
+}

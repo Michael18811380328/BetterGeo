@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "bettergeo:bookshelf_rock" },
+        "facing=south": { "model": "bettergeo:bookshelf_rock", "y": 180 },
+        "facing=west":  { "model": "bettergeo:bookshelf_rock", "y": 270 },
+        "facing=east":  { "model": "bettergeo:bookshelf_rock", "y": 90 }
+    }
+}

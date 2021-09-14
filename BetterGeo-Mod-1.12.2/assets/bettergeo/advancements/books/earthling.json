@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:till"
+        },
+        "title": {
+            "translate": "advancements.books.earthling"
+        },
+        "description": {
+            "translate": "advancements.books.earthling.desc"
+        },
+        "frame": "challenge"
+    },
+    "parent": "bettergeo:books/alloyer",
+    "criteria": {
+        "fire_proximity_suit": {
+        	"trigger": "earthling"
+        }
+    }
+}

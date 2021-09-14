@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    "SXS",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "oreSteel"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "bettergeo:displaycase",
+    "data": 3
+  }
+}

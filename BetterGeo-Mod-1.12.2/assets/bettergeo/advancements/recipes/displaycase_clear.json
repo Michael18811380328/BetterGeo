@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:displaycase_clear"
+    ]
+  },
+  "criteria": {
+    "has_displaycase_clear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:glass"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:displaycase_clear"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_displaycase_clear",
+      "has_the_recipe"
+    ]
+  ]
+}

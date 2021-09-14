@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:diorite"
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostairs_diorite",
+    "count": 4
+  }
+}

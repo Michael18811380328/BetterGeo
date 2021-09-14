@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:quartz_normal" },
+        "type=silver": { "model":"bettergeo:quartz_silver" },
+        "type=gold": { "model":"bettergeo:quartz_gold" }
+    }
+}

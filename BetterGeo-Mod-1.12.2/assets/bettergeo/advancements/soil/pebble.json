@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:pebble"
+        },
+        "title": {
+            "translate": "advancements.soil.pebble"
+        },
+        "description": {
+            "translate": "advancements.soil.pebble.desc"
+        }
+    },
+    "parent": "bettergeo:soil/root",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:pebble"
+                    }
+                ]
+            }
+        }
+    }
+}

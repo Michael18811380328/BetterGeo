@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "half=top,variant=diabase": { "model": "bettergeo:upper_slab_diabase" },
+        "half=bottom,variant=diabase": { "model": "bettergeo:half_slab_diabase" },
+        "half=top,variant=gabbro": { "model": "bettergeo:upper_slab_gabbro" },
+        "half=bottom,variant=gabbro": { "model": "bettergeo:half_slab_gabbro" },
+        "half=top,variant=gneiss": { "model": "bettergeo:upper_slab_gneiss" },
+        "half=bottom,variant=gneiss": { "model": "bettergeo:half_slab_gneiss" },
+        "half=top,variant=granite": { "model": "bettergeo:upper_slab_granite" },
+        "half=bottom,variant=granite": { "model": "bettergeo:half_slab_granite" },
+        "half=top,variant=limestone": { "model": "bettergeo:upper_slab_limestone" },
+        "half=bottom,variant=limestone": { "model": "bettergeo:half_slab_limestone" },
+        "half=top,variant=marble": { "model": "bettergeo:upper_slab_marble" },
+        "half=bottom,variant=marble": { "model": "bettergeo:half_slab_marble" },
+        "half=top,variant=diorite": { "model": "bettergeo:upper_slab_diorite" },
+        "half=bottom,variant=diorite": { "model": "bettergeo:half_slab_diorite" },
+        "half=top,variant=andesite": { "model": "bettergeo:upper_slab_andesite" },
+        "half=bottom,variant=andesite": { "model": "bettergeo:half_slab_andesite" }
+    }
+}

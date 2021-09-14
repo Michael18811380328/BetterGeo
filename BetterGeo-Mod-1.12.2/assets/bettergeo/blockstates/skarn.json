@@ -1,0 +1,6 @@
+{
+    "variants": {
+       "type=normal": { "model":"bettergeo:skarn" },
+       "type=border_chunk": { "model":"bettergeo:skarn" }
+    }
+}

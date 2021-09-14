@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shapeless",
+   "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "sand"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "dyeRed"
+    }
+  ],
+  "result": {
+    "item": "bettergeo:bettergeosand",
+    "data": 1
+  }
+}

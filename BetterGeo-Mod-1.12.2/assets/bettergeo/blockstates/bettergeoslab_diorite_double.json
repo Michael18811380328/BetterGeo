@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:diorite" },
+        "variant=true":    { "model": "bettergeo:diorite" }
+    }
+}

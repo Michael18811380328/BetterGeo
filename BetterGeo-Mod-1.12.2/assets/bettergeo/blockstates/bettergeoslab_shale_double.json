@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:shale" },
+        "variant=true":    { "model": "bettergeo:shale" }
+    }
+}

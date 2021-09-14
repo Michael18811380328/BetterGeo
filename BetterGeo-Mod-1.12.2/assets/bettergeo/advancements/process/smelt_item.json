@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:Smeltery"
+        },
+        "title": {
+            "translate": "advancements.process.smelt_item"
+        },
+        "description": {
+            "translate": "advancements.process.smelt_item.desc"
+        }
+    },
+    "parent": "bettergeo:process/smeltery",
+    "criteria": {
+        "charge": {
+        	"trigger": "smelt_item"
+        }
+    }
+}

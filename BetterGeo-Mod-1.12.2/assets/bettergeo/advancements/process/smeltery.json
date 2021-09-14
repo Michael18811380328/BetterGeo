@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:Smeltery"
+        },
+        "title": {
+            "translate": "advancements.process.smeltery"
+        },
+        "description": {
+            "translate": "advancements.process.smeltery.desc"
+        }
+    },
+    "parent": "bettergeo:process/feldspar",
+    "criteria": {
+        "smeltery": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:smeltery"
+                    }
+                ]
+            }
+        }
+    }
+}

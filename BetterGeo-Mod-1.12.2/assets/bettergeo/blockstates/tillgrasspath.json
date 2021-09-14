@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:tillgrasspath_normal" },
+        "type=blocky": { "model":"bettergeo:tillgrasspath_blocky" },
+        "type=clay": { "model":"bettergeo:tillgrasspath_clay" }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "seamless=false,variant=kimberlite": { "model": "bettergeo:kimberlite_normal" },
+        "seamless=true,variant=kimberlite": { "model": "bettergeo:kimberlite_normal" },
+        "seamless=full,variant=kimberlite": { "model": "bettergeo:kimberlite_normal" },
+        "seamless=false,variant=shale": { "model": "bettergeo:shale" },
+        "seamless=true,variant=shale": { "model": "bettergeo:shale" },
+        "seamless=full,variant=shale": { "model": "bettergeo:shale" },
+        "seamless=false,variant=schist": { "model": "bettergeo:schist_animated0" },
+        "seamless=true,variant=schist": { "model": "bettergeo:schist_animated0" },
+        "seamless=full,variant=schist": { "model": "bettergeo:schist_animated0" },
+        "seamless=false,variant=skarn": { "model": "bettergeo:skarn" },
+        "seamless=true,variant=skarn": { "model": "bettergeo:skarn" },
+        "seamless=full,variant=skarn": { "model": "bettergeo:skarn" },
+        "seamless=false,variant=quartz": { "model": "bettergeo:quartz_normal" },
+        "seamless=true,variant=quartz": { "model": "bettergeo:quartz_normal" },
+        "seamless=full,variant=quartz": { "model": "bettergeo:quartz_normal" }
+    }
+}

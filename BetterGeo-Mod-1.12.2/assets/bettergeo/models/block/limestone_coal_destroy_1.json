@@ -1,0 +1,6 @@
+{
+    "parent":"block/cube_all",
+    "textures": {
+        "all": "bettergeo:blocks/limestone_coal_destroy_1"
+    }
+}

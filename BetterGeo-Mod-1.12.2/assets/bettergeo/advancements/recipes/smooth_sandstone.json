@@ -1,0 +1,33 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:smooth_sandstone"
+    ]
+  },
+  "criteria": {
+    "has_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:bettergeosandstone",
+            "data": 0
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:smooth_sandstone"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sandstone",
+      "has_the_recipe"
+    ]
+  ]
+}

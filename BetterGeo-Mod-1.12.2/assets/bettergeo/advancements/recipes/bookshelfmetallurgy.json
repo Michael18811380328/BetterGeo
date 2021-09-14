@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:bookshelfmetallurgy"
+    ]
+  },
+  "criteria": {
+    "has_ash": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:ash"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:bookshelfmetallurgy"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ash",
+      "has_the_recipe"
+    ]
+  ]
+}

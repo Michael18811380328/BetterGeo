@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:monsterscanner"
+    ]
+  },
+  "criteria": {
+    "has_battery": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:LithiumBattery"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:monsterscanner"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_battery",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "bettergeo:block/tillgrass_blocky_model",
+    "textures": {
+        "particle": "bettergeo:blocks/till_blocky",
+        "bottom": "bettergeo:blocks/till_blocky",
+        "top": "bettergeo:blocks/till_blocky",
+        "top-blocky": "bettergeo:blocks/tillgrass_blocky_top",
+        "side": "bettergeo:blocks/tillgrass_blocky_side",
+        "overlay": "bettergeo:blocks/tillgrass_blocky_side_overlay"
+    }
+}

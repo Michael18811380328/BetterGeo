@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:lithium"
+        },
+        "title": {
+            "translate": "advancements.rock.lithium"
+        },
+        "description": {
+            "translate": "advancements.rock.lithium.desc"
+        }
+    },
+    "parent": "bettergeo:rock/pegmatite",
+    "criteria": {
+        "lithium": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:lithium"
+                    }
+                ]
+            }
+        }
+    }
+}

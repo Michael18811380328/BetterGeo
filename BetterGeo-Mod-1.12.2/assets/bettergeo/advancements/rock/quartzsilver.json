@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:silver"
+        },
+        "title": {
+            "translate": "advancements.rock.quartzSilver"
+        },
+        "description": {
+            "translate": "advancements.rock.quartzSilver.desc"
+        }
+    },
+    "parent": "bettergeo:rock/quartz",
+    "criteria": {
+        "quartzSilver": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:silver"
+                    }
+                ]
+            }
+        }
+    }
+}

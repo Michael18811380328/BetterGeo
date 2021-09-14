@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:quartz"
+        },
+        "title": {
+            "translate": "advancements.rock.quartz"
+        },
+        "description": {
+            "translate": "advancements.rock.quartz.desc"
+        }
+    },
+    "parent": "bettergeo:rock/root",
+    "criteria": {
+        "quartz": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:quartz"
+                    }
+                ]
+            }
+        }
+    }
+}

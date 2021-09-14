@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:diabase" },
+        "variant=true":    { "model": "bettergeo:diabase" }
+    }
+}

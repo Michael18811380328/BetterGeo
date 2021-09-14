@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:lithiumbattery"
+        },
+        "title": {
+            "translate": "advancements.rock.lithiumBattery"
+        },
+        "description": {
+            "translate": "advancements.rock.lithiumBattery.desc"
+        }
+    },
+    "parent": "bettergeo:rock/lithium",
+    "criteria": {
+        "lithiumBattery": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:lithiumBattery"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "bettergeo:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bettergeo:steelprospectorpan"
+    ]
+  },
+  "criteria": {
+    "has_steel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bettergeo:steel"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bettergeo:steelprospectorpan"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_steel",
+      "has_the_recipe"
+    ]
+  ]
+}

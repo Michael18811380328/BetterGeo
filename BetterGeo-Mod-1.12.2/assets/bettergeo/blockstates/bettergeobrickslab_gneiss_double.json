@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:brickblock_gneiss" },
+        "variant=true":    { "model": "bettergeo:brickblock_gneiss" }
+    }
+}

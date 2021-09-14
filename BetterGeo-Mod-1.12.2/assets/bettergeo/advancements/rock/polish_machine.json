@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:PolishingMachine"
+        },
+        "title": {
+            "translate": "advancements.rock.polishMachine"
+        },
+        "description": {
+            "translate": "advancements.rock.polishMachine.desc"
+        }
+    },
+    "parent": "bettergeo:rock/polish",
+    "criteria": {
+        "polish_machine": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:PolishingMachine"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:brickblock_gabbro" },
+        "variant=true":    { "model": "bettergeo:brickblock_gabbro" }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:jetpack"
+        },
+        "title": {
+            "translate": "advancements.soil.jetpack"
+        },
+        "description": {
+            "translate": "advancements.soil.jetpack.desc"
+        }
+    },
+    "parent": "bettergeo:soil/aluminium",
+    "criteria": {
+        "mulch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:jetpack"
+                    }
+                ]
+            }
+        }
+    }
+}

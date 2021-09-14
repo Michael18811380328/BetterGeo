@@ -1,0 +1,488 @@
+tile.Granite.name=Granit
+tile.BrickBlock.granite.name=Slipad Granit
+tile.Andesite.name=Andesit
+tile.BrickBlock.andesite.name=Slipad Andesit
+tile.Diorite.name=Diorit
+tile.BrickBlock.diorite.name=Slipad Diorit
+tile.Gneiss.name=Gnejs
+tile.BrickBlock.gneiss.name=Slipad Gnejs
+tile.Gabbro.normal.name=Gabbro
+tile.BrickBlock.gabbro.name=Slipad Gabbro
+tile.Gabbro.titanium.name=Gabbro med Titan
+tile.Gabbro.redstone.name=Gabbro med Koppar
+tile.Limestone.normal.name=Kalksten
+tile.BrickBlock.limestone.name=Slipad Kalksten
+tile.Limestone.coal.name=Kalksten med Kol
+tile.Magma.name=Magma
+tile.Marble.normal.name=Marmor
+tile.Marble.lapis.name=Marmor med Lapis Lazuli
+tile.BrickBlock.marble.name=Slipad Marmor
+tile.Schist.name=Glimmerskiffer
+tile.BrickBlock.schist.name=Slipad Glimmerskiffer
+tile.Shale.name=Lerskiffer
+tile.AlumShale.name=Alunskiffer
+tile.BrickBlock.shale.name=Slipad Lerskiffer
+tile.Kimberlite.normal.name=Kimberlit
+tile.Kimberlite.diamond.name=Kimberlit med Diamant
+tile.Diabase.name=Diabas
+tile.BrickBlock.diabase.name=Slipad Diabas
+tile.Pegmatite.normal.name=Pegmatit
+tile.Quartz.normal.name=Kvarts
+tile.BrickBlock.quartz.name=Slipad Kvarts
+tile.Quartz.gold.name=Kvarts med Guld
+tile.Quartz.silver.name=Kvarts med Silver
+tile.Skarn.name=Skarn
+tile.BetterGeoSand.normal.name=Sand
+tile.BetterGeoSand.red.name=Röd Sand
+tile.BetterGeoSandStone.sandstone.name=Sandsten
+tile.BetterGeoSandStone.smooth_sandstone.name=Len Sandsten
+tile.BetterGeoSandStone.chiseled_sandstone.name=Mejslad Sandsten
+tile.BetterGeoSandStoneCoal.name=Sandsten med Kol
+tile.AlpineCatchfly.name=Fjällnejlika
+tile.Basalt.name=Basalt
+tile.Bauxite.name=Bauxit
+tile.Pumice.name=Pimpsten
+tile.BandedIronFormation.name=Bandad Järnmalm
+tile.Ash.name=Aska
+
+tile.Peat.name=Torv
+tile.PeatBlock.name=Trädgårdsblock
+tile.PeatGrass.name=Gräsbeklädd Torv
+tile.Sphagnum.name=Vitmossa
+tile.Till.normal.name=Morän
+tile.Till.blocky.name=Storblockig Morän
+tile.Till.clay.name=Lerig Morän
+tile.TillGrass.normal.name=Gräsbeklädd Morän
+tile.TillGrass.blocky.name=Gräsbeklädd Storblockig Morän
+tile.TillGrass.clay.name=Gräsbeklädd Lerig Morän
+tile.Mulch.name=Odlingsjord
+tile.Podzol.name=Podsol
+tile.GlacialErratic.name=Flyttblock
+tile.WeatheredTropicalSoil.name=Vittrad Tropisk Jord
+tile.WeatheredTropicalSoilGrass.normal.name=Gräsbeklädd Vittrad Tropisk Jord
+tile.Pebble.rot0.name=Klappersten
+tile.Pebble.rot1.name=Klappersten
+tile.Pebble.rot2.name=Klappersten
+tile.Pebble.rot3.name=Klappersten
+
+tile.AlloyFurnace.name=Legeringsugn
+tile.Smeltery.name=Smältverk
+tile.BatteryCharger.name=Batteriladdare
+tile.PolishingMachine.name=Slipmaskin
+tile.RecycleStation.name=Återvinningsstation
+tile.FlueGasCleaner.name=Rökgasrenare
+
+tile.MineralBlock.aquamarine.name=Akvamarinblock
+tile.MineralBlock.cordierite.name=Vattensafirblock
+tile.MineralBlock.garnet.name=Granatblock
+tile.MineralBlock.topaz.name=Topasblock
+tile.MineralBlock.tantalum.name=Tantalitblock
+tile.MineralBlock.tourmaline.name=Turmalinblock
+tile.MineralBlock.feldspar.name=Fältspatsblock
+
+tile.DisplayCase.clear.name=Glasmonter
+tile.DisplayCase.brass.name=Glasmonter i Mässing
+tile.DisplayCase.bronze.name=Glasmonter i Brons
+tile.DisplayCase.steel.name=Glasmonter i Stål
+
+item.Garnet.name=Granat
+item.Aquamarine.name=Akvamarin
+item.Topaz.name=Topas
+item.Tourmaline.name=Turmalin
+item.Tantalum.name=Tantalit
+item.TantalumIngot.name=Tantaltacka
+item.Cordierite.name=Vattensafir
+item.Steel.name=Stål
+item.Brass.name=Mässing
+item.Bronze.name=Brons
+item.Silver.name=Silver
+item.SilverIngot.name=Silvertacka
+item.ZincBlende.name=Zinkblände
+item.ZincIngot.name=Zinktacka
+item.Tin.name=Kassiterit
+item.TinIngot.name=Tenntacka
+item.Titanium.name=Titan
+item.TitaniumIngot.name=Titantacka
+item.Lithium.name=Spodumen
+item.LithiumIngot.name=Litiumtacka
+item.Feldspar.name=Fältspat
+item.BetterGeoIronOre.name=Järnmalm
+item.LimestoneDust.name=Kalkstensmjöl
+item.MagneticCompass.name=Magnetisk Kompass
+item.MonsterScanner.name=Monstervarnare
+item.LithiumBattery.name=Litiumbatteri
+item.Ree.name=Monazit
+item.ReeIngot.name=Sällsynta Jordartsmetallertacka
+item.Aluminum.name=Aluminium
+item.AluminumIngot.name=Aluminiumtacka
+item.Wolfram.name=Volframit
+item.WolframIngot.name=Volframtacka
+item.CopperIngot.name=Koppartacka
+item.WoodProspectorsPan.name=Vaskpanna i Trä
+item.SteelProspectorsPan.name=Vaskpanna i Stål
+item.Slag.name=Slagg
+item.ZincBlendeSlag.name=Slagg Från Zinkblände
+item.IronSlag.name=Slagg från Järnmalm
+item.BauxiteSlag.name=Slagg från Bauxite
+item.GabbroSlag.name=Slagg från Gabbro
+item.SlagWaste.name=Förbrukad Slagg
+item.Jetpack.name=Jetpack
+item.FireProximitySuitHelmet.name=Flamskyddade Hjälm
+item.FireProximitySuitChestplate.name=Flamskyddade Jacka
+item.FireProximitySuitLeggings.name=Flamskyddade Byxor
+item.FireProximitySuitBoots.name=Flamskyddade Stövlar
+item.DefibrillatorUnCharged.name=Hjärtstartare
+item.DefibrillatorCharged.name=Laddad Hjärtstartare
+item.Sandpaper.name=Sandpapper
+item.BetterGeoBook.name=BetterGeo-bok
+item.MetalBoat.name=Metallbåt
+item.ConductivityMeter.name=Elektrisk Konduktivitetsmätare
+item.Brachiopod.name=Brachiopod
+item.Ammonite.name=Ammonit
+item.Trilobite.name=Trilobit
+item.CompostEarth.name=Kompostjord
+item.PeatPellets.name=Torvpellets
+
+itemGroup.BetterGeoRocks=BetterGeo - Bergarter
+itemGroup.BetterGeoSoils=BetterGeo - Jordarter
+itemGroup.BetterGeoOreAndMaterials=BetterGeo - Mineraler och Material
+itemGroup.BetterGeoItems=BetterGeo - Prylar
+itemGroup.BetterGeoMisc=BetterGeo - Övrigt och Böcker
+
+tile.bettergeostoneslab.diabase.name=Diabasplatta
+tile.bettergeobrickslab_diabase_single.name=Slipad Diabasplatta
+tile.bettergeostoneslab.gabbro.name=Gabbroplatta
+tile.bettergeobrickslab_gabbro_single=Slipad Gabbroplatta
+tile.bettergeostoneslab.gneiss.name=Gnejsplatta
+tile.bettergeobrickslab_gneiss_single.name=Slipad Gnejsplatta
+tile.bettergeostoneslab.granite.name=Granitplatta
+tile.bettergeobrickslab_granite_single.name=Slipad Granitplatta
+tile.bettergeostoneslab.diorite.name=Dioritplatta
+tile.bettergeobrickslab_diorite_single.name=Slipad Dioritplatta
+tile.bettergeostoneslab.andesite.name=Andesitplatta
+tile.bettergeobrickslab_andesite_single.name=Slipad Andesitplatta
+tile.bettergeostoneslab2.kimberlite.name=Kimberlitplatta
+tile.bettergeostoneslab.limestone.name=Kalkstensplatta
+tile.bettergeobrickslab_limestone_single.name=Slipad Kalkstensplatta
+tile.bettergeostoneslab.marble.name=Marmorplatta
+tile.bettergeobrickslab_marble_single.name=Slipad Marmorplatta
+tile.bettergeostoneslab2.shale.name=Lerskifferplatta
+tile.bettergeobrickslab_shale_single.name=Slipad Lerskifferplatta
+tile.bettergeostoneslab2.schist.name=Glimmerskifferplatta
+tile.bettergeobrickslab_schist_single.name=Slipad Glimmerskifferplatta
+tile.bettergeostoneslab2.skarn.name=Skarnplatta
+tile.bettergeostoneslab2.quartz.name=Kvartsplatta
+tile.bettergeobrickslab_quartz_single.name=Slipad Kvartsplatta
+tile.sguStoneSlab2.sandstone.name=Sandstensplatta
+
+tile.bettergeostairs_diabase.name=Diabastrappa
+tile.bettergeobrickstairs_diabase.name=Slipad Diabastrappa
+tile.bettergeostairs_gabbro.name=Gabbrotrappa
+tile.bettergeobrickstairs_gabbro.name=Slipad Gabbrotrappa
+tile.bettergeostairs_gneiss.name=Gnejstrappa
+tile.bettergeobrickstairs_gneiss.name=Slipad Gnejstrappa
+tile.bettergeostairs_granite.name=Granittrappa
+tile.bettergeobrickstairs_granite.name=Slipad Granittrappa
+tile.bettergeostairs_diorite.name=Diorittrappa
+tile.bettergeobrickstairs_diorite.name=Slipad Diorittrappa
+tile.bettergeostairs_andesite.name=Andesitetrappa
+tile.bettergeobrickstairs_andesite.name=Slipad Andesittrappa
+tile.bettergeostairs_kimberlite.name=Kimberlittrappa
+tile.bettergeostairs_limestone.name=Kalkstenstrappa
+tile.bettergeobrickstairs_limestone.name=Slipad Kalkstenstrappa
+tile.bettergeostairs_marble.name=Marmortrappa
+tile.bettergeobrickstairs_marble.name=Slipad Marmortrappa
+tile.bettergeostairs_schist.name=Glimmerskiffertrappa
+tile.bettergeobrickstairs_schist.name=Slipad Glimmerskiffertrappa
+tile.bettergeostairs_shale.name=Lerskiffertrappa
+tile.bettergeobrickstairs_shale.name=Slipad Lerskiffertrappa
+tile.bettergeostairs_skarn.name=Skarntrappa
+tile.sguStoneStair.SGUSandstone.name=Sandstenstrappa
+tile.sguStoneStair.SGUSandstoneChiseled.name=Mejslad Sandstenstrappa
+tile.sguStoneStair.SGUSandstoneSmooth.name=Len Sandstenstrappa
+tile.BookShelfRock.name=Bergartsbokhylla
+tile.BookShelfMetallurgy.name=Metallurgibokhylla
+tile.BookShelfMineral.name=Mineralbokhylla
+tile.BookShelfSoil.name=Jordartsbokhylla
+
+container.smeltery=Smältverk
+container.alloyfurnace=Legeringsugn
+container.batterycharger=Batteriladdare
+container.polishingMachine=Slipmaskin
+container.recyclestation=Återvinningsstation
+container.fluegascleaner=Rökgasrenare
+container.metallurgy=Bokhylla - Metallurgi
+container.mineral=Bokhylla - Mineral
+container.soil=Bokhylla - Jordarter
+container.rock=Bokhylla - Bergarter
+
+
+#Rödsten till Koppar
+
+tile.redstoneDust.name=Kopparpulver
+tile.oreRedstone.name=Kopparmalm
+item.redstone.name=Koppar
+tile.redstoneLight.name=Kopparlampa
+tile.notGate.name=Kopparfackla
+itemGroup.redstone=Koppar
+tile.blockRedstone.name=Kopparblock
+item.diode.name=Kopparrepeterare
+item.comparator.name=Kopparjämförare
+
+#Messages
+panning.notallowed=Du kan bara vaska sand som finns under vatten i, eller nära, floder och stränder
+monsterscanner.nocharge=Slut på batteri i monstervarnaren
+conductivitymeter.nocharge=Slut på batteri i konduktivitetsmätaren
+
+#Text
+
+farmland.nofarm_blocky=Det går inte att odla på storblockig morän
+
+defibrillator.use=Hjärtstartaren räddade ditt liv!
+
+sandpaper.usage=Använd inte sandpappret, slå på blocket istället
+
+batterycharger.lithiumbatterycharge=Det går inte att ladda batterier direkt. Bygg en apparat som innehåller ett batteri först och ladda det istället
+
+death.attack.pollution=%1$s dog av föroreningar
+allowflightserver=Den här servern tillåter inte flygning. Be en admin att slå på allow-flight
+
+advancements.process=Bettergeo - Bearbeta
+advancements.process.desc=Bearbeta fynd i BetterGeo för att skapa nya föremål
+advancements.process.feldspar=Jordskorpans vanligaste mineral
+advancements.process.feldspar.desc=Hittat fältspat i pegmatit, granit eller gnejs
+advancements.process.smeltery=Dags att smälta
+advancements.process.smeltery.desc=Bygg ett smältverk med en ugn och åtta fältspat
+advancements.process.alloy_furnace=Legera mera
+advancements.process.alloy_furnace.desc=Bygg en legeringsugn med ett smältverk och tre tegelblock
+advancements.process.flue_gas_cleaner=Dags att rensa luften
+advancements.process.flue_gas_cleaner.desc=Installera en rökgasrenare på smältverket
+advancements.process.smelt_item=Förädlare
+advancements.process.smelt_item.desc=Du har smält malm för att få ut metaller
+advancements.process.ash=Ask-kungen
+advancements.process.ash.desc=Rensa bort aska från marken
+advancements.process.slag=En gång till
+advancements.process.slag.desc=Återvinn slagg från smältverket
+advancements.process.steel=Stålsätt dig
+advancements.process.steel.desc=Tillverka stål med järn, kol och volfram
+advancements.process.brass=Fattigmansguld
+advancements.process.brass.desc=Tillverka mässing av koppar och zink
+advancements.process.bronze=Tredje plays
+advancements.process.bronze.desc=Tillverka brons av tenn och koppar
+advancements.process.metal_boat=Oförstörbar
+advancements.process.metal_boat.desc=Tillverka en båt av stål
+advancements.process.ride_in_lava=Vulkanolog
+advancements.process.ride_in_lava.desc=Ta en tur på lava med metallbåten
+advancements.process.displayCase=Showtime
+advancements.process.displayCase.desc=Bygg en monter av glasblock och stål, brons eller mässing
+advancements.process.recycling=Cirkulär ekonomi
+advancements.process.recycling.desc=Bygg en återvinningsstation
+
+advancements.rock=Bettergeo - Bergarter
+advancements.rock.desc=Bearbeta bergartsfynd i BetterGeo för att skapa nya föremål
+advancements.rock.pegmatite=Bara början
+advancements.rock.pegmatite.desc=Hitta pegmatit
+advancements.rock.lithium=Batterimineral
+advancements.rock.lithium.desc=Hitta litium i pegmatit
+advancements.rock.lithiumBattery=Kraftkontainer
+advancements.rock.lithiumBattery.desc=Bygg ett batteri med litium och stål
+advancements.rock.monsterScanner=Monstervarnare
+advancements.rock.monsterScanner.desc=Bygg en monstervarnare
+advancements.rock.charge=Kraftsamling
+advancements.rock.charge.desc=Ladda något i batteriladdaren
+advancements.rock.defibrillator=Andra chansen
+advancements.rock.defibrillator.desc=Överlev med hjälp av hjärtstartaren
+advancements.rock.garnet=Stenhårt
+advancements.rock.garnet.desc=Hacka fram en granat från en pegmatit
+advancements.rock.polish=Polera
+advancements.rock.polish.desc=Tillverka ett sandpapper av granat, papper och slembollar
+advancements.rock.polishMachine=Polera mera
+advancements.rock.polishMachine.desc=Tillverka en slipmaskin
+
+advancements.soil=Bettergeo - Jordarter
+advancements.soil.desc=Hitta och använd olika jordarter
+advancements.soil.peat=Den organiska jordarten
+advancements.soil.peat.desc=Hitta torv
+advancements.soil.mulch=Väx upp
+advancements.soil.mulch.desc=Framställ odlingsjord med torv, kompost och lera eller lerig morän
+advancements.soil.peatPellets=Energi
+advancements.soil.peatPellets.desc=Torka torv i arbetsbänken för att få fram bränsle
+
+advancements.rock.quartz=Kvartsrast
+advancements.rock.quartz.desc=Hitta en kvartsgång
+advancements.rock.quartzSilver=Silversurfaren
+advancements.rock.quartzSilver.desc=Hitta silver i kvartsgångar
+advancements.rock.fireProximitySuit=Flamsäker
+advancements.rock.fireProximitySuit.desc=Bär hela den flamskyddande dräkten
+
+advancements.soil.bauxite=Jungeljord
+advancements.soil.bauxite.desc=Hitta bauxit
+advancements.soil.aluminium=Världens vanligaste metall
+advancements.soil.aluminium.desc=Förädla aluminium i smältverket
+advancements.soil.jetpack=Sikta mot stjärnorna
+advancements.soil.jetpack.desc=Bygg ett jetpack
+
+advancements.rock.alpine_catchfly=Plocka en blomma
+advancements.rock.alpine_catchfly.desc=Plocka upp en fjällnejlika
+advancements.rock.copper=En ganska röd sten
+advancements.rock.copper.desc=Hitta koppar i gabbro
+
+advancements.rock.prospectorsPan=Mer än en skål
+advancements.rock.prospectorsPan.desc=Tillverka en vaskpanna med träpinnar eller stål
+advancements.rock.goldDigger=Skattjakt
+advancements.rock.goldDigger.desc=Vaska efter rikedommar i vattendrag
+
+advancements.soil.pebble=Högsta kustlinjen
+advancements.soil.pebble.desc=Hitta klapper vid högsta kustlinjen
+advancements.soil.glacialErratic=Jättekast
+advancements.soil.glacialErratic.desc=Hitta flyttblock
+advancements.soil.redSand=Faluröd
+advancements.soil.redSand.desc=Färga sand med slagg från järnframställning
+advancements.soil.till=Istidens lämningar
+advancements.soil.till.desc=Hitta morän, lerig morän eller storblockig morän
+
+
+advancements.process.magneticCompass=Järnkoll
+advancements.process.magneticCompass.desc=Tillverka en magnetisk kompass för att hitta järnmalm
+
+advancements.books=Bettergeo - Böcker
+advancements.books.desc=Öka ditt geologikunnande genom att hitta informationsböcker
+advancements.books.rocker=Bergmästare
+advancements.books.rocker.desc=Fyll hela bergbokhyllan
+advancements.books.mineralHunter=Mineraljägare
+advancements.books.mineralHunter.desc=Fyll hela mineralbokhyllan
+advancements.books.alloyer=Metallurg
+advancements.books.alloyer.desc=Fyll hela metallurgibokhyllan
+advancements.books.earthling=Jordart-ist
+advancements.books.earthling.desc=Fyll hela jordbokhyllan
+advancements.books.earthKnower=Bäst på världen
+advancements.books.earthKnower.desc=Fyll alla bokhyllor
+
+#BetterGeo bookshelf
+
+bettergeobookshelf.alreadyhavebook=Du har redan den här boken i bokhyllan
+bettergeobookshelf.wrongbook=Den här boken går inte att sätta i den här hyllan
+bettergeobookshelf.readbooks=Läs böckerna
+
+#BetterGeo books
+
+bettergeobook.title.unknown=Okänd titel
+bettergeobook.type.Rock=Bergarter
+bettergeobook.type.Mineral=Mineral
+bettergeobook.type.Soil=Jordarter
+bettergeobook.type.Metallurgy=Metallurg
+
+#Soil
+
+bettergeobook.title.till_0=Morän
+bettergeobook.text.till_0=Morän är Sveriges vanligaste jordart och täcker ca 75 procent av Sveriges markyta. Den bildades när inlandsisen malde ner och drog med sig berg och jord. Morän är en osorterad jordart vilket betyder att den kan innehålla en blandning av lera, sand, grus, stenar - och till och med stora block.
+bettergeobook.title.till_1=Storblockig Morän
+bettergeobook.text.till_1=Storblockig morän är precis som vanlig morän ett resultat av inlandsisens malande och förflyttning av berg och jord. Denna typ av morän innehåller som namnet antyder en påfallande mängd block, ofta större än 1 meter i diameter. På grund av alla blocken är områden med storblockig morän både svårgrävd och svårframkomlig. Denna typ av morän lämpar sig inte för odling.
+bettergeobook.title.till_2=Lerig Morän
+bettergeobook.text.till_2=Lerig morän är precis som vanlig morän ett resultat av inlandsisens malande och förflyttning av berg och jord. Denna typ av morän är relativt ovanlig och påträffas i områden med lätteroderade sedimentära bergarter som kalksten, lerskiffer och sandsten. Lerig morän har en hög andel lerpartiklar (mer än 15 procent) och går att odla i. Områden med lerig morän i Sverige är bland annat Skåne, Gotland och Öland.
+bettergeobook.title.pebble=Klapperfält/HK
+bettergeobook.text.pebble=Ett klapperfält består av endast grus eller sten och räknas därför som en sorterad jordart. Det är vågor som har sorterat bort den sand och lera som fanns där från början. Klapperfält markerar ibland Högsta kustlinjen, dvs. den högsta nivå som vattnet nådde efter att inlandsisen smält bort.
+bettergeobook.title.glacialerratic=Flyttblock
+bettergeobook.text.glacialerratic=Flyttblock är stora stenblock som brutits loss från berg och transporterats bort av inlandsisen. Blocket färdades med i isens rörelseriktningen tills isen smälte och blocket lämnades kvar lite varstans i terrängen. Flyttblock kan därför ha en helt annan sammansättning än närliggande berg.
+bettergeobook.title.peat=Torv
+bettergeobook.text.peat=Torv är en organisk jordart som bildas när ofullständigt förmultnade växter samlas i igenväxta sjöar eller vid försumpning av tidigare torr mark. Torv bildas i kärr och mossar. Skillnaden mellan dessa är att mossar bara får vatten från nederbörd medan kärret också har tillgång till grundvatten.
+bettergeobook.title.bauxite=Bauxit
+bettergeobook.text.bauxite=Bauxit är en aluminiumrik jordart som främst bildas i tropiska miljöer genom kemisk vittring av berggrunden. Bauxit är en av världens största källa av aluminium, ett grundämne som är rikligt förekommande i jordskorpan men alltid i förening med andra ämnen. Framställning av aluminium kräver därför förädling av bauxit.
+
+#Rock
+
+bettergeobook.title.alumshale=Alunskiffer
+bettergeobook.text.alumshale=Alunskiffer är en variant av lerig skiffer. Det är en sedimentär bergart som har bildats genom att lera, döda växter och djur har lagrats ovanpå varandra och sedan tryckts ihop tills att det har blivit en bergart. Genom att det är så mycket organiskt material i alunskiffer kan den innehålla olja. Det finns ofta fossil i alunskiffer.
+bettergeobook.title.andesite=Andesit
+bettergeobook.text.andesite=Andesit är en magmatisk bergart som bildas vid vulkanisk aktivitet. Den är grå till svart, ofta även med ljusare korn. Namnet andesit kommer från bergskedjan Anderna i Sydamerika, där bergarten är vanlig.
+bettergeobook.title.basalt=Basalt
+bettergeobook.text.basalt=Basalt är en finkornig magmatisk bergart som ofta är mörk eller svart. Vittring kan dock ge den mer gulbruna, rödbruna eller grönaktiga toner. Basalt bygger upp stora delar av havsbotten och är den vanligaste vulkaniska bergarten på jorden.
+bettergeobook.title.bandedironformation=Bandad järnmalm
+bettergeobook.text.bandedironformation=Bandade järnmalmer kan hittas i sedimentära och vulkaniska bergarter. De är ofta mörka eller röda till färgen med tydliga band. Det höga järninnehållet gör att de är också magnetiska. Både järnmalmen och den bergart den finns i bildades för omkring två miljarder år sedan på botten av havet.
+bettergeobook.title.diabase=Diabas
+bettergeobook.text.diabase=Diabas är en mörk magmatisk bergart. Diabas kan bildas när magma tränger upp i sprickor i jordskorpan och stelnar snabbt. Man kan ofta hitta ljusare mineral i den mörka bergarten. Som prydnads- eller byggnadssten kallas ibland diabas för svart granit.
+bettergeobook.title.diorite=Diorit
+bettergeobook.text.diorite=Diorit är en grovkornig magmatisk bergart som bildas på stora djup nere i jordskorpan. Den är grå till mörkgrå men kan vara svart, blågrå eller ha gröna toner. Ofta har diorit stora vita och svarta korn.
+bettergeobook.title.gabbro_0=Gabbro
+bettergeobook.text.gabbro_0=Gabbro är en grovkornig magmatisk bergart som bildas på stora djup nere i jordskorpan. Gabbro är mörk, ibland svart eller med gröna toner. Gabbro är en viktig bergart då den kan innehålla höga koncentrationer av olika metaller, bland annat koppar och titan.
+bettergeobook.title.gneiss=Gnejs
+bettergeobook.text.gneiss=Gnejs är en metamorf bergart som bildas när exempelvis en granit eller en skiffer omvandlas under hög temperatur och högt tryck. Gnejs kan ha många färger, exempelvis grå, brun, röd eller rosa och är oftast tydligt bandad.
+bettergeobook.title.granite=Granit
+bettergeobook.text.granite=Granit är en grovkornig magmatisk bergart. Granit kan bildas när magma långsamt stelnar långt ner i jordskorpan. Granit kan ha många olika färger: vit, grå, rosa, röd eller svart. Det är en av Sveriges vanligaste bergarter.
+bettergeobook.title.kimberlite=Kimberlit
+bettergeobook.text.kimberlite=Kimberlit är en magmatisk bergart som är känd för att ibland innehålla diamanter. Kimberliter bildar rörformade intrusioner (magma som trängt in i berget och stelnat) i omgivande berggrund.
+bettergeobook.title.limestone=Kalksten
+bettergeobook.text.limestone=Kalksten är en sedimentär bergart. Den bildas när vattenlevande organismer, som koraller och snäckor, ansamlats i stora mängder på botten av havet och begravs för att sedan kristallisera till mineral efter lång tid. Fossil är vanliga i kalksten.
+bettergeobook.title.marble=Marmor
+bettergeobook.text.marble=Marmor är en metamorf bergart som bildas när kalksten utsätts för höga temperaturer och högt tryck. Marmor är oftast ljus, men kan ha toner av blått, rosa, gul eller grått.
+bettergeobook.title.pegmatite=Pegmatit
+bettergeobook.text.pegmatite=Pegmatit är en magmatisk bergart som oftast bildar gångar. Den har väldigt grova kristaller och kan innehålla sällsynta mineral. Pegmatit har många färger, men ofta har den liknande färger som granit: grå, röd till rosa eller svart.
+bettergeobook.title.schist=Glimmerskiffer
+bettergeobook.text.schist=Glimmerskiffer är en metamorf bergart som bildas när till exempel en finkornig sedimentär bergart, som lerskiffer, utsätts för hög temperatur och högt tryck. Glimmerskiffer kännetecknas av att den är skiffrig och glittrande av glimmermineral.
+bettergeobook.title.shale=Lerskiffer
+bettergeobook.text.shale=Lerskiffer är en finkornig sedimentär bergart. Den är lagrad och kan vara ljus till mycket mörk. Svart skiffer innehåller ofta mycket organiskt material. Lerskiffer bildas när lera begravs på botten av havet och kompakteras till sten med tydliga lager.
+bettergeobook.title.skarn=Skarn
+bettergeobook.text.skarn=Skarn är en metamorf bergart som ofta innehåller malmmineral, mineral som har större mängd metaller i sig och kan vara värda att bryta. Skarn bildas i kalksten som påverkas av heta lösningar från en granitisk magma, som finns i närheten. Därför hittas skarn oftast i gränsen mellan granit och kalksten eller marmor.
+bettergeobook.title.sandstone=Sandsten
+bettergeobook.text.sandstone=Sandsten är en sedimentär bergart som bildas när sand kompakteras, cementeras och bildar sten efter lång tid. Sandsten är ofta ljus men kan vara många färger: brun, gul, röd, grå, rosa, vit eller svart. Sandsten kan vara bandad eller ha andra strukturer.
+bettergeobook.title.sedimentary=Sedimentär bergart
+bettergeobook.text.sedimentary=När grus, sand och lera sjunker till havets botten kallas de lager de bildar för sediment. När sedimenten trycks ihop genom att nytt material lagras ovanpå dem, kan de till sist hårdna till sten. Det är så till exempel sandsten och lerskiffer bildas. Skal och andra rester av växter och djur kan också bilda sediment, som med tiden blir till kalksten.
+bettergeobook.title.magmatic=Magmatisk bergart
+bettergeobook.text.magmatic=Magmatiska bergarter kommer från magma. När magma rinner ut på jordytan som en lava och svalnar snabbt så bildar den en finkornig bergart, ett exempel är basalt. Om däremot en magma under jordytan svalnar, vilket sker saktare, så blir resultatet ofta mer grovkorniga bergarter som granit.
+bettergeobook.title.metamorphic=Metamorf bergart
+bettergeobook.text.metamorphic=Bergarter som har utsatts för höga temperaturer eller tryck förändras och bildar nya bergarter som kallas metamorfa. Förändringen (metamorfosen) sker när berget hamnar på större djup i jordskorpan. Den metamorfa bergarten skiljer sig i exempelvis textur eller hårdhet.
+
+
+#Minerals
+
+bettergeobook.title.garnet=Granat
+bettergeobook.text.garnet=Granat är ett mineral och en ädelsten. Granater är ofta röda. De kan även vara gröna, gula, orangea, rosa eller lila. Granat är hårt och används därför till bland annat slip- och skärmaterial.
+bettergeobook.title.aquamarine=Akvamarin
+bettergeobook.text.aquamarine=Akvamarin är en variant av mineralet beryll. Akvamariner är blå eller turkosa och mycket vackra. Smaragder, som är gröna, är en annan variant av beryll. Beryll kan också vara bland annat gul, röd, vit eller helt färglös. Både akvaramin och smaragder betraktas som ädelstenar.
+bettergeobook.title.topaz=Topas
+bettergeobook.text.topaz=Topas är ett mineral och den betraktas som en ädelsten. I sin rena form är den färglös. Om den inte är helt ren utan det finns till exempel metaller i den, kan den vara till exempel gul, rosa, vit, grön eller röd. På medeltiden så kallade man alla gula ädelstenar felaktigt för topas.
+bettergeobook.title.tourmaline=Turmalin
+bettergeobook.text.tourmaline=Turmalin är ett mineral och en ädelsten som kan ha olika färger, från helt svart eller vit till röd, blå, grön, lila, gul eller rosa, till och med flerfärgade. Den vanligaste turmalinen kallas skörl och är svart.
+bettergeobook.title.tantalum=Tantalit
+bettergeobook.text.tantalum=Tantalit är ett mineral som har svart till grå färg. Det är tungt och hårt men ganska sprött. Ur tantalit utvinner man metallen tantal, ett grundämne som är viktigt för bland annat elektronik i mobiltelefoner och datorer.
+bettergeobook.title.cordierite=Cordierit
+bettergeobook.text.cordierite=Vattensafir är en blå ädelstensvariant av mineralet cordierit. Vattensafirer liknar safirer, som är en ädelstensvariant av mineralet korund. De skiljer sig bland annat i vikt; vattensafir är mycket lättare. Cordierit kan ha andra färger än blå, till exempel gul, grön, brun eller grå.
+bettergeobook.title.feldspar=Fältspat
+bettergeobook.text.feldspar=Fältspat är en mineralgrupp som bygger upp omkring sextio procent av jordskorpan. Det finns två huvudtyper av fältspat: kalifältspat som är ljust rödbrun till röd och plagioklas som är ljusgrå, vit eller beige. Fältspat ingår i bland annat bergarterna granit och gnejs..
+bettergeobook.title.quartz=Kvarts
+bettergeobook.text.quartz=Mineralet kvarts är färglös i sin rena form. Färglösa kristaller av kvarts brukar kallas bergkristaller. Kristaller med andra färger kallas ametist (lila), citrin (gul), rosenkvarts (rosa) och rökkvarts (grå). Kvarts är det näst vanligaste mineralet i jordskorpan efter fältspat.
+bettergeobook.title.gabbro_1=Koppar
+bettergeobook.text.gabbro_1=Koppar utvinns bland annat från mineralen kopparkis och kopparglans som kan finnas i bergarterna gabbro och basalt. Koppar är viktigt för elektronik då det har bra ledningsförmåga och är hållbart. Koppar finns till exempel i alla datorer, telefoner, bilar och flygplan.
+bettergeobook.title.gabbro_2=Titan
+bettergeobook.text.gabbro_2=Titan utvinns bland annat från mineralet ilmenit som kan finnas i gabbro. Ilmenit är ett mörkt mineral som är lite magnetiskt. Metallen titan är lätt och stark och används bland annat i flygplan och fartyg.
+bettergeobook.title.bettergeoironore=Järn
+bettergeobook.text.bettergeoironore=Järn är den tredje vanligaste metallen i jordskorpan. Järn finns i många mineral, bland annat mineralen hematit och magnetit som förekommer i bandade järnmalmer. Vissa järnmineral, som magnetit, är magnetiska.
+bettergeobook.title.zincblende=Zinkblände
+bettergeobook.text.zincblende=Mineralet zinkblände bryts för att utvinna zink. Zinkblände är oftast gult, brunt eller grått. Zink används främst för att göra rostfritt stål. Det kan också legeras tillsammans med koppar för att skapa mässing. Zink gör att legeringar blir mer tåliga.
+bettergeobook.title.wolfram=Volframit
+bettergeobook.text.wolfram=Volframit är ett grått till svartbrunt mineral som bryts för att få metallen volfram. Volfram ingår tillsammans med järn i stål, som är en legering. Volfram gör stålet  starkare och mer värmetåligt
+bettergeobook.title.tin=Kassiterit
+bettergeobook.text.tin=Kassiterit är ett svartbrunt till grått mineral som bryts för att utvinna metallen tenn. Det kan ibland hittas i pegmatiter. Tenn är en mjuk metall som främst används som lödmetall i elektronik, men även för att göra bland annat bronslegeringar.
+bettergeobook.title.lithium=Spodumen
+bettergeobook.text.lithium=Spodumen är ett mineral som kan ha många olika färger: vit, grå och rosa är exempel. Det bryts ur pegmatit för att utvinna litium, en viktig metall i till exempel batterier. Litium är lätt och mjukt i sin rena form.
+bettergeobook.title.ree=Monazit
+bettergeobook.text.ree=Monazit är ett mineral som bryts för att utvinna sällsynta jordartsmetaller. Dessa metaller har stor användning i avancerad teknik, exempelvis datorer och telefoner. Monazit är ofta rödbrun, men kan vara brun, gul, rosa, grön eller grå.
+
+#Alloy
+
+bettergeobook.title.steel=Stål
+bettergeobook.text.steel=Stål är en järnlegering som används till nästan allt i samhället, från flygplan och bilar till elektronik, byggnader och bestick. Det finns många typer av stål, som extra starka eller lätta, beroende på vilka ämnen som blandas in i legeringen. Huvudämnet är dock järn.
+bettergeobook.title.bronze=Brons
+bettergeobook.text.bronze=Brons är en legering (en blandning) av koppar och tenn. Brons är tåligt och lätt att gjuta. Brons började användas redan för över 4 000 år sedan i allt från verktyg till statyer. Idag används brons bland annat till maskiner, musikinstrument och mynt.
+bettergeobook.title.brass=Mässing
+bettergeobook.text.brass=Mässing är en legering (en blandning) av koppar och zink. Mässing med låg kopparhalt är röd medan mer zink ger gulare färg. Zinkhalten i mässing brukar vara mellan 5 och 45 procent.
+bettergeobook.title.slag=Slagg
+bettergeobook.text.slag=Slagg kallas det som blir över efter man hämtat de ämnen man vill ha ur stenen. Alla ämnen man vill ha kan dock inte alltid utvinnas, utan en del blir kvar i slaggen. Men med moderna tekniker kan man återvinna slagg och utvinna ännu mer!
+bettergeobook.title.ash=Aska
+bettergeobook.text.ash=Aska bildas när man smälter mineral i ett smältverk. Aska är som fin sand och sprids snabbt med vinden. Den innehåller ofta flera metaller, bland annat titan. Om man kan samla ihop askan så går det alltså att utvinna metaller ur den!
+
+
+
+
+
+

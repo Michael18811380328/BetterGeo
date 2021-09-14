@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:gneiss" },
+        "variant=true":    { "model": "bettergeo:gneiss" }
+    }
+}

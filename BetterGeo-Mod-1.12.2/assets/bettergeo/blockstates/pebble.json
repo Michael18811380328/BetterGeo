@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=rot0": { "model":"bettergeo:pebble_rot0" },
+        "type=rot1": { "model":"bettergeo:pebble_rot1" },
+        "type=rot2": { "model":"bettergeo:pebble_rot2" },
+        "type=rot3": { "model":"bettergeo:pebble_rot3" }
+    }
+}

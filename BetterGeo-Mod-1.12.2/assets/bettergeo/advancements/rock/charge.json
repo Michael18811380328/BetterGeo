@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:BatteryChargerActive"
+        },
+        "title": {
+            "translate": "advancements.rock.charge"
+        },
+        "description": {
+            "translate": "advancements.rock.charge.desc"
+        }
+    },
+    "parent": "bettergeo:rock/lithiumbattery",
+    "criteria": {
+        "charge": {
+        	"trigger": "charge"
+        }
+    }
+}

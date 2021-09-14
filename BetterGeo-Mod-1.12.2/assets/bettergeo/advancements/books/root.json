@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:BookShelfMetallurgy"
+        },
+        "title": {
+            "translate": "advancements.books"
+        },
+        "description": {
+            "translate": "advancements.books.desc"
+        },
+        "background": "bettergeo:textures/gui/advancements/backgrounds/books.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+   "criteria": {
+        "book": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:BetterGeoBook"
+                    }
+                ]
+            }
+        }
+    }
+}

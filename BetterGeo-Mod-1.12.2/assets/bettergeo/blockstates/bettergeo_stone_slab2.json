@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "half=top,variant=kimberlite": { "model": "bettergeo:upper_slab_kimberlite" },
+        "half=bottom,variant=kimberlite": { "model": "bettergeo:half_slab_kimberlite" },
+        "half=top,variant=shale": { "model": "bettergeo:upper_slab_shale" },
+        "half=bottom,variant=shale": { "model": "bettergeo:half_slab_shale" },
+        "half=top,variant=schist": { "model": "bettergeo:upper_slab_schist" },
+        "half=bottom,variant=schist": { "model": "bettergeo:half_slab_schist" },
+        "half=top,variant=skarn": { "model": "bettergeo:upper_slab_skarn" },
+        "half=bottom,variant=skarn": { "model": "bettergeo:half_slab_skarn" },
+        "half=top,variant=quartz": { "model": "bettergeo:upper_slab_quartz" },
+        "half=bottom,variant=quartz": { "model": "bettergeo:half_slab_quartz" }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:sandpaper"
+        },
+        "title": {
+            "translate": "advancements.rock.polish"
+        },
+        "description": {
+            "translate": "advancements.rock.polish.desc"
+        }
+    },
+    "parent": "bettergeo:rock/garnet",
+    "criteria": {
+        "polish": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:sandpaper"
+                    }
+                ]
+            }
+        }
+    }
+}

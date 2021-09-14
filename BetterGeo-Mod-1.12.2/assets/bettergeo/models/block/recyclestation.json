@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "bettergeo:blocks/recycle_station_top",
+        "front": "bettergeo:blocks/recycle_station_sides",
+        "side": "bettergeo:blocks/recycle_station_sides"
+    }
+}

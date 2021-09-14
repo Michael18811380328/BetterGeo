@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shapeless",
+   "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "bettergeo:peat"
+    },
+    {
+      "item": "bettergeo:compostearth"
+    }
+  ],
+  "result": {
+    "item": "bettergeo:mulch"
+  }
+}

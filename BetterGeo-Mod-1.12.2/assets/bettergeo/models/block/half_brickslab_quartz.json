@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "bettergeo:blocks/quartzbricks",
+        "top": "bettergeo:blocks/quartzbricks",
+        "side": "bettergeo:blocks/quartzbricks"
+    }
+}

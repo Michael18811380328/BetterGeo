@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:gabbro",
+            "data": 1
+        },
+        "title": {
+            "translate": "advancements.rock.copper"
+        },
+        "description": {
+            "translate": "advancements.rock.copper.desc"
+        }
+    },
+    "parent": "bettergeo:rock/alpine_catchfly",
+    "criteria": {
+        "alpinecatchfly": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:gabbro",
+                        "data": 1
+                    }
+                ]
+            }
+        }
+    }
+}

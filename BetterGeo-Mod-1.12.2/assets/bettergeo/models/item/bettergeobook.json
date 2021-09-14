@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "overrides": [
+        { "predicate": { "booktype": 1 }, "model": "bettergeo:item/bettergeobook_metallurgy" },
+        { "predicate": { "booktype": 2 }, "model": "bettergeo:item/bettergeobook_mineral" },
+        { "predicate": { "booktype": 3 }, "model": "bettergeo:item/bettergeobook_rock" },
+        { "predicate": { "booktype": 4 }, "model": "bettergeo:item/bettergeobook_soil" }
+    ]
+}

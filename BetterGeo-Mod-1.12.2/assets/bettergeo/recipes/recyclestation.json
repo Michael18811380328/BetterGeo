@@ -1,0 +1,23 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "SKS",
+    "P P",
+    "SKS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "oreSteel"
+    },
+    "K": {
+      "item": "minecraft:redstone_block"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "bettergeo:recyclestation"
+  }
+}

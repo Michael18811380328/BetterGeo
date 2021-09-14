@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:andesite"
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab",
+    "data": 7,
+    "count": 6
+  }
+}

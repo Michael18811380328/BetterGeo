@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:garnet"
+        },
+        "title": {
+            "translate": "advancements.rock.garnet"
+        },
+        "description": {
+            "translate": "advancements.rock.garnet.desc"
+        }
+    },
+    "parent": "bettergeo:rock/pegmatite",
+    "criteria": {
+        "garnet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:garnet"
+                    }
+                ]
+            }
+        }
+    }
+}

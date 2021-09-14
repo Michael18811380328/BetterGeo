@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=normal": { "model":"bettergeo:pegmatite_normal" },
+        "type=player_placed": { "model":"bettergeo:pegmatite_player_placed" },
+        "type=player_placed_destroy_1": { "model":"bettergeo:pegmatite_player_placed_destroy_1" },
+        "type=player_placed_destroy_2": { "model":"bettergeo:pegmatite_player_placed_destroy_2" },
+        "type=player_placed_destroy_3": { "model":"bettergeo:pegmatite_player_placed_destroy_3" },
+        "type=player_placed_destroy_4": { "model":"bettergeo:pegmatite_player_placed_destroy_4" }
+    }
+}

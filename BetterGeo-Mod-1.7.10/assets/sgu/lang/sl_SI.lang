@@ -1,0 +1,462 @@
+tile.Granite.name=Granit
+tile.Granitebrick.name=Granitni zidak
+tile.Andesite.name=Andezit
+tile.AndesiteBrick.name=Andezitni zidak
+tile.Diorite.name=Diorit
+tile.DioriteBrick.name=Dioritni zidak
+tile.Gneiss.name=Gnajs
+tile.Gneissbrick.name=Zidak iz gnajsa
+tile.Gabbro.name=Gabro
+tile.GabbroBrick.name=Zidak iz gabra
+tile.GabbroTitanium.name=Gabro s titanom
+tile.GabbroRedstone.name=Gabro z bakrom
+tile.Limestone.name=Apnenec
+tile.Limestonebrick.name=Zidak iz apnenca
+tile.LimestoneCoal.name=Apnenec s premogom
+tile.Magma.name=Magma
+tile.Marble.name=Marmor
+tile.MarbleLapis.name=Marmor z lazuritom
+tile.Marblebrick.name=Marmorni zidak
+tile.Schist.name=Blestnik
+tile.Schistbrick.name=Zidak iz blestnika
+tile.Shale.name=Glinavec
+tile.AlumShale.name=Glinavec z alumi
+tile.Shalebrick.name=Zidak iz glinavca
+tile.Kimberlite.name=Kimberlit
+tile.KimberliteDiamond.name=Kimberlit z diamanti
+tile.Diabase.name=Diabaz
+tile.Diabasebrick.name=Zidak iz diabaza
+tile.Pegmatite.name=Pegmatit
+tile.Quartz.name=Kremen
+tile.Quartzbrick.name=Kremenov zidak
+tile.QuartzGold.name=Kremen z zlatom
+tile.QuartzSilver.name=Kremen s srebrom
+tile.Skarn.name=Skarn
+tile.SGUSand.name=Pesek
+tile.SGUSandstone.name=Peščenjak
+tile.SGUSandstoneSmooth.name=Gladki peščenjak
+tile.SGUSandstoneChiseled.name=Klesani peščenjak
+tile.SandstoneCoal.name=Peščenjak s premogom
+tile.Viscaria.name=Alpska lepnica
+tile.Basalt.name=Bazalt
+tile.Bauxite.name=Boksit
+tile.Pumice.name=Plovec
+tile.BandedIron.name=Pasasta železova ruda
+tile.Ash.name=Pepel
+
+tile.Peat.name=Šota
+tile.PeatBlock.name=Blok iz šote
+tile.PeatGrass.name=Šota pokrita s travo
+tile.Sphagnum.name=Šotni mah
+tile.Moraine_0.name=Til 
+tile.Moraine_1.name=Til iz balvanov 
+tile.Moraine_2.name=Til bogat z glino 
+tile.MoraineGrass_0.name=Til prekrit s travo
+tile.MoraineGrass_1.name=Til iz balvanov prekrit s travo
+tile.MoraineGrass_2.name=Til bogat z glino in prekrit s travo
+tile.Mulch.name=Zastirka 
+tile.GlacialErratic.name=Eratični blok 
+tile.WeatheredTropicalSoil.name=Preperela tropska tla
+tile.WeatheredTropicalSoilGrass.name=Preperela tropska tla prekrita s travo
+tile.Pebble.name=Prodnik
+
+tile.AlloyFurnace.name=Talilna peč
+tile.Smeltery.name=Topilnica
+tile.BatteryCharger.name=Polnilec baterij
+tile.PolishingMachine.name=Stroj za poliranje
+tile.RecycleStation.name=Postaja za recikliranje
+tile.FlueGasCleaner.name=Čistilec dimnih plinov
+
+tile.AquamarineBlock.name=Blok iz akvamarina
+tile.CordieriteBlock.name=Blok iz kordierita
+tile.GarnetBlock.name=Blok iz granata
+tile.TopazBlock.name=Blok iz topaza
+tile.TantalumBlock.name=Blok iz tantalita
+tile.TourmalineBlock.name=Blok iz turmalina
+tile.FeldsparBlock.name=Blok iz glinenca
+
+tile.DisplayCaseBrassBlock.name=Vitrina iz medenine
+tile.DisplayCaseBronzeBlock.name=Vitrina iz brona
+tile.DisplayCaseSteelBlock.name=Vitrina iz jekla
+
+item.Garnet.name=Granat
+item.Aquamarine.name=Akvamarin
+item.Topaz.name=Topaz
+item.Tourmaline.name=Turmalin
+item.Tantalum.name=Tantalit
+item.UnusableDiamond.name=Neuporaben diamant
+item.TantalumIngot.name=Palica iz tantalita
+item.Cordierite.name=Kordierit
+item.Steel.name=Jeklo
+item.Brass.name=Medenina
+item.Bronze.name=Bron
+item.Silver.name=Srebro
+item.SilverIngot.name=Srebrna palica
+item.Zincblende.name=Sfalerit
+item.ZincIngot.name=Palica iz cinka
+item.Tin.name=Kasiterit
+item.TinIngot.name=Palica iz kositra
+item.Titanium.name=Titan
+item.TitaniumIngot.name=Palica iz titana
+item.Lithium.name=Spodumen
+item.LithiumIngot.name=Palica iz litija
+item.Feldspar.name=Glinenec
+item.SGUIronOre.name=Železova ruda
+item.LimestoneDust.name=Prah iz apnenca
+item.MagneticCompass.name=Magnetni kompas
+item.MonsterScanner.name=Skener za iskanje pošasti 
+item.LithiumBattery.name=Litijeva baterija
+item.REE.name=Monacit
+item.REEIngot.name=Palica iz redkih zemeljskih elementov
+item.Aluminum.name=Aluminij
+item.AluminumIngot.name=Aluminijeva palica
+item.Wolfram.name=Volframit
+item.WolframIngot.name=Palica iz volframita
+item.CopperIngot.name=Bakrena palica
+item.WoodProspectorsPan.name=Lesena ponev za izpiranje zlata
+item.SteelProspectorsPan.name=Jeklena ponev za izpiranje zlata
+item.Slag.name=Žlindra
+item.ZincBlendeSlag.name=Cinkova žlindra
+item.IronSlag.name=Žlindra iz železove rude
+item.BauxiteSlag.name=Boksitna žlindra
+item.GabbroSlag.name=Žlindra iz gabra
+item.SlagWaste.name=Žlindrin odpadek 
+item.Jetpack.name=Nahrbtnik z raketnim pogonom 
+item.FireProximitySuitHelmet.name=Ognjevarna zaščitna čelada
+item.FireProximitySuitChestplate.name=Ognjevarni zaščitni prsni ščit
+item.FireProximitySuitLeggings.name=Ognjevarne zaščitne hlače 
+item.FireProximitySuitBoots.name=Ognjevarni zaščitni škornji
+item.Defibrillator.name=Defibrilator
+item.SandPaper.name=Brusni papir
+item.BetterGeoBook.name=Knjiga BetterGeo
+item.MetalBoat.name=Kovinski čoln
+item.ConductivityMeter.name=Merilnik električne prevodnosti 
+item.Brachiopod.name=Brahiopod
+item.Ammonite.name=Amonit
+item.Trilobite.name=Trilobit
+item.CompostEarth.name=Kompostna zemlja
+item.PeatPellets.name=Šotni peleti
+
+
+tile.sguStoneSlab1.diabase.name=Plošča iz diabaza 
+tile.sguStoneSlabBrick1.diabase.name=Plošča iz zidakov iz diabaza
+tile.sguStoneSlab1.gabbro.name=Plošča iz gabra
+tile.sguStoneSlabBrick1.gabbro.name=Plošča iz zidakov iz gabra 
+tile.sguStoneSlab1.gneiss.name=Plošča iz gnajsa
+tile.sguStoneSlabBrick1.gneiss.name=Plošča iz zidakov iz gnajsa
+tile.sguStoneSlab1.granite.name=Granitna plošča
+tile.sguStoneSlabBrick1.granite.name=Plošča iz granitnih zidakov
+tile.sguStoneSlab2.diorite.name=Dioritna plošča
+tile.sguStoneSlabBrick2.diorite.name=Plošča iz dioritnih zidakov
+tile.sguStoneSlab2.andesite.name=Andezitna plošča
+tile.sguStoneSlabBrick2.andesite.name=Plošča iz andezitnih zidakov
+tile.sguStoneSlab1.kimberlite.name=Plošča iz kimberlita
+tile.sguStoneSlab1.limestone.name=Plošča iz apnenca
+tile.sguStoneSlabBrick1.limestone.name=Plošča iz zidakov iz apnenca
+tile.sguStoneSlab1.marble.name=Marmorna plošča
+tile.sguStoneSlabBrick1.marble.name=Plošča iz marmornih zidakov
+tile.sguStoneSlab2.shale.name=Plošča iz glinavca
+tile.sguStoneSlabBrick2.shale.name=Plošča iz zidakov glinavca
+tile.sguStoneSlab2.schist.name=Plošča iz blestnika
+tile.sguStoneSlabBrick2.schist.name=Plošča iz zidakov iz blestnika
+tile.sguStoneSlab2.skarn.name=Plošča iz skarna
+tile.sguStoneSlab2.quartz.name=Kremenova plošča
+tile.sguStoneSlabBrick2.quartz.name=Plošča iz kremenovih zidakov
+tile.sguStoneSlab2.sandstone.name=Plošča iz peščenjaka
+
+tile.sguStoneStair.Diabase.name=Stopnica iz diabaza
+tile.sguStoneBrickStair.Diabasebrick.name=Stopnica iz zidakov iz diabaza
+tile.sguStoneStair.Gabbro.name=Stopnica iz gabra
+tile.sguStoneBrickStair.GabbroBrick.name=Stopnica iz zidakov iz gabra 
+tile.sguStoneStair.Gneiss.name=Stopnica iz gnajsa
+tile.sguStoneBrickStair.Gneissbrick.name=Stopnica iz zidakov iz gnajsa 
+tile.sguStoneStair.Granite.name=Granitna stopnica
+tile.sguStoneBrickStair.Granitebrick.name=Stopnica iz granitnih zidakov
+tile.sguStoneStair.Diorite.name=Diortina stopnica
+tile.sguStoneBrickStair.DioriteBrick.name=Stopnica iz dioritnih zidakov
+tile.sguStoneStair.Andesite.name=Andezitna stopnica
+tile.sguStoneBrickStair.AndesiteBrick.name=Stopnica iz andezitnih zidakov
+tile.sguStoneStair.Kimberlite.name=Stopnica iz kimberlita
+tile.sguStoneStair.Limestone.name=Stopnica iz apnenca
+tile.sguStoneBrickStair.Limestonebrick.name=Stopnica iz zidakov iz apnenca
+tile.sguStoneStair.Diabase.name=Stopnica iz diabaza
+tile.sguStoneStair.Marble.name=Marmorna stopnica
+tile.sguStoneBrickStair.Marblebrick.name=Stopnica iz marmornih zidakov
+tile.sguStoneStair.Schist.name=Stopnica iz blestnika
+tile.sguStoneBrickStair.Schistbrick.name=Stopnica iz zidakov iz blestnika
+tile.sguStoneStair.Shale.name=Stopnica iz glinavca
+tile.sguStoneBrickStair.Shalebrick.name=Stopnica iz zidakov iz glinavca
+tile.sguStoneStair.Skarn.name=Stopnica iz skarna
+tile.sguStoneStair.SGUSandstone.name=Stopnica iz peščenjaka
+tile.sguStoneStair.SGUSandstoneChiseled.name=Stopnica iz klesanega peščenjaka
+tile.sguStoneStair.SGUSandstoneSmooth.name=Stopnica iz gladkega peščenjaka
+tile.betterGeoBookShelfRock.name=Knjižna polica za knjige o kamninah
+tile.betterGeoBookShelfMetallurgy.name=Knjižna polica za knjige o metalurgiji
+tile.betterGeoBookShelfMineral.name=Knjižna polica za knjige o mineralih
+tile.betterGeoBookShelfSoil.name=Knjižna polica za knjige o tleh
+
+itemGroup.BetterGeo=BetterGeo
+itemGroup.BetterGeoBooks=Knjige o BetterGeo 
+container.smeltery=Topilnica
+container.alloyfurnace=Talilna peč
+container.batterycharger=Polnilec baterij
+container.polishingMachine=Stroj za poliranje
+container.recyclestation=Postaja za recikliranje
+container.metallurgy=Knjižna polica za knjige o metalurgiji 
+container.mineral=Knjižna polica za knjige o mineralih 
+container.soil=Knjižna polica za knjige o tleh
+container.rock=Knjižna polica za knjige o kamninah
+
+#Od rdeče kamnine do bakra
+
+tile.redstoneDust.name=Bakreni prah
+tile.oreRedstone.name=Bakrena ruda
+item.redstone.name=Baker
+tile.redstoneLight.name=Bakrena svetilka
+tile.notGate.name=Bakrena bakla
+itemGroup.redstone=Baker
+tile.blockRedstone.name=Blok iz bakra
+item.diode.name=Bakreni ojačevalnik 
+item.comparator.name=Bakreni primerjalnik 
+
+#Sporočila
+panning.notallowed=Pesek lahko izpiramo pod vodo, blizu rečnih in morskih obal
+monsterscanner.nocharge=Skener za iskanje pošasti nima napajanja 
+conductivitymeter.nocharge=Merilnik prevodnosti nima napajanja 
+
+#Besedilo
+sgubook.text.1=BetterGeo – geološki dodatek k igri, ki ga je razvil Švedski geološki zavod.
+sgubook.text.2=Želimo si, da čim več ljudi odkriva, kako zabavna, zanimiva in pomembna je geologija.
+sgubook.text.3=Zato smo razvili BetterGeo! 
+sgubook.text.4=Več o geologiji: www.sgu.se/en
+
+farmland.nofarm_blocky=Na moreni z bloki ni mogoče kmetovati
+
+defibrillator.use=Življenje ti je rešil defibrilator!
+sandpaper.usage=Ne brusi z brusnim papirjem, temveč z njim razbij blok 
+
+batterycharger.lithiumbatterycharge=Baterije ne moreš polniti neposredno. Namesto tega izdelaj predmet z baterijo in ga napolni. 
+
+death.attack.pollution=%1$s ubit zaradi onesnaženja
+
+achievement.feldspar=Najbolj pogost mineral na svetu
+achievement.feldspar.desc=Najdi glinenec v pegmatitu, granitu ali gnajsu 
+achievement.smeltery=Taljenje
+achievement.smeltery.desc=Zgradi topilnico s pečico in osmimi glinenci
+achievement.alloyFurnace=Srečno z zlitinami
+achievement.alloyFurnace.desc=Zgradi talilno peč s topilnico in opekami 
+achievement.flueGasCleaner=Čas je za čiščenje zraka
+achievement.flueGasCleaner.desc=Namesti čistilec dimnih plinov na topilnici 
+achievement.smeltItem=Predelano 
+achievement.smeltItem.desc=Predelaj rudo v topilnici 
+achievement.ash=Počisti
+achievement.ash.desc=Odstrani pepel s tal 
+achievement.slag=Še enkrat
+achievement.slag.desc=Recikliraj žlindro iz topilnice
+achievement.steel=Postani jeklen 
+achievement.steel.desc=Izdelaj jeklo iz železa, premoga in volframa
+achievement.brass=Glasbena kovina
+achievement.brass.desc=Izdelaj medenino iz bakra in cinka
+achievement.bronze=Tretje mesto
+achievement.bronze.desc=Izdelaj bron iz bakra in kositra
+achievement.metalBoat=Nepotopljivo 
+achievement.metalBoat.desc=Izdelaj jekleni čoln
+achievement.rideInLava=Vulkanolog
+achievement.rideInLava.desc=Potuj po lavi v kovinskem čolnu
+achievement.displayCase=Spektakel
+achievement.displayCase.desc=Izdelaj vitrino
+achievement.recycling=Krožno gospodarstvo
+achievement.recycling.desc=Zgradi postajo za recikliranje
+
+achievement.pegmatite=Šele začetek 
+achievement.pegmatite.desc=Najdi pegmatit 
+achievement.lithium=Mineral v baterijah
+achievement.lithium.desc=Najdi litij v pegmatitu
+achievement.lithiumBattery=Energijska banka 
+achievement.lithiumBattery.desc=Izdelaj baterijo iz jekla in litija
+achievement.monsterScanner=ptsssss.. BOOM
+achievement.monsterScanner.desc=Izdelaj skener za iskanje pošasti 
+achievement.charge=Napajanje 
+achievement.charge.desc=Napolni nekaj s polnilcem baterij 
+achievement.defribilator=Druga priložnost
+achievement.defribilator.desc=Preživi s pomočjo defibrilatorja 
+achievement.garnet=Trdna kamnina 
+achievement.garnet.desc=Najdi granat v pegmatitu 
+achievement.polish=Peščen
+achievement.polish.desc=Izdelaj brusni papir iz granata, papirja in lepljivih kroglic 
+achievement.polishMachine=Sijaj
+achievement.polishMachine.desc=Izdelaj polirni stroj
+
+achievement.quartz=Kristal
+achievement.quartz.desc=Najdi kremen
+achievement.quartzSilver= Srebrni letalec
+achievement.quartzSilver.desc=Najdi srebro v kremenu
+achievement.fireProximitySuit=Zaviralec gorenja
+achievement.fireProximitySuit.desc=Obleci ognjevarna oblačila 
+achievement.bauxite=V džungli
+achievement.bauxite.desc=Najdi boksit
+achievement.aluminium=Najbolj pogosta kovina na svetu
+achievement.aluminium.desc=Predelaj aluminij v topilnici 
+achievement.jetpack=Le nebo je meja 
+achievement.jetpack.desc=Izdelaj nahrbtnik z raketnim pogonom 
+achievement.viscaria=Moč cvetja
+achievement.viscaria.desc=Poberi alpsko lepnico 
+achievement.copper=Precej rdeč kamen 
+achievement.copper.desc=Najdi baker
+
+achievement.prospectorsPan=Več kot posoda achievement.prospectorsPan.desc=S pomočjo palic ali jekla izdelaj ponev za izpiranje zlata
+
+
+achievement.goldDigger=Lov za zakladom 
+achievement.goldDigger.desc=Poišči bogastvo v rekah 
+
+achievement.pebble=Najvišja obalna črta
+achievement.pebble.desc=Najdi prodnike na najvišji obalni črti
+achievement.glacialErratic=Odloženo
+achievement.glacialErratic.desc=Najdi eratični blok
+achievement.redSand=Temeljito pobarvaj 
+achievement.redSand.desc=Pobarvaj pesek z žlindro iz železove rude
+achievement.moraine=Ostanki iz ledene dobe 
+achievement.moraine.desc=Najdi til, glineni til ali til z bloki
+achievement.peat=Organska tla 
+achievement.peat.desc=Najdi šoto 
+achievement.mulch=Rasti
+achievement.mulch.desc=Naredi zastirko iz šote, komposta in zaglinjenega tila ali gline 
+achievement.peatPellets=Energija
+achievement.peatPellets.desc=Posuši šoto na delovni mizi in jo uporabi kot gorivo 
+achievement.magneticCompass=Magnetni pomočnik 
+achievement.magneticCompass.desc=Izdelaj magnetni kompas za iskanje pasaste železne rude 
+achievement.rocker=Rocker
+achievement.rocker.desc=Napolni knjižno omaro s knjigami o kamninah
+achievement.mineralHunter=Lovec na minerale
+achievement.mineralHunter.desc=Napolni knjižno omaro s knjigami o mineralih
+achievement.alloyer=Livar 
+achievement.alloyer.desc=Napolni knjižno omaro s knjigami o zlitinah
+achievement.earthling=Zemljan
+achievement.earthling.desc=Napolni knjižno omaro s knjigami o tleh 
+achievement.earthKnower=Poznavalec Zemlje
+achievement.earthKnower.desc=Napolni vse knjižne omare 
+
+#Knjižna polica BetterGeo 
+
+bettergeobookshelf.alreadyhavebook=Knjiga je že na knjižni polici 
+bettergeobookshelf.wrongbook=Te knjige ne moreš postaviti na to knjižno polico 
+bettergeobookshelf.readbooks=Beri knjige 
+
+#Knjige BetterGeo 
+
+bettergeobook.title.unknown=Neznan naslov 
+bettergeobook.type.Rock=Kamnina
+bettergeobook.type.Mineral=Mineral
+bettergeobook.type.Soil=Tla
+bettergeobook.type.Metallurgy=Metalurgija
+
+#Tla
+
+bettergeobook.title.moraine_0=Til
+bettergeobook.text.moraine_0=Til je najpogostejši tip tal na Švedskem in pokriva približno 75 % švedskega kopnega. Nastal je, ko je celinski ledeni pokrov razpadel in s seboj odnašal kamnine in tla. Til so nesortirana tla, kar pomeni da lahko vsebujejo mešanico gline, peska, proda, kamnov in celo velikih blokov. 
+bettergeobook.title.moraine_1=Til iz balvanov
+bettergeobook.text.moraine_1=Tako kot navadni til, je tudi til iz balvanov rezultat erozije in premikanja kamnin in tal z ledenim pokrovom. Ta vrsta tila vsebuje, kot tudi samo ime pove, znatno količino balvanov, pogosto premera večjega od 1 m. Velika količina balvanov na nekem območju otežuje njihovo izkoriščanje (izkopavanje) in dostopnost. Ta vrsta tila ni primerna za gojenje rastlin.
+bettergeobook.title.moraine_2=Til bogat z glino
+bettergeobook.text.moraine_2=Tako kot navadni til, je tudi til bogat z glino rezultat erozije in premikanja kamnin in tal z ledenim pokrovom. Ta vrsta tila je relativno redka in se nahaja na območju sedimentnih kamnin, ki se lahko erodirajo, npr. apnenci, glinavci in peščenjaki. Til bogat z glino vsebuje veliko količino glinenih delcev (več kot 15 %) in je zato primeren za gojenje rastlin. 
+bettergeobook.title.pebble=Prodniki
+bettergeobook.text.pebble=Prod predstavlja akumulacijo prodnikov in zato spada v sortirana tla. Valovi odnašajo ostali material, kot sta pesek ali glina, in za seboj puščajo le prodnike. Obalni prod ponekod označuje najvišjo obalno črto oz. najvišji vodni nivo, ki nastane ob stalitvi celinskega ledenega pokrova. 
+bettergeobook.title.glacialerratic=Eratični blok 
+bettergeobook.text.glacialerratic=Eratični bloki so veliki balvani, ki so se odlomili od matične kamnine in so bili prenešeni z ledeniki ali z ledenimi pokrovi. Balvani potujejo v smeri premikanja ledenikov, dokler se led ne stali in jih pusti na nekem območju. Eratični bloki imajo lahko drugačno sestavo od okoliških kamnin. 
+bettergeobook.title.peat=Šota
+bettergeobook.text.peat=Šota so organska tla, ki nastanejo, ko se delno razgrajene rastline kopičijo v zaraščenih jezerih ali vodotokih. Šota nastaja v močvirjih in barjih. Razlika med njima je ta, da barja dobijo vodo le iz padavin, močvirja pa še od podzemne vode. 
+bettergeobook.title.bauxite=Boksit
+bettergeobook.text.bauxite=Boksit so z aluminijem bogata tla, ki primarno nastajajo v tropskem okolju s kemičnim preperevanjem matične kamnine. Boksit je eden izmed največjih virov aluminija na svetu. Aluminij je element, ki se pojavlja v velikih količinah v zemeljski skorji vendar se na površju pojavlja le v spojinah. Zato aluminij pridobivamo s predelavo boksita. 
+
+#Kamnina
+
+bettergeobook.title.alumshale=Glinavec z alumi
+bettergeobook.text.alumshale=Glinavci z alumi so nastali pred približno 500 milijoni leti na Švedskem. V tej temni kamnini se je ohranilo veliko organske snovi, iz katerih je v plasteh glinavca nastala nafta. Glinavci z alumi pogosto vsebujejo fosile.
+bettergeobook.title.andesite=Andezit
+bettergeobook.text.andesite=Andezit je magmatska kamnina, ki je nastala z vulkansko/magmatsko aktivnostjo. Gre za sivo do črno kamnino, s pogosto svetlo obarvanimi zrni. Ime andezit izvira iz imena gorovja Andi v Južni Ameriki, kjer se ta kamnina zelo pogosto pojavlja.
+bettergeobook.title.basalt=Bazalt
+bettergeobook.text.basalt=Bazalt je drobnozrnata magmatska kamnina, ki je pogosto temne do črne barve, vendar ima lahko zaradi preperevanja tudi rumeno-rjave, rdeče-rjave ali zelene odtenke. Velik del oceanske skorje je zgrajena iz bazalta. Gre za najpogostejšo vulkansko kamnino (predornino) na Zemlji.
+bettergeobook.title.bandediron=Pasasta železova ruda
+bettergeobook.text.bandediron=Pasasta železova ruda so sedimenti z visoko vsebnostjo železa. Pogosto so temni ali rdeči z izrazito pasasto teksturo. Imajo tudi magnetne lastnosti. Večina teh kamnin je nastalih pred približno 2 milijoni let. 
+bettergeobook.title.diabase=Diabaz
+bettergeobook.text.diabase=Diabaz (ali dolerit) je temna magmatska kamnina. Nastane takrat, ko magma vdre v razpoke že prej obstoječih kamnin in se hitro strdi. Pogosto vsebuje svetlo obarvane minerale. Kadar se uporablja kot gradbeni ali okrasni kamen, ga včasih imenujejo tudi črni granit.
+bettergeobook.title.diorite=Diorit
+bettergeobook.text.diorite=Diorit je debelozrnata magmatska kamnina, ki je nastala globoko v zemeljski skorji. Diorit je siv do temno siv, lahko pa je tudi črn ali modro-siv z zelenimi odtenki. Diorit pogosto vsebuje velika bela in črna zrna.
+bettergeobook.title.gabbro=Gabro
+bettergeobook.text.gabbro=Gabro je debelozrnata magmatska kamnina, ki je nastala globoko v zemeljski skorji. Je temne barve, včasih črna z zelenimi odtenki. Gabro je pomemben vir kovin kot sta npr. baker in titan.
+bettergeobook.title.gneiss=Gnajs
+bettergeobook.text.gneiss=Gnajs je metamorfna kamnina, ki nastane ko se granit ali glinavec, pod visokimi temperaturami in tlaki, spremenita. Gnajs je lahko siv, rjav, rdeč ali rožnat in je izrazito pasast. 
+bettergeobook.title.granite=Granit
+bettergeobook.text.granite=Granit je debelozrnata magmatska kamnina. Granit nastane, ko se magma ohlaja globoko v zemeljski skorji. Barve kamnine so lahko različne: bela, siva, rožnata, rdeča ali črna. Granit je eden izmed najpogostejših kamnin na Švedskem.
+bettergeobook.title.kimberlite=Kimberlit
+bettergeobook.text.kimberlite=Kimberlit je magmatska kamnina, ki lahko vsebuje diamante. Kimberlit ustvarja cevaste tvorbe v matični kamnini.
+bettergeobook.title.limestone=Apnenec
+bettergeobook.text.limestone=Apnenec je sedimentna kamnina. Nastane z usedanjem in nalaganjem lupinic odmrlih morskih organizmov, kot so korale in školjke, na morsko dno, ki se sčasoma strdijo v kamnino. V apnencih se fosili pogosto pojavljajo.
+bettergeobook.title.marble=Marmor
+bettergeobook.text.marble=Marmor je metamorfna kamnina, ki nastane, ko je apnenec izpostavljen visokim temperaturam in tlakom. Marmor je običajno svetle barve, lahko pa ima odtenke modre, rožnate, rumene ali sive barve.
+bettergeobook.title.pegmatite=Pegmatit
+bettergeobook.text.pegmatite=Pegmatit je magmatska kamnina, ki tvori dajke in žile. Ima velike kristale in lahko vsebuje redke minerale. Pegmatiti se lahko pojavljajo v različnih barvah: sivih, rdečih do rožnatih ali črnih.
+bettergeobook.title.schist=Blestnik
+bettergeobook.text.schist=Blestnik je metamorfna kamnina, ki lahko nastane, ko je drobnozrnata sedimentna kamnina, npr. glinavec, izpostavljena visokim temperaturam in tlakom. Za blestnik sta značilna foliacija in svetlikavost zaradi sljudnih mineralov. 
+bettergeobook.title.shale=Glinavec
+bettergeobook.text.shale=Glinavec je drobnozrnata sedimentna kamnina. Ima skrilavo strukturo in je lahko svetle do temne barve. Črni glinavci pogosto vsebujejo veliko organske snovi. Kamnina nastane, ko glino prekrijejo sedimenti morskega dna in se sčasoma strdi v kamnino z izrazito plasnatostjo. 
+bettergeobook.title.skarn=Skarn
+bettergeobook.text.skarn=Skarn je metamorfna kamnina, ki pogosto vsebuje rudne minerale in minerale bogate s kovinami, ki so ekonomsko zanimivi za izkoriščanje. Skarn nastaja v apnencih, ki so izpostavljeni delovanju magme. 
+bettergeobook.title.sandstone=Peščenjak
+bettergeobook.text.sandstone=Peščenjak je sedimentna kamnina, ki nastane, ko se pesek strdi in zlepi, ter sčasoma nastane kamnina. Pogosto je svetlih barv, vendar se lahko pojavlja tudi v drugih barvah: rjavih, rumenih, rdečih, sivih, rožnatih, belih ali črnih. Peščenjak ima lahko plastnato ali kakšno drugo sedimentno strukturo.
+bettergeobook.title.sedimentary=Sedimentne kamnine
+bettergeobook.text.sedimentary=Če se prod, pesek ali gline usedejo na morsko dno in se strdijo v plast, ki ji rečemo sedimenti, lahko sčasoma postanejo kamnine. Na tak način so nastali peščenjaki in muljevci. Sedimenti lahko nastanejo tudi iz lupinic morskih organizmov, ki čez čas postanejo apnenci.
+bettergeobook.title.magmatic=Magmatske kamnine
+bettergeobook.text.magmatic=Magmatske kamnine nastajajo iz magme. Drobnozrnate kamnine kot so npr. bazalti, nastanejo s hitrim ohlajanjem izlite magme oz. lave na zemeljskem površju. V kolikor se magma ohlaja globoko v zemeljski skorji, kar se dogaja veliko počasneje, nastanejo debelozrnate kamnine, kot je granit.
+bettergeobook.title.metamorphic=Metamorfne kamnine
+bettergeobook.text.metamorphic=Kamnine, ki so izpostavljene visokim temperaturam in tlakom, se spremenijo in nastanejo metamorfne kamnine. Sprememba (metamorfoza)se zgodi, ko so kamnine prenesene v večje globine v zemeljski skorji. Pri tem ima metamorfna kamnina lahko drugačno strukturo in trdnost.
+
+#Minerali
+
+bettergeobook.title.garnet=Granat
+bettergeobook.text.garnet=Granat je mineral in drag kamen. Granati so pogosto rdeči, vendar se pojavljajo tudi v drugih barvah, kot so zelena, rumena, oranžna, rožnata ali vijolična. Granati so trdi in se zato uporabljajo npr. za poliranje in rezanje materialov.
+bettergeobook.title.aquamarine=Akvamarin
+bettergeobook.text.aquamarine=Akvamarin je drag kamen iz minerala, ki se imenuje beril. Akvamarini so modre barve in so zelo lepi. Smaragd, ki je tudi iz berila, je zelene barve. Beril je lahko tudi rumene, rdeče in bele barve, lahko pa je tudi brezbarven.
+bettergeobook.title.topaz=Topaz
+bettergeobook.text.topaz=Topaz je mineral in drag kamen, ki je v svoji čisti obliki brezbarven. V kolikor so prisotne nečistoče, se mineral obarva v različne barve, kot so rumena, rožnata, bela, zelena ali rdeča. Vsi rumeni dragi kamni so se v Srednjem veku imenovali topaz.
+bettergeobook.title.tourmaline=Turmalin
+bettergeobook.text.tourmaline=Turmalin je mineral in drag kamen, ki se pojavlja v različnih barvah – od popolnoma črne ali bele do rdeče, modre, zelene, vijolične, rumene ali rožnate, včasih celo večbarvno. Najbolj pogosta različica turmalina je šorlit, ki je črn.
+bettergeobook.title.tantalum=Tantalit
+bettergeobook.text.tantalum=Tantalit je črn do siv mineral. Je težak in trd, a krhek. Tantalit se pridobiva zaradi tantala, pomembnega kovinskega minerala v proizvodnji elektronske opreme, npr. za pametne telefone in računalnike.
+bettergeobook.title.cordierite=Kordierit
+bettergeobook.text.cordierite=Kordierit je mineral, ki ima nekaj različic dragega kamna. Modri vodni safirji so kordieriti in so podobni safirjem (mineral korund), vendar so gostejši. Kordieriti so lahko drugih barv, kot so rumena, zelena, rjava ali siva. 
+bettergeobook.title.feldspar=Glinenci
+bettergeobook.text.feldspar=Glinenci so skupina mineralov, ki sestavljajo približno 60 % zemeljske skorje. Obstajata dve glavni skupini glinencev: kalijevi (alkalijski) glinenci, ki so rahlo rdečkasto rjavi ali rdeči, in plagioklazi, ki so svetlo sivi, beli ali oker. Granit in gnajs vsebujeta glinence.
+bettergeobook.title.quartz=Kremen
+bettergeobook.text.quartz=V svoji čisti obliki je kremen brezbarven. Brezbarvni kristali kremena se pogosto imenujejo kameni kristali. Obarvani kristali so ametist (vijoličen), citrin (rumen), roževec (rožnat)in čadavec (siv). Kremen je, poleg glinencev, drugi najbolj pogost mineral v zemeljski skorji.
+bettergeobook.title.gabbrotitanium=Titan
+bettergeobook.text.gabbrotitanium=Titan se pogosto pridobiva iz minerala ilmenita, ki je prisoten v gabru. Ilmenit je temen mineral in ima šibke magnetne lastnosti. Titan je lahek in trden ter se uporablja npr. v letalih in ladjah.
+bettergeobook.title.gabbroredstone=Baker
+bettergeobook.text.gabbroredstone=Baker se lahko pridobiva iz mineralov halkopirit in halkozin, ki se nahajajo v gabru in bazaltu. Baker ima dobro električno prevodnost in je pomemben v elektroniki (npr. računalniki, pametni telefoni, avtomobili in letala).
+bettergeobook.title.sguironore=Železo
+bettergeobook.text.sguironore=Železo je tretja najbolj pogosta kovina v zemeljski skorji. Mnogi minerali vsebujejo železo, kot sta na primer hematit in magnetit, ki ju najdemo v pasasti železni rudi. Nekateri železovi minerali, npr. magnetiti, imajo magnetne lastnosti.
+bettergeobook.title.zincblende=Sfalerit
+bettergeobook.text.zincblende=Mineral sfalerit pridobivamo za proizvodnjo cinka. Sfalerit je rumen, rjav ali siv. Cink se uporablja predvsem v proizvodnji nerjavečega jekla. Lahko ga uporabljamo tudi v zlitinah z bakrom za proizvodnjo medenine. Cink v zlitinah povečuje odpornost proti koroziji. 
+bettergeobook.title.wolfram=Volframit
+bettergeobook.text.wolfram=Volframit je siv do črno-rjav mineral, ki ga pridobivamo za volfram. Volframit se pojavlja v skarnu. Volfram se dodaja v jeklo, ki je potem močnejše in bolj odporno na vročino. Beseda volframit (angl. tungsten) prihaja iz dveh švedskih besed in sicer »tung« in »sten«, kar pomeni trd kamen/kamnina.
+bettergeobook.title.tin=Kasiterit
+bettergeobook.text.tin=Kasiterit je črno-rjav do siv mineral, ki se pridobiva za kositer. Pojavlja se v pegmatitih. Kositer je mehka kovina, ki se uporablja za spajkanje v elektroniki, ter tudi pri izdelavi bronastih zlitin.
+bettergeobook.title.lithium=Spodumen
+bettergeobook.text.lithium=Spodumen je mineral, ki se pojavlja v različnih barvah, kot so bela, siva ali rožnata. Pridobiva se iz pegmatitov za litij, ki je pomembna kovina v baterijah. V svoji čisti obliki je litij lahek in mehek.
+bettergeobook.title.ree=Monacit
+bettergeobook.text.ree=Monacit je mineral, iz katerega pridobivamo elemente redkih zemelj. Elementi redkih zemelj se uporabljajo v sodobni tehnologiji (računalniki in pametni telefoni). Monacit je pogosto rdečkasto rjav, lahko pa je tudi rjav, rumen, rožnat, zelen ali siv.
+ 
+#Zlitine
+
+bettergeobook.title.steel=Jeklo
+bettergeobook.text.steel=Jeklo je železova zlitina, ki se uporablja v skoraj vseh stvareh, od letal in avtomobilov, do elektronike, zgradb in jedilnega pribora. Obstaja veliko vrst jekla, npr. zelo trda ali lahka jekla, kar je odvisno od elementa uporabljenega v zlitini. Glavni element je železo.
+bettergeobook.title.bronze=Bron
+bettergeobook.text.bronze=Bron je zlitina bakra in kositra. Je odporen in se enostavno lije. Uporablja se že več kot 4000 let za izdelavo mnogih stvari, med njimi orodij in kipov. Danes se bron uporablja v strojih, glasbenih instrumentih in kovancih. 
+bettergeobook.title.brass=Medenina
+bettergeobook.text.brass=Medenina je zlitina bakra in cinka. Medenina z nizkim deležem bakra je pogosto rdeče barve. Delež cinka v medenini je običajno med 5 in 45 %.
+bettergeobook.title.slag=Žlindra
+bettergeobook.text.slag=Žlindra je stranski produkt taljenja kamnine (rude), s katero dosežemo ločitev želenih elementov od neželenih. Nekaterih elementov ne moremo pridobiti iz žlindre in zato ostanejo v njej. S sodobnimi tehnikami pa lahko žlindro recikliramo v večji meri kot prej in iz nje tako pridobimo več želenih elementov.
+bettergeobook.title.ash=Pepel
+bettergeobook.text.ash=Pepel nastaja v procesu predelave mineralov v topilnici v obliki drobnozrnatega peska, ki se lahko prenaša z vetrom. Pepel pogosto vsebuje nekaj kovin, kot je na primer titan. V kolikor je možno zbrati večje količine pepela, lahko iz njega pridobimo kovine.
+
+

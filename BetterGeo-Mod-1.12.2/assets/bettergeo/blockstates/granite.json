@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=world": { "model": "bettergeo:granite" },
+        "type=player": { "model": "bettergeo:granite" }
+    }
+}

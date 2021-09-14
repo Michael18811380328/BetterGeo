@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:andesite" },
+        "variant=true":    { "model": "bettergeo:andesite" }
+    }
+}

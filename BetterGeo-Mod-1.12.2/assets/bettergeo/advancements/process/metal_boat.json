@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:MetalBoat"
+        },
+        "title": {
+            "translate": "advancements.process.metal_boat"
+        },
+        "description": {
+            "translate": "advancements.process.metal_boat.desc"
+        }
+    },
+    "parent": "bettergeo:process/steel",
+    "criteria": {
+        "MetalBoat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:MetalBoat"
+                    }
+                ]
+            }
+        }
+    }
+}

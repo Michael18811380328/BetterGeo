@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:feldspar"
+        },
+        "title": {
+            "translate": "advancements.process.feldspar"
+        },
+        "description": {
+            "translate": "advancements.process.feldspar.desc"
+        }
+    },
+    "parent": "bettergeo:process/root",
+    "criteria": {
+        "lithium": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:feldspar"
+                    }
+                ]
+            }
+        }
+    }
+}

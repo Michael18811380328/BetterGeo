@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "bettergeo:smeltery" },
+        "facing=south": { "model": "bettergeo:smeltery", "y": 180 },
+        "facing=west":  { "model": "bettergeo:smeltery", "y": 270 },
+        "facing=east":  { "model": "bettergeo:smeltery", "y": 90 }
+    }
+}

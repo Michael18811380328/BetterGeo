@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shapeless",
+   "ingredients": [
+    {
+      "item": "bettergeo:till",
+      "data": 2
+    },
+    {
+      "item": "bettergeo:peat"
+    },
+    {
+      "item": "bettergeo:compostearth"
+    }
+  ],
+  "result": {
+    "item": "bettergeo:mulch"
+  }
+}

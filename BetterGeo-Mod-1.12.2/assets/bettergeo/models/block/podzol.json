@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "bettergeo:blocks/podzol_top",
+        "bottom": "bettergeo:blocks/podzol_bottom",
+        "top": "bettergeo:blocks/podzol_top",
+        "side": "bettergeo:blocks/podzol_side",
+        "overlay": "bettergeo:blocks/podzol_side"
+    }
+}

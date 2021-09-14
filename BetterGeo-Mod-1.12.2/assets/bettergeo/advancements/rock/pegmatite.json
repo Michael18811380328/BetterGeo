@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:pegmatite"
+        },
+        "title": {
+            "translate": "advancements.rock.pegmatite"
+        },
+        "description": {
+            "translate": "advancements.rock.pegmatite.desc"
+        }
+    },
+    "parent": "bettergeo:rock/root",
+    "criteria": {
+        "pegmatite": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "bettergeo:pegmatite"
+                    }
+                ]
+            }
+        }
+    }
+}

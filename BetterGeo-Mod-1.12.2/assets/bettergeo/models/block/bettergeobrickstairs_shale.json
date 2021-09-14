@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "bettergeo:blocks/shalebricks",
+        "top": "bettergeo:blocks/shalebricks",
+        "side": "bettergeo:blocks/shalebricks"
+    }
+}

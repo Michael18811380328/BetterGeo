@@ -1,0 +1,11 @@
+#Redstone to Copper
+
+tile.redstoneDust.name=Copper Dust
+tile.oreRedstone.name=Copper Ore
+item.redstone.name=Copper
+tile.redstoneLight.name=Copper Lamp
+tile.notGate.name=Copper Torch
+itemGroup.redstone=Copper
+tile.blockRedstone.name=Block of Copper
+item.diode.name=Copper Repeater
+item.comparator.name=Copper Comparator

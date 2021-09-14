@@ -1,0 +1,9 @@
+{
+  "jetpack_burst": {"category": "master","sounds": [{"name": "jetpack_burst","stream": false}]},
+  "powerbutton": {"category": "master","sounds": [{"name": "powerbutton","stream": false}]},
+  "tick": {"category": "master","sounds": [{"name": "tick","stream": false}]},
+  "warning1": {"category": "master","sounds": [{"name": "warning1","stream": false}]},
+  "warning2": {"category": "master","sounds": [{"name": "warning2","stream": false}]},
+  "warning3": {"category": "master","sounds": [{"name": "warning3","stream": false}]},
+  "warning4": {"category": "master","sounds": [{"name": "warning4","stream": false}]}
+}

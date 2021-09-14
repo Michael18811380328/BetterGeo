@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "bettergeo:blocks/limestone_normal",
+        "top": "bettergeo:blocks/limestone_normal",
+        "side": "bettergeo:blocks/limestone_normal"
+    }
+}

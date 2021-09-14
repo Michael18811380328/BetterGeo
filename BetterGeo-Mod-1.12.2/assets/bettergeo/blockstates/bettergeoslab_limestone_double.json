@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "bettergeo:limestone_normal" },
+        "variant=true":    { "model": "bettergeo:limestone_normal" }
+    }
+}

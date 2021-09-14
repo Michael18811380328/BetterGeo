@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettergeo:diorite"
+    }
+  },
+  "result": {
+    "item": "bettergeo:bettergeostoneslab",
+    "data": 6,
+    "count": 6
+  }
+}

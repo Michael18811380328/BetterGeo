@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "type=aquamarine": { "model":"bettergeo:mineralblock_aquamarine" },
+        "type=cordierite": { "model":"bettergeo:mineralblock_cordierite" },
+        "type=feldspar": { "model":"bettergeo:mineralblock_feldspar" },
+        "type=garnet": { "model":"bettergeo:mineralblock_garnet" },
+        "type=tantalum": { "model":"bettergeo:mineralblock_tantalum" },
+        "type=topaz": { "model":"bettergeo:mineralblock_topaz" },
+        "type=tourmaline": { "model":"bettergeo:mineralblock_tourmaline" }
+    }
+}

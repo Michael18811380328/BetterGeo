@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "bettergeo:BookShelfMineral"
+        },
+        "title": {
+            "translate": "advancements.books.earthKnower"
+        },
+        "description": {
+            "translate": "advancements.books.earthKnower.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "bettergeo:books/earthling",
+    "criteria": {
+        "fire_proximity_suit": {
+        	"trigger": "earth_knower"
+        }
+    }
+}

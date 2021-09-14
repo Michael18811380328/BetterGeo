@@ -1,0 +1,28 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "X X",
+    "#$#",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "type": "forge:ore_dict",
+      "ore": "ingotRee"
+    },
+    "X": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "#": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTantalum"
+    },
+    "$": {
+      "item": "bettergeo:lithiumbattery"
+    }
+  },
+  "result": {
+    "item": "bettergeo:defibrillatoruncharged"
+  }
+}
