@@ -1,0 +1,470 @@
+﻿tile.Granite.name=花岗岩
+tile.Granitebrick.name=花岗岩
+tile.Andesite.name=安山岩
+tile.AndesiteBrick.name=Andesite Brick
+tile.Diorite.name=Diorite
+tile.DioriteBrick.name=Diorite Brick
+tile.Gneiss.name=Gneiss
+tile.Gneissbrick.name=Gneiss Brick
+tile.Gabbro.name=Gabbro
+tile.GabbroBrick.name=Gabbro Brick
+tile.GabbroTitanium.name=Gabbro with Titanium
+tile.GabbroRedstone.name=Gabbro with Copper
+tile.Limestone.name=Limestone
+tile.Limestonebrick.name=Limestone Brick
+tile.LimestoneCoal.name=Limestone with Coal
+tile.Magma.name=Magma
+tile.Marble.name=Marble
+tile.MarbleLapis.name=Marble with Lapis Lazuli
+tile.Marblebrick.name=Marble Brick
+tile.Schist.name=Schist
+tile.Schistbrick.name=Schist Brick
+tile.Shale.name=Shale
+tile.AlumShale.name=Alum Shale
+tile.Shalebrick.name=Shale Brick
+tile.Kimberlite.name=Kimberlite
+tile.KimberliteDiamond.name=Kimberlite with Diamonds
+tile.Diabase.name=Diabase
+tile.Diabasebrick.name=Diabase Brick
+tile.Pegmatite.name=Pegmatite
+tile.Quartz.name=Quartz
+tile.Quartzbrick.name=Quartz Brick
+tile.QuartzGold.name=Quartz with Gold
+tile.QuartzSilver.name=Quartz with Silver
+tile.Skarn.name=Skarn
+tile.SGUSand.name=Sand
+tile.SGUSandstone.name=Sandstone
+tile.SGUSandstoneSmooth.name=Smooth Sandstone
+tile.SGUSandstoneChiseled.name=Chiseled Sandstone
+tile.SandstoneCoal.name=Sandstone with Coal
+tile.Viscaria.name=Alpine Catchfly
+tile.Basalt.name=Basalt
+tile.Bauxite.name=Bauxite
+tile.Pumice.name=Pumice
+tile.BandedIron.name=Banded Iron Formation
+tile.Ash.name=Ash
+
+tile.Peat.name=Peat
+tile.PeatBlock.name=Peat Block
+tile.PeatGrass.name=Grass Covered Peat
+tile.Sphagnum.name=Sphagnum
+tile.Moraine_0.name=Till
+tile.Moraine_1.name=Boulder Till
+tile.Moraine_2.name=Clay-rich Till
+tile.MoraineGrass_0.name=Grass Covered Till
+tile.MoraineGrass_1.name=Grass Covered Boulder Till
+tile.MoraineGrass_2.name=Grass Covered Clay-rich Till
+tile.Mulch.name=Mulch
+tile.GlacialErratic.name=Glacial Erratic
+tile.WeatheredTropicalSoil.name=Weathered Tropical Soil
+tile.WeatheredTropicalSoilGrass.name=Grass Covered Weathered Tropical Soil
+tile.Pebble.name=Pebble
+
+tile.AlloyFurnace.name=Alloy Furnace
+tile.Smeltery.name=Smeltery
+tile.BatteryCharger.name=Battery Charger
+tile.PolishingMachine.name=Polishing Machine
+tile.RecycleStation.name=Recycle Station
+tile.FlueGasCleaner.name=Flue Gas Cleaner
+
+tile.AquamarineBlock.name=Block of Aquamarine
+tile.CordieriteBlock.name=Block of Cordierite
+tile.GarnetBlock.name=Block of Garnet
+tile.TopazBlock.name=Block of Topaz
+tile.TantalumBlock.name=Block of Tantalite
+tile.TourmalineBlock.name=Block of Tourmaline
+tile.FeldsparBlock.name=Block of Feldspar
+
+tile.DisplayCaseBrassBlock.name=Display Case in Brass
+tile.DisplayCaseBronzeBlock.name=Display Case in Bronze
+tile.DisplayCaseSteelBlock.name=Display Case in Steel
+
+item.Garnet.name=Garnet
+item.Aquamarine.name=Aquamarine
+item.Topaz.name=Topaz
+item.Tourmaline.name=Tourmaline
+item.Tantalum.name=Tantalite
+item.UnusableDiamond.name=Unusable Diamond
+item.TantalumIngot.name=Tantalite Ingot
+item.Cordierite.name=Cordierite
+item.Steel.name=Steel
+item.Brass.name=Brass
+item.Bronze.name=Bronze
+item.Silver.name=Silver
+item.SilverIngot.name=Silver Ingot
+item.Zincblende.name=Sphalerite
+item.ZincIngot.name=Zinc Ingot
+item.Tin.name=Cassiterite
+item.TinIngot.name=Tin Ingot
+item.Titanium.name=Titanium
+item.TitaniumIngot.name=Titanium Ingot
+item.Lithium.name=Spodumene
+item.LithiumIngot.name=Lithium Ingot
+item.Feldspar.name=Feldspar
+item.SGUIronOre.name=Iron ore
+item.LimestoneDust.name=Limestone Dust
+item.MagneticCompass.name=Magnetic Compass
+item.MonsterScanner.name=Monster Scanner
+item.LithiumBattery.name=Lithium Battery
+item.REE.name=Monazite
+item.REEIngot.name=Rare Earth Elements Ingot
+item.Aluminum.name=Aluminum
+item.AluminumIngot.name=Aluminum Ingot
+item.Wolfram.name=Wolframite
+item.WolframIngot.name=Tungsten Ingot
+item.CopperIngot.name=Copper Ingot
+item.WoodProspectorsPan.name=Prospector’s Pan
+item.SteelProspectorsPan.name=Prospector’s Pan in Steel
+item.Slag.name=Slag
+item.ZincBlendeSlag.name=Zinc Slag
+item.IronSlag.name=Iron ore Slag
+item.BauxiteSlag.name=Bauxite Slag
+item.GabbroSlag.name=Gabbro Slag
+item.SlagWaste.name=Slag Waste
+item.Jetpack.name=Jetpack
+item.FireProximitySuitHelmet.name=Fire Proximity Suit Helmet
+item.FireProximitySuitChestplate.name=Fire Proximity Suit Chestplate
+item.FireProximitySuitLeggings.name=Fire Proximity Suit Leggings
+item.FireProximitySuitBoots.name=Fire Proximity Suit Boots
+item.Defibrillator.name=Defibrillator
+item.SandPaper.name=Sand Paper
+item.BetterGeoBook.name=BetterGeo Book
+item.MetalBoat.name=Metal Boat
+item.ConductivityMeter.name=Electrical Conductivity Meter
+item.Brachiopod.name=Brachiopod
+item.Ammonite.name=Ammonite
+item.Trilobite.name=Trilobite
+item.CompostEarth.name=Compost Earth
+item.PeatPellets.name=Peat Pellets
+
+
+tile.sguStoneSlab1.diabase.name=Diabase Slab
+tile.sguStoneSlabBrick1.diabase.name=Diabase Brick Slab
+tile.sguStoneSlab1.gabbro.name=Gabbro Slab
+tile.sguStoneSlabBrick1.gabbro.name=Gabbro Brick Slab
+tile.sguStoneSlab1.gneiss.name=Gneiss Slab
+tile.sguStoneSlabBrick1.gneiss.name=Gneiss Brick Slab
+tile.sguStoneSlab1.granite.name=Granite Slab
+tile.sguStoneSlabBrick1.granite.name=Granite Brick Slab
+tile.sguStoneSlab2.diorite.name=Diorite Slab
+tile.sguStoneSlabBrick2.diorite.name=Diorite Brick Slab
+tile.sguStoneSlab2.andesite.name=Andesite Slab
+tile.sguStoneSlabBrick2.andesite.name=Andesite Brick Slab
+tile.sguStoneSlab1.kimberlite.name=Kimberlite Slab
+tile.sguStoneSlab1.limestone.name=Limestone Slab
+tile.sguStoneSlabBrick1.limestone.name=Limestone Brick Slab
+tile.sguStoneSlab1.marble.name=Marble Slab
+tile.sguStoneSlabBrick1.marble.name=Marble Brick Slab
+tile.sguStoneSlab2.shale.name=Shale Slab
+tile.sguStoneSlabBrick2.shale.name=Shale Brick Slab
+tile.sguStoneSlab2.schist.name=Schist Slab
+tile.sguStoneSlabBrick2.schist.name=Schist Brick Slab
+tile.sguStoneSlab2.skarn.name=Skarn Slab
+tile.sguStoneSlab2.quartz.name=Quartz Slab
+tile.sguStoneSlabBrick2.quartz.name=Quartz Brick Slab
+tile.sguStoneSlab2.sandstone.name=Sandstone Slab
+
+tile.sguStoneStair.Diabase.name=Diabase Stair
+tile.sguStoneBrickStair.Diabasebrick.name=Diabase Brick Stair
+tile.sguStoneStair.Gabbro.name=Gabbro Stair
+tile.sguStoneBrickStair.GabbroBrick.name=Gabbro Brick Stair
+tile.sguStoneStair.Gneiss.name=Gneiss Stair
+tile.sguStoneBrickStair.Gneissbrick.name=Gneiss Brick Stair
+tile.sguStoneStair.Granite.name=Granite Stair
+tile.sguStoneBrickStair.Granitebrick.name=Granite Brick Stair
+tile.sguStoneStair.Diorite.name=Diorite Stair
+tile.sguStoneBrickStair.DioriteBrick.name=Diorite Brick Stair
+tile.sguStoneStair.Andesite.name=Andesite Stair
+tile.sguStoneBrickStair.AndesiteBrick.name=Andesite Brick Stair
+tile.sguStoneStair.Kimberlite.name=Kimberlite Stair
+tile.sguStoneStair.Limestone.name=Limestone Stair
+tile.sguStoneBrickStair.Limestonebrick.name=Limestone Brick Stair
+tile.sguStoneStair.Diabase.name=Diabase Stair
+tile.sguStoneStair.Marble.name=Marble Stair
+tile.sguStoneBrickStair.Marblebrick.name=Marble Brick Stair
+tile.sguStoneStair.Schist.name=Schist Stair
+tile.sguStoneBrickStair.Schistbrick.name=Schist Brick Stair
+tile.sguStoneStair.Shale.name=Shale Stair
+tile.sguStoneBrickStair.Shalebrick.name=Shale Brick Stair
+tile.sguStoneStair.Skarn.name=Skarn Stair
+tile.sguStoneStair.SGUSandstone.name=Sandstone Stair
+tile.sguStoneStair.SGUSandstoneChiseled.name=Chiseled Sandstone Stair
+tile.sguStoneStair.SGUSandstoneSmooth.name=Smooth Sandstone Stair
+tile.betterGeoBookShelfRock.name=Rock Bookshelf
+tile.betterGeoBookShelfMetallurgy.name=Metallurgy Bookshelf
+tile.betterGeoBookShelfMineral.name=Mineral Bookshelf
+tile.betterGeoBookShelfSoil.name=Soil Bookshelf
+
+itemGroup.BetterGeo=BetterGeo
+itemGroup.BetterGeoBooks=BetterGeo Books
+container.smeltery=Smeltery
+container.alloyfurnace=Alloy Furnace
+container.batterycharger=Battery Charger
+container.polishingMachine=Polishing Machine
+container.recyclestation=Recycle Station
+container.metallurgy=Metallurgy Bookshelf
+container.mineral=Mineral Bookshelf
+container.soil=Soil Bookshelf
+container.rock=Rock Bookshelf
+
+
+#Redstone to Copper
+
+tile.redstoneDust.name=Copper Dust
+tile.oreRedstone.name=Copper Ore
+item.redstone.name=Copper
+tile.redstoneLight.name=Copper Lamp
+tile.notGate.name=Copper Torch
+itemGroup.redstone=Copper
+tile.blockRedstone.name=Block of Copper
+item.diode.name=Copper Repeater
+item.comparator.name=Copper Comparator
+
+#Messages
+panning.notallowed=Panning can only be done on sand below water that are in or close to a river or a beach
+monsterscanner.nocharge=The monster scanner has no charge
+conductivitymeter.nocharge=The conductivity meter has no charge
+
+#Text
+sgubook.text.1=BetterGeo – a geological mod from The Geological Survey of Sweden.
+sgubook.text.2=We want more people to discover how fun, interesting and important geology is.
+sgubook.text.3=Therefore we have created BetterGeo!
+sgubook.text.4=More about geology at: www.sgu.se/en
+
+farmland.nofarm_blocky=It's not possible to farm on blocky moraine
+
+defibrillator.use=Your life was saved by your defibrillator!
+
+sandpaper.usage=Don't use the sandpaper, break the block with it instead
+
+batterycharger.lithiumbatterycharge=You can't charge the battery directly. Build an item with a battery and charge that instead
+
+death.attack.pollution=%1$s killed by pollution
+
+achievement.feldspar=安冰测试世界上最常见的石头
+achievement.feldspar.desc=Find feldspar in pegmatite, granite or gneiss
+achievement.smeltery=Meltdown
+achievement.smeltery.desc=Build a smeltery with an oven and eight feldspar
+achievement.alloyFurnace=Alloy joy
+achievement.alloyFurnace.desc=Build an alloy furnace with a smeltery and bricks
+achievement.flueGasCleaner=Time to clear the air
+achievement.flueGasCleaner.desc=Install a flue gas cleaner on the smeltery
+achievement.smeltItem=Refined
+achievement.smeltItem.desc=Refine ore in the smeltery
+achievement.ash=Clean up
+achievement.ash.desc=Remove ash from the ground
+achievement.slag=One more time
+achievement.slag.desc=Recycle slag from the smeltery
+achievement.steel=Steel yourself
+achievement.steel.desc=Produce steel with iron, coal and tungsten
+achievement.brass=Musical metal
+achievement.brass.desc=Produce brass with copper and zinc
+achievement.bronze=Third place
+achievement.bronze.desc=Produce bronze with copper and tin
+achievement.metalBoat=Unsinkable
+achievement.metalBoat.desc=Create a boat with steel
+achievement.rideInLava=Vulcanologist
+achievement.rideInLava.desc=Travel on lava with the metal boat
+achievement.displayCase=Showtime
+achievement.displayCase.desc=Build a display case
+achievement.recycling=Circular economy
+achievement.recycling.desc=Build a recycling station
+
+achievement.pegmatite=Only the beginning
+achievement.pegmatite.desc=Find pegmatite
+achievement.lithium=Battery mineral
+achievement.lithium.desc=Find lithium in pegmatite
+achievement.lithiumBattery=Powerbank
+achievement.lithiumBattery.desc=Build a battery with steel and lithium
+achievement.monsterScanner=ptsssss.. BOOM
+achievement.monsterScanner.desc=Build a monster scanner
+achievement.charge=Charge
+achievement.charge.desc=Charge something in the battery charger
+achievement.defribilator=Second chance
+achievement.defribilator.desc=Survive with the help of the defibrillator
+achievement.garnet=Hard rock
+achievement.garnet.desc=Find a garnet in pegmatite
+achievement.polish=Sandy
+achievement.polish.desc=Produce a sand paper with garnet, paper and slimeballs
+achievement.polishMachine=The shining
+achievement.polishMachine.desc=Produce a polishing machine
+
+achievement.quartz=Rock crystal
+achievement.quartz.desc=Find quartz
+achievement.quartzSilver=Silversurfer
+achievement.quartzSilver.desc=Find silver in quartz
+achievement.fireProximitySuit=Flame retardant
+achievement.fireProximitySuit.desc=Wear the fire proximity suit
+
+achievement.bauxite=In the jungle
+achievement.bauxite.desc=Find bauxite
+achievement.aluminium=Worlds most common metal
+achievement.aluminium.desc=Refine aluminium in the smeltery
+achievement.jetpack=Sky is the limit
+achievement.jetpack.desc=Build a jetpack
+
+achievement.viscaria=Flowerpower
+achievement.viscaria.desc=Pick an alpine catchfly
+achievement.copper=A rather red stone
+achievement.copper.desc=Find copper
+
+achievement.prospectorsPan=More than a bowl
+achievement.prospectorsPan.desc=Produce a prospectors pan with sticks or steel
+achievement.goldDigger=Treasure hunt
+achievement.goldDigger.desc=Search for riches in rivers
+
+achievement.pebble=Highest coastal line
+achievement.pebble.desc=Find pebbles at the highest coastal line
+achievement.glacialErratic=Left behind
+achievement.glacialErratic.desc=Find glacial erratics
+achievement.redSand=Dye hard
+achievement.redSand.desc=Color sand with iron ore slag
+achievement.moraine=Ice age leftovers
+achievement.moraine.desc=Find till, clay till or blocky till
+achievement.peat=The organic soil
+achievement.peat.desc=Find peat
+achievement.mulch=Grow up
+achievement.mulch.desc=Create mulch with peat, compost and clay till or clay
+achievement.peatPellets=Energy
+achievement.peatPellets.desc=Dry peat in the workbench and use for fuel
+
+achievement.magneticCompass=Magnetic helper
+achievement.magneticCompass.desc=Produce a magnetic compass to find banded iron formations
+achievement.rocker=Rocker
+achievement.rocker.desc=Fill the rock bookcase
+achievement.mineralHunter=Mineral hunter
+achievement.mineralHunter.desc=Fill the mineral bookcase
+achievement.alloyer=Alloyer
+achievement.alloyer.desc=Fill the alloy bookcase
+achievement.earthling=Earthling
+achievement.earthling.desc=Fill the soil bookcase
+achievement.earthKnower=Earth knower
+achievement.earthKnower.desc=Fill all the bookcases
+
+#BetterGeo bookshelf
+
+bettergeobookshelf.alreadyhavebook=You already have that book in your book shelf
+bettergeobookshelf.wrongbook=This book can't be placed in this book shelf
+bettergeobookshelf.readbooks=Read books
+
+#BetterGeo books
+
+bettergeobook.title.unknown=Unknown title
+bettergeobook.type.Rock=Rock
+bettergeobook.type.Mineral=Mineral
+bettergeobook.type.Soil=Soil
+bettergeobook.type.Metallurgy=Metallurgy
+
+#Soil
+
+bettergeobook.title.moraine_0=Till
+bettergeobook.text.moraine_0=Till is Sweden's most common soil type and covers about 75 percent of Sweden's land area. It was formed when the inland ice sheet crushed and transported rock and soil. Till is an unsorted soil which means that it can contain a mixture of clay, sand, gravel, stones - and even large blocks.
+bettergeobook.title.moraine_1=Boulder Till
+bettergeobook.text.moraine_1=Just like regular till, boulder till is the result of the grinding and displacement of rock and soil by an inland ice sheet. This type of till contain, as the name suggests, a remarkable amount of boulders, often with a diameter greater than 1m. The abundance of boulders make areas with boulder till difficult to dig or pass with most vehicles. This type of till is not suitable for cultivation.
+bettergeobook.title.moraine_2=Clay-rich Till
+bettergeobook.text.moraine_2=Just like regular till, clay-rich till is the result of the grinding and displacement of rock and soil by an inland ice sheet. This type of till is relatively rare and is found in areas of easily eroded sedimentary rocks such as limestone, shale and sandstone. Clay-rich till have a high proportion of clay particles (over 15 percent) and is suitable for cultivation.
+bettergeobook.title.pebble=Pebbles
+bettergeobook.text.pebble=Pebbles is the accumulation of only gravel and therefore is referred to as a sorted soil. Waves sorted out other material such as sand or clay leaving only the gravel. Shingle sometimes marks the Highest coastline (HK), i.e. the highest level that the water reached after the inland ice sheet melted away.
+bettergeobook.title.glacialerratic=Glacial Erratic
+bettergeobook.text.glacialerratic=Glacial erratic are huge boulders that have been broken off from bedrock and transported by glaciers or inland ice sheet. The boulder travels in the direction of the ice flow until the ice melts, leaving the boulder in the terrain. Glacial erratic can have a different composition than surrounding rock.
+bettergeobook.title.peat=Peat
+bettergeobook.text.peat=Peat is an organic soil that forms when partially decomposed plants accumulate in overgrown lakes or waterlogged land. Peat is formed in marshes and bogs. The difference between the two is that the bogs only get water from precipitation, while marshes also have access to groundwater.
+bettergeobook.title.bauxite=Bauxite
+bettergeobook.text.bauxite=Bauxite is an aluminium rich soil formed primarily in tropical environments, through chemical weathering of bedrock. Bauxite is one of the world's largest sources of aluminium, an element that is abundant in the Earth's crust but only found in compounds. Aluminium production therefore requires processing of bauxite.
+
+#Rock
+
+bettergeobook.title.alumshale=Alum shale
+bettergeobook.text.alumshale=Alum shale is a variety of shale which formed around 500 million years ago in Sweden. The dark rock contains a lot of organic material which have been preserved and created shale oil between the layers. Alum shale often contains several fossils.
+bettergeobook.title.andesite=Andesite
+bettergeobook.text.andesite=Andesite is a magmatic rock which forms during volcanic activity. It is grey to black, often with light coloured grains. The name andesite comes from the Andes in South America where the rock is common.
+bettergeobook.title.basalt=Basalt
+bettergeobook.text.basalt=Basalt is a fine-grained magmatic rock that often is dark or black, but weathering can cause more yellow-brown, red-brown or green tones. A large part of the oceanic crust is composed of basalt. It is the most common volcanic rock on Earth.
+bettergeobook.title.bandediron=Banded Iron Formation
+bettergeobook.text.bandediron=Banded iron formations are sedimentary deposits with high concentrations of iron. They are often dark or red with distinct banding. They are also magnetic. Many of these rocks were formed around two billion years ago.
+bettergeobook.title.diabase=Diabase
+bettergeobook.text.diabase=Diabase (or dolerite) is a dark magmatic rock. It forms when a magma intrudes into cracks in the bedrock and cools quickly. There are often light coloured minerals in the dark rock. Diabase is sometimes called black granite when used as building or ornamental stone.
+bettergeobook.title.diorite=Diorite
+bettergeobook.text.diorite=Diorite is a coarse-grained magmatic rock which forms deep in the crust. It is grey to dark grey but may be black, blue-grey and have green tints. Diorite often has large white and black grains.
+bettergeobook.title.gabbro=Gabbro
+bettergeobook.text.gabbro=Gabbro is a coarse-grained magmatic rock which forms deep in the crust. It is dark coloured, sometimes black or with green tints. It is an important source for metals like copper and titanium, among others.
+bettergeobook.title.gneiss=Gneiss
+bettergeobook.text.gneiss=Gneiss is a metamorphic rock which forms when for example a granite or shale is altered by high temperatures and pressures. Gneiss may have colours like grey, brown, red or pink, and is generally distinctly banded.
+bettergeobook.title.granite=花岗岩
+bettergeobook.text.granite=花岗岩 is a coarse-grained magmatic rock. Granite forms when a magma cools deep in the crust. It may have several colours: white, grey, pink, red or black. Granite is one of the most common rocks in Sweden.
+bettergeobook.title.kimberlite=Kimberlite
+bettergeobook.text.kimberlite=Kimberlite is a magmatic rock which is known for sometimes containing diamonds. Kimberlite forms tube-shaped pipes in the bedrock.
+bettergeobook.title.limestone=Limestone
+bettergeobook.text.limestone=Limestone is a sedimentary rock. It forms when marine organisms, like corals and clams, sink to the seafloor, get buried to later crystallize to minerals after a long time. Fossils are common in limestone.
+bettergeobook.title.marble=Marble
+bettergeobook.text.marble=Marble is a metamorphic rock which forms when limestone is subjected to high temperatures and high pressures. Marble is often light coloured, but may have tones of blue, pink, yellow or grey.
+bettergeobook.title.pegmatite=Pegmatite
+bettergeobook.text.pegmatite=Pegmatite is a magmatic rock that forms dykes or pipes. It has coarse crystals and may contain rare minerals. Pegmatites can be of several colours but often have similar tones as granites: grey, red to pink or black.
+bettergeobook.title.schist=Schist
+bettergeobook.text.schist=Schist is a metamorphic rock which can form when a fine-grained sedimentary rock, like shale, is subjected to high temperatures and pressures. Schists are foliated and glittering from mica minerals.
+bettergeobook.title.shale=Shale
+bettergeobook.text.shale=Shale is a fine-grained sedimentary rock. It is foliated and may be light to dark coloured. Black shale often contains a lot of organic material. Shale forms when clay gets buried at the seafloor and then compacted to a rock with distinct layers.
+bettergeobook.title.skarn=Skarn
+bettergeobook.text.skarn=Skarn is a metamorphic rock that often contains ore minerals, minerals which have a lot of metals and may be worth mining. Skarn forms in limestone which is altered by hot fluids from a magma.
+bettergeobook.title.sandstone=Sandstone
+bettergeobook.text.sandstone=Sandstone is a sedimentary rock which form when sand is compacted, cemented and creates a rock after a long time. It is often light colored but can be many colors: brown, yellow, red, grey, pink, white or black. Sandstone can be banded or have other structures.
+bettergeobook.title.sedimentary=Sedimentary rocks
+bettergeobook.text.sedimentary=If gravel, sand and clay sink to the seafloor to form compact layers called sediments they may eventually become rocks. For example, sandstones and mudstones are formed this way. Shells of marine organisms can also form sediments, this way limestone is formed.
+bettergeobook.title.magmatic=Magmatic rocks
+bettergeobook.text.magmatic=Magmatic rocks come from a magma. Fine-grained rocks, like basalt, form when magma in the form of lava flows out on the Earths surface and cools quickly. When, however, a magma cools deep in the crust, which happens more slowly, coarse-grained rocks like granite may form.
+bettergeobook.title.metamorphic=Metamorphic rocks
+bettergeobook.text.metamorphic=Rocks that have been subjected to high temperatures or pressures are transformed to creat new rocks that are called metamorphic. The change (metamorphism) happens when the rock is brought to greater depths in the crust. The metamorphic rock has for example different texture or hardness.
+
+#Minerals
+
+bettergeobook.title.garnet=Garnet
+bettergeobook.text.garnet=Garnet is a mineral and a gemstone. Garnets are often red, but may have many colours such as green, yellow, orange, pink or purple. Garnets are hard and are therefore used in for example polishing or cutting materials.
+bettergeobook.title.aquamarine=Aquamarine
+bettergeobook.text.aquamarine=Aquamarine is a gemstone of the mineral beryl. Aquamarines are blue or cyan and very beautiful. Emeralds, which are green, are also beryl. Beryl may also be yellow, red, white or colourless.
+bettergeobook.title.topaz=Topaz
+bettergeobook.text.topaz=Topaz is a mineral and a gemstone that is colourless when its pure. When impurities are present itcan show different colours, such as yellow, pink, white, green or red. All yellow gemstones were called topaz in the Middle Ages.
+bettergeobook.title.tourmaline=Tourmaline
+bettergeobook.text.tourmaline=Tourmaline is a mineral and a gemstone that may show different colours, from completely black or white to red, blue, green, purple, yellow or pink, even multicoloured. The most common tourmaline variety, called schorl, is black.
+bettergeobook.title.tantalum=Tantalite
+bettergeobook.text.tantalum=Tantalite is a mineral which is black to grey. It is heavy and hard, but brittle. Tantalite is mined for tantalum, an important metallic element in the production of electronics in for example smartphones and computers.
+bettergeobook.title.cordierite=Cordierit
+bettergeobook.text.cordierite=Cordierite is a mineral which has several gemstone variants. Blue water-sapphires are cordierites. These resemble sapphires, which are the mineral corundum, but are less dense. Cordierites can have other colours than blue, for example yellow, green, brown or grey.
+bettergeobook.title.feldspar=Feldspar
+bettergeobook.text.feldspar=Feldspar is a mineral group which make up around sixty percent of the Earth’s crust. There are two main types of feldspar: alkali feldspar which is slightly reddish brown or red and plagioclase which is light grey, white or beige. Granite and gneiss contain feldspar.
+bettergeobook.title.quartz=Quartz
+bettergeobook.text.quartz=Quartz is colourless in its pure form. Colourless crystals of quartz are often called rock crystals. Crystals in other colours are called amethyst (purple), citrine (yellow), rose quartz (pink) and smoky quartz (grey). Quartz is the second most abundant mineral in the crust after feldspar.
+bettergeobook.title.gabbrotitanium=Titanium
+bettergeobook.text.gabbrotitanium=Titanium is often recovered from the mineral ilmenite that can be present in gabbro. Ilmenite is a dark mineral which is slightly magnetic. Titanium is light and strong and used in for example aircrafts and ships.
+bettergeobook.title.gabbroredstone=Copper
+bettergeobook.text.gabbroredstone=Copper may be recovered from the minerals chalcopyrite and chalcocite in the rocks gabbro and basalt. Copper has good electrical conductivity and is important in electronics. Copper is for example used in all computers, smartphones, cars and airplanes.
+bettergeobook.title.sguironore=Iron
+bettergeobook.text.sguironore=Iron is the third most abundant metal in the crust. Many minerals contain iron, such as the minerals hematite and magnetite which can be seen in banded iron formations. Some iron minerals, like magnetite, are magnetic.
+bettergeobook.title.zincblende=Sphalerite
+bettergeobook.text.zincblende=开采矿物闪锌矿以回收锌。 它是黄色、棕色或灰色。 锌主要用于制造不锈钢。 它也可以与铜合金制成黄铜。 锌使合金更耐腐蚀。
+bettergeobook.title.wolfram=黑钨矿
+bettergeobook.text.wolfram=黑钨矿是一种灰色到黑褐色的矿物，用于开采钨。 有时可以在矽卡岩中找到黑钨矿。 钨用于钢以使其更坚固、更耐热。 “钨”一词来自瑞典语 tung sten，意思是沉重的石头/岩石。
+bettergeobook.title.tin=锡石
+bettergeobook.text.tin=锡石是一种黑褐色至灰色的矿物，可用于开采锡。 它有时可以在伟晶岩中找到。 锡是一种软金属，主要用作电子产品中的焊料，但也用于制造青铜合金。
+bettergeobook.title.lithium=锂辉石
+bettergeobook.text.lithium=锂辉石是一种可以有不同颜色的矿物：例如白色、灰色和粉红色。 它是从伟晶岩中开采出来的，锂是一种重要的金属，例如电池。 纯锂质轻而柔软。
+bettergeobook.title.ree=独居石
+bettergeobook.text.ree=独居石是一种开采稀土元素的矿物。 稀土元素用于计算机和智能手机等现代技术。独居石通常呈红棕色，但也可以是棕色、黄色、粉红色、绿色或灰色。
+
+#Alloy
+
+bettergeobook.title.steel=Steel
+bettergeobook.text.steel=Steel is an iron alloy which is used in almost everything, from airplanes and cars to electronics, buildings and cutlery. There are many types of steel, like extra strong or light, depending on which elements are used in the alloy. The main element is however iron.
+bettergeobook.title.bronze=Bronze
+bettergeobook.text.bronze=Bronze is an alloy of copper and tin. Bronze is resistant and easy to cast. It began to be used already over 4,000 years ago in anything from tools to statues. Today, bronze is used in for example machines, music instruments and coins.
+bettergeobook.title.brass=Brass
+bettergeobook.text.brass=Brass is an alloy of copper and zinc. Brass with a low copper content is often red. The brass becomes more yellow as more zinc is added. The zinc content in brass is commonly between 5 and 45 percent.
+bettergeobook.title.slag=Slag
+bettergeobook.text.slag=Slag is what is left after processing the rocks for the elements you want. Some elements can however not be recovered, but is left in the slag. With modern techniques, the slag may be recycled and even more elements can be recovered!
+bettergeobook.title.ash=Ash
+bettergeobook.text.ash=Ash is formed when minerals are processed in a smelter. It is like fine sand and spreads easily with the wind. Ash often contains several metals, for example titanium. If enough ash can be gathered it is possible to recover metals from it!
+
+
+
+
+
+
