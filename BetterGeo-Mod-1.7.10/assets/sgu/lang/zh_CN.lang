@@ -221,25 +221,25 @@ item.diode.name=铜中继器
 item.comparator.name=铜比较器
 
 #Messages
-panning.notallowed=Panning can only be done on sand below water that are in or close to a river or a beach
-monsterscanner.nocharge=The monster scanner has no charge
-conductivitymeter.nocharge=The conductivity meter has no charge
+panning.notallowed=只能在河流或海滩中或附近的水下沙子上进行平移
+monsterscanner.nocharge=怪物扫描仪不收费
+conductivitymeter.nocharge=电导仪不带电
 
 #Text
-sgubook.text.1=BetterGeo – a geological mod from The Geological Survey of Sweden.
-sgubook.text.2=We want more people to discover how fun, interesting and important geology is.
-sgubook.text.3=Therefore we have created BetterGeo!
-sgubook.text.4=More about geology at: www.sgu.se/en
+sgubook.text.1=BetterGeo–来自瑞典地质调查局的地质 mod
+sgubook.text.2=我们希望更多的人发现地质学是多么有趣、有趣和重要。
+sgubook.text.3=因此我们创建了 BetterGeo！
+sgubook.text.4=有关地质的更多信息，请访问：www.sgu.se/en
 
-farmland.nofarm_blocky=It's not possible to farm on blocky moraine
+farmland.nofarm_blocky=不可能在块状冰碛上耕种
 
-defibrillator.use=Your life was saved by your defibrillator!
+defibrillator.use=您的除颤器挽救了您的生命！
 
-sandpaper.usage=Don't use the sandpaper, break the block with it instead
+sandpaper.usage=不要使用砂纸，而是用它打破块
 
-batterycharger.lithiumbatterycharge=You can't charge the battery directly. Build an item with a battery and charge that instead
+batterycharger.lithiumbatterycharge=不能直接给电池充电。 用电池制作物品并为其充电
 
-death.attack.pollution=%1$s killed by pollution
+death.attack.pollution=%1$s 被污染杀死
 
 achievement.feldspar=世界上最常见的石头
 achievement.feldspar.desc=在伟晶岩、花岗岩或片麻岩中寻找长石
