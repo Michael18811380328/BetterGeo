@@ -122,20 +122,20 @@ item.BauxiteSlag.name=铝土矿矿渣
 item.GabbroSlag.name=辉长岩矿渣
 item.SlagWaste.name=废渣
 item.Jetpack.name=喷气背包
-item.FireProximitySuitHelmet.name=Fire Proximity Suit Helmet
-item.FireProximitySuitChestplate.name=Fire Proximity Suit Chestplate
-item.FireProximitySuitLeggings.name=Fire Proximity Suit Leggings
-item.FireProximitySuitBoots.name=Fire Proximity Suit Boots
-item.Defibrillator.name=Defibrillator
-item.SandPaper.name=Sand Paper
-item.BetterGeoBook.name=BetterGeo Book
-item.MetalBoat.name=Metal Boat
-item.ConductivityMeter.name=Electrical Conductivity Meter
-item.Brachiopod.name=Brachiopod
-item.Ammonite.name=Ammonite
-item.Trilobite.name=Trilobite
-item.CompostEarth.name=Compost Earth
-item.PeatPellets.name=泥炭 Pellets
+item.FireProximitySuitHelmet.name=防火套装头盔
+item.FireProximitySuitChestplate.name=防火套装胸甲
+item.FireProximitySuitLeggings.name=防火套装护腿
+item.FireProximitySuitBoots.name=防火套装靴子
+item.Defibrillator.name=除颤器
+item.SandPaper.name=砂纸
+item.BetterGeoBook.name=BetterGeo 书籍
+item.MetalBoat.name=金属船
+item.ConductivityMeter.name=电导率仪
+item.Brachiopod.name=腕足动物
+item.Ammonite.name=菊石
+item.Trilobite.name=三叶虫
+item.CompostEarth.name=堆肥土
+item.PeatPellets.name=泥炭颗粒
 
 
 tile.sguStoneSlab1.diabase.name=辉绿岩石板
@@ -188,8 +188,8 @@ tile.sguStoneStair.Shale.name=页岩楼梯
 tile.sguStoneBrickStair.Shalebrick.name=页岩石楼梯
 tile.sguStoneStair.Skarn.name=矽卡岩楼梯
 tile.sguStoneStair.SGUSandstone.name=砂岩楼梯
-tile.sguStoneStair.SGUSandstoneChiseled.name=Chiseled Sandstone楼梯
-tile.sguStoneStair.SGUSandstoneSmooth.name=Smooth Sandstone楼梯
+tile.sguStoneStair.SGUSandstoneChiseled.name=錾制砂岩楼梯
+tile.sguStoneStair.SGUSandstoneSmooth.name=平滑砂岩楼梯
 tile.betterGeoBookShelfRock.name=岩石书架
 tile.betterGeoBookShelfMetallurgy.name=冶金书架
 tile.betterGeoBookShelfMineral.name=矿物书架
@@ -211,14 +211,14 @@ container.rock=岩石书架
 #Redstone to Copper
 
 tile.redstoneDust.name=铜尘
-tile.oreRedstone.name=铜 Ore
+tile.oreRedstone.name=铜矿
 item.redstone.name=铜
-tile.redstoneLight.name=铜 Lamp
-tile.notGate.name=铜 Torch
+tile.redstoneLight.name=铜灯
+tile.notGate.name=铜火把
 itemGroup.redstone=铜
-tile.blockRedstone.name=块状Copper
-item.diode.name=铜 Repeater
-item.comparator.name=铜 Comparator
+tile.blockRedstone.name=铜块
+item.diode.name=铜中继器
+item.comparator.name=铜比较器
 
 #Messages
 panning.notallowed=Panning can only be done on sand below water that are in or close to a river or a beach
