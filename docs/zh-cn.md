@@ -4,7 +4,9 @@
 
 [主页](https://translate.baiducontent.com/transpage?cb=translateCallback&ie=utf8&source=url&query=http%3A%2F%2Fwww.9minecraft.net%2F&from=en&to=zh&token=&monLang=zh)»[Mods](https://translate.baiducontent.com/transpage?cb=translateCallback&ie=utf8&source=url&query=http%3A%2F%2Fwww.9minecraft.net%2Fcategory%2Fminecraft-mods%2F&from=en&to=zh&token=&monLang=zh)»BetterGeo Mod 1.12.2/1.7.10（更好的地质模组）
 
-作者：斯古斯韦登❘ 2019年8月10日❘17450个意见
+原作者：斯古斯韦登❘ 2019年8月10日
+
+译者：Michael An
 
 BetterGeo Mod 1.12.2/1.7.10 为游戏《MineCraft》添加了真实的地质。这包括添加新的岩石和矿物，以及在山区和基岩中进行真实的分层。这个模块还为你新发现的资源添加了技术和其他应用程序。
 
@@ -131,7 +133,7 @@ BetterGeo为游戏引入了不同的土壤类型。土壤具有不同的性质�
 
 ![BetterGeo Mod截图7](http://www.9minecraft.net/wp-content/uploads/2018/08/BetterGeo-Mod-Screenshots-7.jpg)
 
-波达唑
+灰壤
 
 ![BetterGeo Mod截图8](http://www.9minecraft.net/wp-content/uploads/2018/08/BetterGeo-Mod-Screenshots-8.jpg)
 
